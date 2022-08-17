@@ -1,0 +1,20 @@
+{
+    "title": "CLDF dataset accompanying Zariquiey et al.'s \"Body Part Terminology in Pano\" from 2022",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [],
+    "contributors": [],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>PENDING REVIEW</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-4.0"
+    }
+}

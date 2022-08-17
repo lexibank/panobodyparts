@@ -1,0 +1,182 @@
+NUMBER	ENGLISH	SPANISH	CONCEPTICON_ID	CONCEPTICON_GLOSS
+1	I	yo	1209	I
+2	all	todos	98	ALL
+3	animal	animal	619	ANIMAL
+4	ashes	ceniza	646	ASH
+5	back [of body]	espalda	2323	BACK (PART)
+6	bad	malo	1292	BAD
+7	bark [of tree]	corteza	1204	BARK
+8	belly	barriga	1251	BELLY
+9	big	grande	1202	BIG
+10	bird	pajaro	937	BIRD
+11	bite	morder	1403	BITE
+12	black	negro	163	BLACK
+13	blood	sangre	946	BLOOD
+14	blow [wind]	soplar	175	BLOW (OF WIND)
+15	bone	hueso	1394	BONE
+16	breathe	respirar	1407	BREATHE
+17	burn [tr. v.]	quemar	141	BURN (SOMETHING)
+18	child	niño	1304	CHILD (YOUNG HUMAN)
+19	cloud	nube	1489	CLOUD
+20	cold [weather]	frio	2483	COLD (OF WEATHER)
+21	come	venir	1446	COME
+22	count [verb]	contar	1420	COUNT
+23	cut [verb]	cortar	1432	CUT
+24	day [daytime]	dia (de dia)	1225	DAY (NOT NIGHT)
+25	die	morir	1494	DIE
+26	dig	cavar escarbar	1418	DIG
+27	dirty	sucio	1230	DIRTY
+28	dog	perro	2009	DOG
+29	drink [verb]	beber tomar	1401	DRINK
+30	dry [adj./v.]	seco	1398	DRY
+31	dull [knife]	desafilado embotado	379	BLUNT
+32	dust	polvo	2	DUST
+33	ear	oreja	1247	EAR
+34	earth [soil]	tierra	1228	EARTH (SOIL)
+35	eat	comer	1336	EAT
+36	egg	huevo	744	EGG
+37	eye	ojo	1248	EYE
+38	fall [drop]	caer(-se)	1280	FALL
+39	far	lejos	1406	FAR
+40	fat (grease)	grasa	323	FAT (ORGANIC SUBSTANCE)
+41	father	padre	1217	FATHER
+42	fear [verb]	temer	1419	FEAR (BE AFRAID)
+43	feather [large]	pluma	1201	FEATHER
+44	few	pocos	1242	FEW
+45	fight	pelear luchar	1423	FIGHT
+46	fire	fuego	221	FIRE
+47	fish [noun]	pez pescado	227	FISH
+48	float	flotar rebalsar	1574	FLOAT
+49	flow	fluir	2003	FLOW
+50	flower	flor	239	FLOWER
+51	fly [verb]	volar	1441	FLY (MOVE THROUGH AIR)
+52	fog	neblina	249	FOG
+53	foot	pie	1301	FOOT
+54	fruit (berry)	fruta	1507	FRUIT
+55	give	dar	1447	GIVE
+56	good	bueno	1035	GOOD
+57	grass	hierba	606	GRASS
+58	green [color]	verde	1425	GREEN
+59	guts	tripas intestinos	1334	GUTS
+60	hair	cabello pelo	1040	HAIR
+61	hand	mano	1277	HAND
+62	he	el	1211	HE
+63	head	cabeza	1256	HEAD
+64	hear	oir	1408	HEAR
+65	heart	corazon	1223	HEART
+66	heavy	pesado	1210	HEAVY
+67	here	aqui aca	136	HERE
+68	hit	golpear pegar	1433	HIT
+69	hold [in hand]	agarrar sostener	1448	HOLD
+70	how [interr.]	como	1239	HOW
+71	hunt	cazar	1435	HUNT
+72	husband	esposo marido	1200	HUSBAND
+73	kill	matar	1417	KILL
+74	know [facts]	saber	1410	KNOW (SOMETHING)
+75	lake	lago	624	LAKE
+76	laugh	reir	1355	LAUGH
+77	leaf	hoja	628	LEAF
+78	leg	pierna	1297	LEG
+79	lie [be lying down]	echar(-se)	215	LIE DOWN
+80	live	vivir	1422	BE ALIVE
+81	liver	higado	1224	LIVER
+82	long	largo	1203	LONG
+83	louse	piojo	1392	LOUSE
+84	man [male]	hombre	1554	MAN
+85	many	muchos	1198	MANY
+86	meat (flesh)	carne	634	MEAT
+87	mother	madre	1216	MOTHER
+88	mountain	montaña (hill = cerro loma)	639	MOUNTAIN
+89	mouth	boca	674	MOUTH
+90	name	nombre	1405	NAME
+91	narrow	angosto estrecho	1267	NARROW
+92	near	cerca	1942	NEAR
+93	neck	cuello	1333	NECK
+94	new	nuevo	1231	NEW
+95	night	noche	1233	NIGHT
+96	nose	nariz	1221	NOSE
+97	old [adj.]	viejo	1229	OLD
+98	one	uno	1493	ONE
+99	other	otro	197	OTHER
+100	person (human)	persona	683	PERSON
+101	play	jugar	1413	PLAY
+102	pull	jalar	1455	PULL
+103	push	empujar	1452	PUSH
+104	rain	lluvia	658	RAIN (PRECIPITATION)
+105	red	rojo	156	RED
+106	river	rio	666	RIVER
+107	road (path)	carretera (camino trocha sendero)	667	ROAD
+108	root	raiz	670	ROOT
+109	rope (cord)	cuerda soga	362	STRING
+110	rotten [log]	podrido	1728	ROTTEN
+111	rub	sobar frotar	1449	RUB
+112	salt	sal	1274	SALT
+113	sand	arena	671	SAND
+114	say	decir	1458	SAY
+115	scratch [an itch]	rascar	1436	SCRATCH
+116	see	ver	1409	SEE
+117	seed	semilla	714	SEED
+118	sew	coser	1457	SEW
+119	sharp [knife]	filudo filoso	1396	SHARP
+120	short	corto bajo (vertical)	1645	SHORT
+121	sing	cantar	1261	SING
+122	sit	sentar(-se)	1649	SIT DOWN
+123	skin [of person]	piel	2613	SKIN (HUMAN)
+124	sky	cielo	1732	SKY
+125	sleep	dormir	1585	SLEEP
+126	small	pequeño	1246	SMALL
+127	smell [tr. v.]	oler	1586	SMELL (PERCEIVE)
+128	smoke [noun]	humo	778	SMOKE (EXHAUST)
+129	smooth	liso	1234	SMOOTH
+130	snake	culebra	730	SNAKE
+131	some	algunos	1241	SOME
+132	spit [verb]	escupir	1440	SPIT
+133	split	partir hender	1437	SPLIT
+134	squeeze	apretar	1414	SQUEEZE
+135	stab [or pierce]	penetrar (perforando)	1434	STAB
+136	stand	parar(-se)	570	STAND UP
+137	star	estrella	1430	STAR
+138	stick [of wood]	palo	1295	STICK
+139	stone	piedra	857	STONE
+140	straight	recto derecho	1404	STRAIGHT
+141	suck	chupar	1421	SUCK
+142	sun	sol	1343	SUN
+143	swell	hinchar	1573	SWELL
+144	swim	nadar	1439	SWIM
+145	tail	rabo cola	1220	TAIL
+146	they	ellos	817	THEY
+147	thick	grueso	1244	THICK
+148	thin	delgado	1400	THIN (SLIM)
+149	think	pensar	2271	THINK
+150	this	este	1214	THIS
+151	thou [you]	usted tu	1215	THOU
+152	throw	tirar lanzar	1456	THROW
+153	tie [verb]	atar amarrar	1917	TIE
+154	tongue	lengua	1205	TONGUE
+155	tooth [front]	diente	1380	TOOTH
+156	tree	arbol	906	TREE
+157	turn [intr. v.]	voltear(se) girar	1588	TURN
+158	two	dos	1498	TWO
+159	vomit [verb]	vomitar	1278	VOMIT
+160	walk	caminar andar (more general)	1443	WALK
+161	warm (hot weather)	caliente	2110	WARM (OF WEATHER)
+162	wash	lavar	1453	WASH
+163	water	agua	948	WATER
+164	we	nosotros	1212	WE
+165	wet	mojado	1726	WET
+166	what [interr.]	que	1236	WHAT
+167	when [interr.]	cuando	1238	WHEN
+168	where [interr.]	donde	1237	WHERE
+169	white	blanco	1335	WHITE
+170	who [interr.]	quien	1235	WHO
+171	wide	ancho	1243	WIDE
+172	wife	esposa	1199	WIFE
+173	wind [breeze]	viento	960	WIND
+174	wing	ala	1257	WING
+175	wipe	limpiar enjugar	1454	WIPE
+176	woman	mujer	962	WOMAN
+177	woods (forest)	bosque (= monte in Peru)	420	FOREST
+178	worm (i.e. earthworm)	lombriz (gusano = grub)	2350	EARTHWORM
+179	ye [you all]	ustedes vosotros	1213	YOU
+180	year	año	1226	YEAR
+181	yellow	amarillo	1424	YELLOW
