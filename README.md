@@ -33,6 +33,18 @@ Available online at https://github.com/lexibank/panobodyparts
 - **Segments:** 46 (0 BIPA errors, 0 CLTS sound class errors, 46 CLTS modified)
 - **Inventory size (avg):** 19.15
 
+# Contributors
+
+Name | GitHub user | Description | Role |
+--- | --- | --- | --- |
+Roberto Zariquiey | | data collection and cognate judgments | Author
+Pilar Valenzuela | | data collection | Author
+Simon Greenhill | | code for data analysis | Author
+Johann-Mattis List | @LinguList| orthography profile, CLDF conversion | Author
+
+
+
+
 ## CLDF Datasets
 
 The following CLDF datasets are available in [cldf](cldf):

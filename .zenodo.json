@@ -5,7 +5,20 @@
         "cldf:Wordlist",
         "linguistics"
     ],
-    "creators": [],
+    "creators": [
+        {
+            "name": "Roberto Zariquiey"
+        },
+        {
+            "name": "Pilar Valenzuela"
+        },
+        {
+            "name": "Simon Greenhill"
+        },
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
     "contributors": [],
     "communities": [
         {
