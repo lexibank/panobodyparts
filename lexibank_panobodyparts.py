@@ -74,15 +74,16 @@ class Dataset(BaseDataset):
         wl = lingpy.Wordlist(str(self.raw_dir / "pano.tsv"))
         concepts = {}
         for concept in self.concepts:
-            idx = concept["NUMBER"] + "_" + slug(concept["ENGLISH"])
-            args.writer.add_concept(
-                    ID=idx,
-                    Name=concept["ENGLISH"],
-                    Spanish_Gloss=concept["SPANISH"],
-                    Concepticon_ID=concept["CONCEPTICON_ID"],
-                    Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
-                    )
-            concepts[concept["ENGLISH"]] = idx
+            if concept["ENGLISH"] in CONCEPTS:
+                idx = concept["NUMBER"] + "_" + slug(concept["ENGLISH"])
+                args.writer.add_concept(
+                        ID=idx,
+                        Name=concept["ENGLISH"],
+                        Spanish_Gloss=concept["SPANISH"],
+                        Concepticon_ID=concept["CONCEPTICON_ID"],
+                        Concepticon_Gloss=concept["CONCEPTICON_GLOSS"]
+                        )
+                concepts[concept["ENGLISH"]] = idx
     
         for language in self.languages:
             if language["ID"] in LANGUAGES:

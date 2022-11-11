@@ -1,16 +1,18 @@
-# CLDF dataset accompanying Zariquiey et al.'s "Body Part Terminology in Pano" from 2022
+# CLDF dataset accompanying Zariquiey et al.'s "Evolution of Body-Part Terminology in Pano" from 2022
 
 ## How to cite
 
 If you use these data please cite
 - the original source
-  > PENDING REVIEW
+  > Zariquiey, Roberto ... (forthcoming): Untangling the evolution of body-part terminology in Pano: conservative vs. innovative traits in body-part lexicalization. Royal Society Interface.
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
 
 
 This dataset is licensed under a CC-BY-4.0 license
+
+Available online at https://github.com/lexibank/panobodyparts
 
 ## Statistics
 

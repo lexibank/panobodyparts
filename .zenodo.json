@@ -1,5 +1,5 @@
 {
-    "title": "CLDF dataset accompanying Zariquiey et al.'s \"Body Part Terminology in Pano\" from 2022",
+    "title": "CLDF dataset accompanying Zariquiey et al.'s \"Evolution of Body-Part Terminology in Pano\" from 2022",
     "access_right": "open",
     "keywords": [
         "cldf:Wordlist",
@@ -13,7 +13,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>PENDING REVIEW</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Zariquiey, Roberto ... (forthcoming): Untangling the evolution of body-part terminology in Pano: conservative vs. innovative traits in body-part lexicalization. Royal Society Interface.</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }
