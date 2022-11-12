@@ -1,0 +1,29 @@
+Language           ,ma,ßu,wi,pi,pu,ʂo,ʂka
+Amawaka            ,1 ,  ,  ,  , 1,  ,
+Arara              ,1 ,1 ,  ,  , 1,  , 1
+Chakobo            ,1 ,  ,  ,  , 1,  ,
+Chaninawa          ,1 ,  ,  ,  ,  ,  , 1
+Iskonawa           ,  ,1 ,  ,  ,  ,  , 1
+Kakataibo          ,1 ,  ,  ,  ,  ,  , 1
+Kanamari           ,1 ,  ,  ,  , 1,  ,
+Kapanawa           ,1 ,  ,  ,  , 1,  ,
+Kashinawa_B        ,  ,1 ,  ,  ,  ,  , 1
+Kashinawa_P        ,  ,1 ,  ,  ,  ,  , 1
+Katukina           ,1 ,  ,  ,  , 1,  ,
+Kaxarari           ,  ,  , 1,  ,  ,  , 1
+Korubo             ,  ,  ,  ,  ,  ,  ,
+Kulina             ,  ,  ,  ,  ,  ,  ,
+Marinawa           ,1 ,1 ,  ,  , 1,  , 1
+Marubo             ,1 ,  ,  ,  , 1,  ,
+Mastanawa          ,1 ,  ,  ,  , 1,  ,
+Matis              ,1 ,  ,  ,  ,  , 1,
+Matses             ,1 ,  ,  , 1,  ,  ,
+Nawa               ,1 ,  ,  ,  , 1,  ,
+Nukini             ,1 ,  ,  ,  , 1,  ,
+Pakawara           ,1 ,  ,  ,  , 1,  ,
+Poyanawa           ,  ,1 ,  ,  ,  ,  , 1
+Shanenawa          ,1 ,  ,  ,  , 1,  ,
+Sharanawa          ,1 ,  ,  ,  , 1,  ,
+Shipibo_Konibo     ,1 ,  ,  ,  , 1,  ,
+Yaminawa           ,1 ,  ,  ,  , 1,  ,
+Yawanawa           ,1 ,  ,  ,  , 1,  ,

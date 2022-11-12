@@ -1,0 +1,28 @@
+Matis              Pano, Northern
+Matses             Pano, Northern
+Korubo             Pano, Northern
+Kulina             Pano, Northern
+Kaxarari           Pano, South-Eastern
+Kakataibo          Pano, Western
+Kapanawa           Pano, Central Southern, Ucayali
+Shipibo_Konibo     Pano, Central Southern, Ucayali
+Amawaka            Pano, Central Southern, Headwaters
+Arara              Pano, Central Southern, Headwaters
+Chaninawa          Pano, Central Southern, Headwaters
+Kashinawa_B        Pano, Central Southern, Headwaters
+Kashinawa_P        Pano, Central Southern, Headwaters
+Marinawa           Pano, Central Southern, Headwaters
+Mastanawa          Pano, Central Southern, Headwaters
+Shanenawa          Pano, Central Southern, Headwaters
+Sharanawa          Pano, Central Southern, Headwaters
+Yaminawa           Pano, Central Southern, Headwaters
+Yawanawa           Pano, Central Southern, Headwaters
+Chakobo            Pano, Central Southern, Southern
+Pakawara           Pano, Central Southern, Southern
+Kanamari           Pano, Central Southern, Marubo
+Katukina           Pano, Central Southern, Marubo
+Marubo             Pano, Central Southern, Marubo
+Iskonawa           Pano, Central Southern, Poyanawa
+Nukini             Pano, Central Southern, Poyanawa
+Poyanawa           Pano, Central Southern, Poyanawa
+Nawa               Pano, Central Southern, Poyanawa
