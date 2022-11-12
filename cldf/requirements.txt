@@ -9,6 +9,7 @@ clldutils==3.13.0
 colorama==0.4.6
 colorlog==6.7.0
 csvw==3.1.3
+defusedxml==0.7.1
 exceptiongroup==1.0.1
 gitdb==4.0.9
 greenlet==2.0.1
@@ -55,6 +56,7 @@ termcolor==2.1.0
 tqdm==4.64.1
 uritemplate==4.1.1
 urllib3==1.26.12
+wcwidth==0.2.5
 webencodings==0.5.1
 xlrd==2.0.1
 zenodoclient==0.4.1

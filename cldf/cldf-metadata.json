@@ -1,7 +1,7 @@
 {
     "@context": "http://www.w3.org/ns/csvw",
     "aboutUrl": null,
-    "dc:bibliographicCitation": "Zariquiey, Roberto ... (forthcoming): Untangling the evolution of body-part terminology in Pano: conservative vs. innovative traits in body-part lexicalization. Royal Society Interface.",
+    "dc:bibliographicCitation": "Zariquiey, Roberte; Vera, Javier; Greenhill, Simon; Valenzuela, Pilar; Gray, Russell; List, johann-Mattis (forthcoming): Untangling the evolution of body-part terminology in Pano: conservative vs. innovative traits in body-part lexicalization. Royal Society Interface Focus. DOI: https://doi.org/10.1098/rsfs.2022.0053",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:identifier": "https://github.com/lexibank/panobodyparts",
     "dc:isVersionOf": null,
@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/lexibank/panobodyparts",
             "rdf:type": "prov:Entity",
-            "dc:created": "b766d7a",
+            "dc:created": "18d9efb",
             "dc:title": "Repository"
         },
         {

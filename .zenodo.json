@@ -10,6 +10,9 @@
             "name": "Roberto Zariquiey"
         },
         {
+            "name": "Javier Vera"
+        },
+        {
             "name": "Pilar Valenzuela"
         },
         {
@@ -26,7 +29,7 @@
         }
     ],
     "upload_type": "dataset",
-    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Zariquiey, Roberto ... (forthcoming): Untangling the evolution of body-part terminology in Pano: conservative vs. innovative traits in body-part lexicalization. Royal Society Interface.</p>\n</blockquote>",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Zariquiey, Roberte; Vera, Javier; Greenhill, Simon; Valenzuela, Pilar; Gray, Russell; List, johann-Mattis (forthcoming): Untangling the evolution of body-part terminology in Pano: conservative vs. innovative traits in body-part lexicalization. Royal Society Interface Focus. DOI: https://doi.org/10.1098/rsfs.2022.0053</p>\n</blockquote>",
     "license": {
         "id": "CC-BY-4.0"
     }

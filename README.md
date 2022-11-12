@@ -4,7 +4,7 @@
 
 If you use these data please cite
 - the original source
-  > Zariquiey, Roberto ... (forthcoming): Untangling the evolution of body-part terminology in Pano: conservative vs. innovative traits in body-part lexicalization. Royal Society Interface.
+  > Zariquiey, Roberte; Vera, Javier; Greenhill, Simon; Valenzuela, Pilar; Gray, Russell; List, johann-Mattis (forthcoming): Untangling the evolution of body-part terminology in Pano: conservative vs. innovative traits in body-part lexicalization. Royal Society Interface Focus. DOI: https://doi.org/10.1098/rsfs.2022.0053
 - the derived dataset using the DOI of the [particular released version](../../releases/) you were using
 
 ## Description
@@ -38,6 +38,7 @@ Available online at https://github.com/lexibank/panobodyparts
 Name | GitHub user | Description | Role |
 --- | --- | --- | --- |
 Roberto Zariquiey | | data collection and cognate judgments | Author
+Javier Vera | | data analysis | Author
 Pilar Valenzuela | | data collection | Author
 Simon Greenhill | | code for data analysis | Author
 Johann-Mattis List | @LinguList| orthography profile, CLDF conversion | Author
