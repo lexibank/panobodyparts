@@ -24,14 +24,14 @@ Available online at https://github.com/lexibank/panobodyparts
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
 - **Varieties:** 26
-- **Concepts:** 24
-- **Lexemes:** 615
+- **Concepts:** 25
+- **Lexemes:** 637
 - **Sources:** 12
-- **Synonymy:** 1.04
+- **Synonymy:** 1.03
 - **Invalid lexemes:** 0
-- **Tokens:** 2,917
-- **Segments:** 46 (0 BIPA errors, 0 CLTS sound class errors, 46 CLTS modified)
-- **Inventory size (avg):** 19.15
+- **Tokens:** 3,031
+- **Segments:** 43 (0 BIPA errors, 0 CLTS sound class errors, 43 CLTS modified)
+- **Inventory size (avg):** 19.12
 
 # Contributors
 

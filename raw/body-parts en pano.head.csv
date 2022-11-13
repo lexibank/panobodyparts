@@ -1,0 +1,30 @@
+,,,,,,,,,,ROOT,ROOT,FORMATIVE,FORMATIVE,FORMATIVE,FORMATIVE
+ID,DOCULECT,CONCEPT,SPANISH,VALUE,FORM,TOKENS,MORPHEMES,COGIDS,NOTES,77,81,180,184,76,79
+534,Matis,head,cabeza,maʂo,maʂo,m a + ʂ o,head _ʂo,77 180,,1,0,1,1,0,0
+533,Matses,head,cabeza,mapi,mapi,m a + p i,head _pi,77 184,,1,0,0,0,0,0
+535,Marubo,head,cabeza,mapu,mapu,m a + p u,head _pu,77 76,,1,0,0,0,1,0
+536,Katukina,head,cabeza,mapu,mapu,m a + p u,head _pu,77 76,,1,0,0,0,1,0
+537,Kanamari,head,cabeza,mapu,mapu,m a + p u,head _pu,77 76,!,1,0,0,0,1,0
+538,Shipibo_Konibo,head,cabeza,mapu,mapu,m a + p u,head _pu,77 76,,1,0,0,0,1,0
+539,Kapanawa,head,cabeza,mapu,mapu,m a + p u,head _pu,77 76,!,1,0,0,0,1,0
+540,Arara,head,cabeza,bapu,bapu,b a + p u,head _pu,77 76,,1,0,0,0,1,0
+542,Shanenawa,head,cabeza,mapu,mapu,m a + p u,head _pu,77 76,,1,0,0,0,1,0
+543,Yawanawa,head,cabeza,mapu,mapu,m a + p u,head _pu,77 76,,1,0,0,0,1,0
+544,Nukini,head,cabeza,mapu,mapu,m a + p u,head _pu,77 76,,1,0,0,0,1,0
+547,Chakobo,head,cabeza,mapu,mapu,m a + p u,head _pu,77 76,!,1,0,0,0,1,0
+548,Pakawara,head,cabeza,mapu,mapu,m a + p u,head _pu,77 76,,1,0,0,0,1,0
+551,Mastanawa,head,cabeza,bapu,bapu,b a + p u,head _pu,77 76,,1,0,0,0,1,0
+553,Sharanawa,head,cabeza,bapu,bapu,b a + p u,head _pu,77 76,,1,0,0,0,1,0
+554,Amawaka,head,cabeza,mapu,mapu,m a + p u,head _pu,77 76,!,1,0,0,0,1,0
+555,Nawa,head,cabeza,ba:pu,ba:pu,b aː + p u,head _pu,77 76,,1,0,0,0,1,0
+556,Marinawa,head,cabeza,bapu,bapu,b a + p u,head _pu,77 76,,1,0,0,0,1,0
+558,Yaminawa,head,cabeza,bapu,bapu,b a + p u,head _pu,77 76,,1,0,0,0,1,0
+549,Kakataibo,head,cabeza,maʂka,maʂka,m a + ʂ k a,head _ʂka,77 79,!,1,0,0,0,0,1
+552,Chaninawa,head,cabeza,basakati,basakati,b a + s k a t i,head _ʂkati,77 79,!,1,0,0,0,0,1
+541,Arara,head,cabeza,βuʃka,βuʃka,β u + ʃ k a,hair _ʂka,81 79,,0,1,0,0,0,1
+545,Poyanawa,head,cabeza,βuhka,βuhka,β u + h k a,hair _ʂka,81 79,,0,1,0,0,0,1
+546,Iskonawa,head,cabeza,βuhka,βuhka,β u + h k a,hair _ʂka,81 79,!,0,1,0,0,0,1
+557,Marinawa,head,cabeza,ɸuʂka,ɸuʂka,ɸ u + ʂ k a,hair _ʂka,81 79,,0,1,0,0,0,1
+559,Kashinawa_P,head,cabeza,βuʂka,βuʂka,β u + ʂ k a,hair _ʂka,81 79,,0,1,0,0,0,1
+560,Kashinawa_B,head,cabeza,βuʂka,βuʂka,β u + ʂ k a,hair _ʂka,81 79,,0,1,0,0,0,1
+550,Kaxarari,head,cabeza,wɨʂkata,wɨʂkata,w ɨ + ʂ k a t a,forehead _ʂka,81 79,,0,1,0,0,0,1

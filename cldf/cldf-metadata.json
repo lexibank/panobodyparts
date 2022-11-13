@@ -14,7 +14,7 @@
         {
             "rdf:about": "https://github.com/lexibank/panobodyparts",
             "rdf:type": "prov:Entity",
-            "dc:created": "18d9efb",
+            "dc:created": "68034c7",
             "dc:title": "Repository"
         },
         {
@@ -55,7 +55,7 @@
     "tables": [
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#FormTable",
-            "dc:extent": 615,
+            "dc:extent": 637,
             "tableSchema": {
                 "columns": [
                     {
@@ -132,6 +132,16 @@
                     {
                         "datatype": "string",
                         "name": "Motivation_Structure"
+                    },
+                    {
+                        "dc:description": "cognacy judged by the root",
+                        "datatype": "string",
+                        "name": "RootCognacy"
+                    },
+                    {
+                        "dc:description": "cognacy judged by the formative",
+                        "datatype": "string",
+                        "name": "FormativeCognacy"
                     }
                 ],
                 "foreignKeys": [
@@ -248,7 +258,7 @@
         },
         {
             "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#ParameterTable",
-            "dc:extent": 24,
+            "dc:extent": 25,
             "tableSchema": {
                 "columns": [
                     {

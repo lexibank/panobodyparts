@@ -1,616 +1,638 @@
-ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Partial_Cognacy,Motivation_Structure
-Matses-63_head-1,,Matses,63_head,mapi,mapi,m a + p i,,fleck2005,554,,,,77 184,head _pi
-Matis-63_head-1,,Matis,63_head,maʂo,maʂo,m a + ʂ o,,fleck2005,554,,,,77 180,head _ʂo
-Marubo-63_head-1,,Marubo,63_head,mapu,mapu,m a + p u,,fleck2005,554,,,,77 76,head _pu
-Katukina-63_head-1,,Katukina,63_head,mapu,mapu,m a + p u,,aguiar1994,554,,,,77 76,head _pu
-Kanamari-63_head-1,,Kanamari,63_head,mapu,mapu,m a + p u,,aguiar1994,554,,,,77 76,head _pu
-Shipibo_Konibo-63_head-1,,Shipibo_Konibo,63_head,mapu,mapu,m a + p u,,fleck2005,554,,,,77 76,head _pu
-Kapanawa-63_head-1,,Kapanawa,63_head,mapu,mapu,m a + p u,,loos1998,554,,,,77 76,head _pu
-Shanenawa-63_head-1,,Shanenawa,63_head,mapu,mapu,m a + p u,,lanes2005,554,,,,77 76,head _pu
-Yawanawa-63_head-1,,Yawanawa,63_head,mapu,mapu,m a + p u,,paula1992,554,,,,77 76,head _pu
-Nukini-63_head-1,,Nukini,63_head,mapu,mapu,m a + p u,,aguiar2004,554,,,,77 76,head _pu
-Poyanawa-63_head-1,,Poyanawa,63_head,βuhka,βuhka,β u + h k a,,paula1992,555,,,,81 79,hair _ʂka
-Iskonawa-63_head-1,,Iskonawa,63_head,βuhka,βuhka,β u + h k a,,zariquiey2017,555,,,,81 79,hair _ʂka
-Chakobo-63_head-1,,Chakobo,63_head,mapu,mapu,m a + p u,,zingg1998,554,,,,77 76,head _pu
-Pakawara-63_head-1,,Pakawara,63_head,mapu,mapu,m a + p u,,key2000,554,,,,77 76,head _pu
-Kakataibo-63_head-1,,Kakataibo,63_head,maʂka,maʂka,m a + ʂ k a,,zariquiey2017,555,,,,77 79,head _ʂka
-Kaxarari-63_head-1,,Kaxarari,63_head,wɨʂkata,wɨʂkata,w ɨ + ʂ k a t a,,couto2005,0,,,,0 79,forehead _ʂkata
-Mastanawa-63_head-1,,Mastanawa,63_head,bapu,bapu,b a + p u,,zariquiey2017,554,,,,77 76,head _pu
-Chaninawa-63_head-1,,Chaninawa,63_head,βasakati,basakati,b a + s k a t i,,zariquiey2017,555,,,,77 79,head _ʂka
-Sharanawa-63_head-1,,Sharanawa,63_head,bapu,bapu,b a + p u,,zariquiey2017,554,,,,77 76,head _pu
-Amawaka-63_head-1,,Amawaka,63_head,mapu,mapu,m a + p u,,zariquiey2017,554,,,,77 76,head _pu
-Nawa-63_head-1,,Nawa,63_head,ba:pu,bapu,b a + p u,,zariquiey2017,554,,,,77 76,head _pu
-Marinawa-63_head-1,,Marinawa,63_head,bapu,bapu,b a + p u,,zariquiey2017,554,,,,77 76,head _pu
-Marinawa-63_head-2,,Marinawa,63_head,ɸuʂka,ɸuʂka,ɸ u + ʂ k a,,zariquiey2017,555,,,,81 79,hair _ʂka
-Yaminawa-63_head-1,,Yaminawa,63_head,bapu,bapu,b a + p u,,zariquiey2017,554,,,,77 76,head _pu
-Kashinawa_P-63_head-1,,Kashinawa_P,63_head,βuʂka,βuʂka,β u + ʂ k a,,zariquiey2017,555,,,,81 79,hair _ʂka
-Kashinawa_B-63_head-1,,Kashinawa_B,63_head,βuʂka,βuʂka,β u + ʂ k a,,camargo1995,555,,,,81 79,hair _ʂka
-Araona-63_head-1,,Araona,63_head,e-šoa,ešoa,e + ʃ o a,,pitman1981,556,,,,75 83,_:suffix/e head
-Matses-60_hair-1,,Matses,60_hair,βu,manɨdaid,m a + n ɨ d a i d,,fleck2005,539,,,,77 83,head _nëdaid
-Matis-60_hair-1,,Matis,60_hair,ʂakkete,ʂakkete,ʂ a k k e t e,,fleck2005,543,,,,58,sakkete
-Marubo-60_hair-1,,Marubo,60_hair,βu,βu,β u,,fleck2005,539,,,,9,hair
-Katukina-60_hair-1,,Katukina,60_hair,βuu,βuu,β u,,aguiar1994,539,,,,9,hair
-Kanamari-60_hair-1,,Kanamari,60_hair,βuu,βuu,β u,,aguiar1994,539,,,,9,hair
-Shipibo_Konibo-60_hair-1,,Shipibo_Konibo,60_hair,βu,βu,β u,,fleck2005,539,,,,9,hair
-Kapanawa-60_hair-1,,Kapanawa,60_hair,βu,βu,β u,,loos1998,539,,,,9,hair
-Shanenawa-60_hair-1,,Shanenawa,60_hair,ɸu,ɸu,ɸ u,,lanes2005,539,,,,9,hair
-Yawanawa-60_hair-1,,Yawanawa,60_hair,βu,βu,β u,,paula1992,539,,,,9,hair
-Nukini-60_hair-1,,Nukini,60_hair,βu,βu,β u,,aguiar2004,539,,,,9,hair
-Poyanawa-60_hair-1,,Poyanawa,60_hair,βu,βu,β u,,paula1992,539,,,,9,hair
-Iskonawa-60_hair-1,,Iskonawa,60_hair,βu,βu,β u,,zariquiey2017,539,,,,9,hair
-Chakobo-60_hair-1,,Chakobo,60_hair,βu,βu,β u,,zingg1998,539,,,,9,hair
-Pakawara-60_hair-1,,Pakawara,60_hair,wuu,wuu,w u u,,key2000,539,,,,9,hair
-Kakataibo-60_hair-1,,Kakataibo,60_hair,βu,βu,β u,,zariquiey2017,539,,,,9,hair
-Kaxarari-60_hair-1,,Kaxarari,60_hair,wɨʂkatʃani,βɨʂkatʃani,β ɨ + ʂ k a + tʃ a n i,,couto2005,542,,,,81 79 10,forehead _ʂka bodyhair
-Mastanawa-60_hair-1,,Mastanawa,60_hair,fuʔu,fuʔu,f u ʔ u,,zariquiey2017,539,,,,9,hair
-Chaninawa-60_hair-1,,Chaninawa,60_hair,ɸu,ɸu,ɸ u,,zariquiey2017,539,,,,9,hair
-Sharanawa-60_hair-1,,Sharanawa,60_hair,ɸu,ɸu,ɸ u,,zariquiey2017,539,,,,9,hair
-Amawaka-60_hair-1,,Amawaka,60_hair,βu,βu,β u,,zariquiey2017,539,,,,9,hair
-Nawa-60_hair-1,,Nawa,60_hair,ɸuʔu,ɸuʔu,ɸ u ʔ u,,zariquiey2017,539,,,,9,hair
-Marinawa-60_hair-1,,Marinawa,60_hair,ɸuʔu,ɸuʔu,ɸ u ʔ u,,zariquiey2017,539,,,,9,hair
-Yaminawa-60_hair-1,,Yaminawa,60_hair,hu,hu,ɸ u,,zariquiey2017,539,,,,9,hair
-Kashinawa_P-60_hair-1,,Kashinawa_P,60_hair,βu,βu,β u,,zariquiey2017,539,,,,9,hair
-Kashinawa_B-60_hair-1,,Kashinawa_B,60_hair,βu,βu,β u,,camargo1995,539,,,,9,hair
-Araona-60_hair-1,,Araona,60_hair,šoa-iɲa,šoaiɲa,ʃ o a + i ɲ a,,pitman1981,494,,,,83 84,head hair
-Matses-33_ear-1,,Matses,33_ear,paβiate,paβiate,p a + β i a t e,,fleck2005,310,,,,185 190,ear _biate
-Matis-33_ear-1,,Matis,33_ear,paβɨʂan,paβɨʂan,p a + β ɨ ʂ a n,,fleck2005,310,,,,185 186,ear _bɨsan
-Marubo-33_ear-1,,Marubo,33_ear,pantʃu,pantʃu,p a n + tʃ u,,fleck2005,310,,,,185 226,ear _tʃu
-Katukina-33_ear-1,,Katukina,33_ear,pantxu,pantxu,p a n + ʈʂ u,,aguiar1994,310,,,,185 226,ear _tʃu
-Kanamari-33_ear-1,,Kanamari,33_ear,pãtʃo,pãtʃo,p a n + tʃ o,,aguiar1994,310,,,,185 226,ear _tʃu
-Shipibo_Konibo-33_ear-1,,Shipibo_Konibo,33_ear,paβiki,paβiki,p a + β i k i,,fleck2005,310,,,,185 187,ear _binki
-Kapanawa-33_ear-1,,Kapanawa,33_ear,paβinki,paβinki,p a + β i n k i,,loos1998,310,,,,185 187,ear _binki
-Shanenawa-33_ear-1,,Shanenawa,33_ear,pahinki,pahinki,p a + h i n k i,,lanes2005,310,,,,185 187,ear _binki
-Yawanawa-33_ear-1,,Yawanawa,33_ear,pahinki,pahinki,p a + h i n k i,,paula1992,310,,,,185 187,ear _binki
-Nukini-33_ear-1,,Nukini,33_ear,paβiki,paβiki,p a + β i k i,,aguiar2004,310,,,,185 187,ear _binki
-Poyanawa-33_ear-1,,Poyanawa,33_ear,pabĩki,pabĩki,p a + b ĩ k i,,paula1992,310,,,,185 187,ear _binki
-Iskonawa-33_ear-1,,Iskonawa,33_ear,paβinki,paβinki,p a + β i n k i,,zariquiey2017,310,,,,185 187,ear _binki
-Chakobo-33_ear-1,,Chakobo,33_ear,pa?uki,paʔuki,p a + ʔ u k i,,zingg1998,310,,,,185 187,ear _binki
-Pakawara-33_ear-1,,Pakawara,33_ear,pa?uki,paʔuki,p a + ʔ u k i,,key2000,310,,,,185 187,ear _ʔuki
-Kakataibo-33_ear-1,,Kakataibo,33_ear,paβi,paβi,p a + β i,,zariquiey2017,310,,,,185 187,ear _βi
-Kaxarari-33_ear-1,,Kaxarari,33_ear,isãkili,isãkili,i s ã + k i l i,,couto2005,267,,,,191 193,temple _kili
-Mastanawa-33_ear-1,,Mastanawa,33_ear,paʧu,paʧu,p a + tʃ u,,zariquiey2017,310,,,,185 226,ear _tʃu
-Chaninawa-33_ear-1,,Chaninawa,33_ear,dikati,dikati,d i k a + t i,,zariquiey2017,313,,,,194 196,hear _ti
-Sharanawa-33_ear-1,,Sharanawa,33_ear,pat͡ʃu,pat͡ʃu,p a + tʃ u,,zariquiey2017,310,,,,185 226,ear _tʃu
-Amawaka-33_ear-1,,Amawaka,33_ear,pawinki,pawinki,p a + w i n k i,,zariquiey2017,310,,,,185 187,ear _binki
-Nawa-33_ear-1,,Nawa,33_ear,paʧu,paʧu,p a + tʃ u,,zariquiey2017,310,,,,185 226,ear _tʃu
-Nawa-33_ear-2,,Nawa,33_ear,dikati,dikati,d i k a + t i,,zariquiey2017,313,,,,194 196,hear _ti
-Marinawa-33_ear-1,,Marinawa,33_ear,paɸiki,paɸiki,p a + ɸ i k i,,zariquiey2017,310,,,,185 187,ear _binki
-Yaminawa-33_ear-1,,Yaminawa,33_ear,paʧu,paʧu,p a + tʃ u,,zariquiey2017,310,,,,185 226,ear _tʃu
-Kashinawa_P-33_ear-1,,Kashinawa_P,33_ear,paβinki,paβinki,p a + β i n k i,,zariquiey2017,310,,,,185 187,ear _binki
-Kashinawa_B-33_ear-1,,Kashinawa_B,33_ear,paβĩki,paβĩki,p a + β ĩ k i,,camargo1995,310,,,,185 187,ear _binki
-Araona-33_ear-1,,Araona,33_ear,e-iza-ha,eizaha,e i z a h a,,pitman1981,267,,,,0,eizaha
-Matses-37_eye-1,,Matses,37_eye,ɨʂɨ,ɨʂɨ,ɨ ʂ ɨ,,fleck2005,332,,,,201,seed
-Matis-37_eye-1,,Matis,37_eye,βɨdu,βɨdu,β ɨ + d u,,fleck2005,330,,,,198 195,eye _ɾu
-Marubo-37_eye-1,,Marubo,37_eye,βɨru,βɨru,β ɨ + r u,,fleck2005,330,,,,198 195,eye _ɾu
-Katukina-37_eye-1,,Katukina,37_eye,βiru,βiru,β i + r u,,aguiar1994,330,,,,198 195,eye _ɾu
-Kanamari-37_eye-1,,Kanamari,37_eye,mβɨru,mβɨru,ⁿβ ɨ + r u,,aguiar1994,330,,,,198 195,eye _ɾu
-Shipibo_Konibo-37_eye-1,,Shipibo_Konibo,37_eye,βɨru,βɨru,β ɨ + r u,,fleck2005,330,,,,198 195,eye _ɾu
-Kapanawa-37_eye-1,,Kapanawa,37_eye,βɨru,βɨru,β ɨ + r u,,loos1998,330,,,,198 195,eye _ɾu
-Shanenawa-37_eye-1,,Shanenawa,37_eye,ɸɨru,ɸɨru,ɸ ɨ + r u,,lanes2005,330,,,,198 195,eye _ɾu
-Yawanawa-37_eye-1,,Yawanawa,37_eye,βɨru,βɨru,β ɨ + r u,,paula1992,330,,,,198 195,eye _ɾu
-Nukini-37_eye-1,,Nukini,37_eye,βɨrɨ,βɨrɨ,β ɨ + r u,,aguiar2004,330,,,,198 195,eye _ɾu
-Poyanawa-37_eye-1,,Poyanawa,37_eye,βɨru,βɨru,β ɨ + r u,,paula1992,330,,,,198 195,eye _ɾu
-Iskonawa-37_eye-1,,Iskonawa,37_eye,βɨɾu,βɨɾu,β ɨ + ɾ u,,zariquiey2017,330,,,,198 195,eye _ɾu
-Chakobo-37_eye-1,,Chakobo,37_eye,βɨru,βɨru,β ɨ + r u,,zingg1998,330,,,,198 195,eye _ɾu
-Pakawara-37_eye-1,,Pakawara,37_eye,wɨru,wɨru,w ɨ + r u,,key2000,330,,,,198 195,eye _ɾu
-Kakataibo-37_eye-1,,Kakataibo,37_eye,βɨro,βɨro,β ɨ + ɾ u,,zariquiey2017,330,,,,198 195,eye _ɾu
-Kaxarari-37_eye-1,,Kaxarari,37_eye,wɨtʃɨwɨ,wɨtʃɨ,w ɨ + tʃ ɨ w ɨ,,couto2005,330,,,,198 0,eye _tʃɨwɨ
-Kaxarari-37_eye-2,,Kaxarari,37_eye,βutʃu,βɨtʃu,β ɨ + tʃ u,,couto2005,241,,,,198 197,eye _tʃu
-Mastanawa-37_eye-1,,Mastanawa,37_eye,ɸɨɾu,ɸɨɾu,ɸ ɨ + ɾ u,,zariquiey2017,330,,,,198 195,eye _ɾu
-Chaninawa-37_eye-1,,Chaninawa,37_eye,ɸɨɾu,ɸɨɾu,β ɨ + ɾ u,,zariquiey2017,330,,,,198 195,eye _ɾu
-Sharanawa-37_eye-1,,Sharanawa,37_eye,ɸɨɾu,ɸɨɾu,ɸ ɨ + ɾ u,,zariquiey2017,330,,,,198 195,eye _ɾu
-Amawaka-37_eye-1,,Amawaka,37_eye,βɨɾu,βɨɾu,β ɨ + ɾ u,,zariquiey2017,330,,,,198 195,eye _ɾu
-Nawa-37_eye-1,,Nawa,37_eye,ɸɨɾu,ɸɨɾu,ɸ ɨ + ɾ u,,zariquiey2017,330,,,,198 195,eye _ɾu
-Marinawa-37_eye-1,,Marinawa,37_eye,ɸwɨɾu,ɸɨɾu,ɸ ɨ + ɾ u,,zariquiey2017,330,,,,198 195,eye _ɾu
-Yaminawa-37_eye-1,,Yaminawa,37_eye,ɸɨɾu,ɸɨɾu,ɸ ɨ + ɾ u,,zariquiey2017,330,,,,198 195,eye _ɾu
-Kashinawa_P-37_eye-1,,Kashinawa_P,37_eye,βɨɾu,βɨɾu,β ɨ + ɾ u,,zariquiey2017,330,,,,198 195,eye _ɾu
-Kashinawa_B-37_eye-1,,Kashinawa_B,37_eye,βɨdu,βɨdu,β ɨ + d u,,camargo1995,330,,,,198 195,eye _ɾu
-Araona-37_eye-1,,Araona,37_eye,e-toa,etoa,e t o a,,pitman1981,331,,,,0,etoa
-Matses-96_nose-1,,Matses,96_nose,dɨβiate,dɨβiate,d ɨ + β i a t e,,fleck2005,830,,,,151 157,nose _biate
-Matis-96_nose-1,,Matis,96_nose,dɨʂan,dɨʂan,d ɨ + ʂ a n,,fleck2005,830,,,,151 155,nose _san
-Marubo-96_nose-1,,Marubo,96_nose,rɨkin,rɨkin,r ɨ + k i n,,fleck2005,830,,,,151 153,nose _kin
-Katukina-96_nose-1,,Katukina,96_nose,renkin,renkin,r ɨ + k i n,,aguiar1994,830,,,,151 153,nose _kin
-Kanamari-96_nose-1,,Kanamari,96_nose,rɨkĩ,rɨkĩ,r ɨ + k ĩ,,aguiar1994,830,,,,151 153,nose _kin
-Shipibo_Konibo-96_nose-1,,Shipibo_Konibo,96_nose,rɨkin,rɨkin,r ɨ + k i n,,fleck2005,830,,,,151 153,nose _kin
-Kapanawa-96_nose-1,,Kapanawa,96_nose,rɨkin,rɨkin,r ɨ + k i n,,loos1998,830,,,,151 153,nose _kin
-Shanenawa-96_nose-1,,Shanenawa,96_nose,rɨkin,rɨkin,r ɨ + k i n,,lanes2005,830,,,,151 153,nose _kin
-Yawanawa-96_nose-1,,Yawanawa,96_nose,rɨkin,rɨkin,r ɨ + k i n,,paula1992,830,,,,151 153,nose _kin
-Nukini-96_nose-1,,Nukini,96_nose,rɨ̃kɨ̃,rɨ̃kɨ̃,r ɨ̃ + k ɨ̃,,aguiar2004,830,,,,151 153,nose _kin
-Poyanawa-96_nose-1,,Poyanawa,96_nose,rɨnkĩ,rɨnkĩ,r ɨ + k ĩ,,paula1992,830,,,,151 153,nose _kin
-Iskonawa-96_nose-1,,Iskonawa,96_nose,ɾɨnkĩ,ɾɨnkĩ,ɾ ɨ + k ĩ,,zariquiey2017,830,,,,151 153,nose _kin
-Chakobo-96_nose-1,,Chakobo,96_nose,rɨʂaki,rɨʂaki,r ɨ + ʂ a k i,,zingg1998,830,,,,151 152,nose _ʂaki
-Pakawara-96_nose-1,,Pakawara,96_nose,rɨkina,rɨkina,r ɨ + k i n a,,key2000,830,,,,151 153,nose _kin
-Kakataibo-96_nose-1,,Kakataibo,96_nose,rɨkin,rɨkin,r ɨ + k i n,,zariquiey2017,830,,,,151 153,nose _kin
-Kaxarari-96_nose-1,,Kaxarari,96_nose,tʃɨkani,tʃɨkani,r ɨ + k a n i,,couto2005,830,,,,151 153,nose _kani
-Mastanawa-96_nose-1,,Mastanawa,96_nose,ɾɨʧuʔu,ɾɨʧuʔu,ɾ ɨ + tʃ u ʔ u,,zariquiey2017,830,,,,151 154,nose _ʧuku
-Chaninawa-96_nose-1,,Chaninawa,96_nose,ɾɨki,ɾɨki,ɾ ɨ + k i,,zariquiey2017,830,,,,151 153,nose _kin
-Sharanawa-96_nose-1,,Sharanawa,96_nose,ɾɨt͡ʃuku,ɾɨt͡ʃuku,ɾ ɨ + tʃ u k u,,zariquiey2017,830,,,,151 154,nose _ʧuku
-Amawaka-96_nose-1,,Amawaka,96_nose,ɾɨ(n)kin,ɾɨkin,ɾ ɨ + k i n,,zariquiey2017,830,,,,151 153,nose _kin
-Nawa-96_nose-1,,Nawa,96_nose,ɾɨʧa,ɾɨʧa,ɾ ɨ + tʃ a,,zariquiey2017,830,,,,151 156,nose _ʧa
-Marinawa-96_nose-1,,Marinawa,96_nose,ɾɨʧuku,ɾɨʧuku,ɾ ɨ + tʃ u k u,,zariquiey2017,830,,,,151 154,nose _ʧuku
-Yaminawa-96_nose-1,,Yaminawa,96_nose,ɾɨʧuʔu,ɾɨʧuʔu,ɾ ɨ + tʃ u ʔ u,,zariquiey2017,830,,,,151 154,nose _ʧuku
-Kashinawa_P-96_nose-1,,Kashinawa_P,96_nose,dɨki,dɨki,d ɨ + k i,,zariquiey2017,830,,,,151 153,nose _kin
-Kashinawa_P-96_nose-2,,Kashinawa_P,96_nose,ɾɨki,ɾɨki,ɾ ɨ + k i,,zariquiey2017,830,,,,151 153,nose _kin
-Kashinawa_B-96_nose-1,,Kashinawa_B,96_nose,dɨkĩ,dɨkĩ,d ɨ + k ĩ,,camargo1995,830,,,,151 153,nose _kin
-Araona-96_nose-1,,Araona,96_nose,ewi,ewi,e w i,,pitman1981,831,,,,0,?
-Matses-154_tongue-1,,Matses,154_tongue,ana,ana,a n + a,,fleck2005,1330,,,,166 6,mouth/tongue _a
-Matis-154_tongue-1,,Matis,154_tongue,ana,ana,a n + a,,fleck2005,1330,,,,166 6,mouth/tongue _a
-Marubo-154_tongue-1,,Marubo,154_tongue,ana rɨβu,ana,a n + a,,fleck2005,1330,,,,166 6,mouth/tongue _a
-Katukina-154_tongue-1,,Katukina,154_tongue,ana,ana,a n + a,,aguiar1994,1330,,,,166 6,mouth/tongue _a
-Kanamari-154_tongue-1,,Kanamari,154_tongue,hana,hana,h a n + a,,aguiar1994,1330,,,,166 6,mouth/tongue _a
-Shipibo_Konibo-154_tongue-1,,Shipibo_Konibo,154_tongue,hana,hana,h a n + a,,fleck2005,1330,,,,166 6,mouth/tongue _a
-Kapanawa-154_tongue-1,,Kapanawa,154_tongue,hana,hana,h a n + a,,loos1998,1330,,,,166 6,mouth/tongue _a
-Shanenawa-154_tongue-1,,Shanenawa,154_tongue,ana,ana,a n + a,,lanes2005,1330,,,,166 6,mouth/tongue _a
-Yawanawa-154_tongue-1,,Yawanawa,154_tongue,ana,ana,a n + a,,paula1992,1330,,,,166 6,mouth/tongue _a
-Nukini-154_tongue-1,,Nukini,154_tongue,anã,anã,a n + a,,aguiar2004,1330,,,,166 6,mouth/tongue _a
-Poyanawa-154_tongue-1,,Poyanawa,154_tongue,anda,anda,a ⁿd + a,,paula1992,1330,,,,166 6,mouth/tongue _a
-Iskonawa-154_tongue-1,,Iskonawa,154_tongue,ana,ana,a n + a,,zariquiey2017,1330,,,,166 6,mouth/tongue _a
-Chakobo-154_tongue-1,,Chakobo,154_tongue,hana,hana,h a n + a,,zingg1998,1330,,,,166 6,mouth/tongue _a
-Pakawara-154_tongue-1,,Pakawara,154_tongue,hana,hana,h a n + a,,key2000,1330,,,,166 6,mouth/tongue _a
-Kakataibo-154_tongue-1,,Kakataibo,154_tongue,ana,ana,a n + a,,zariquiey2017,1330,,,,166 6,mouth/tongue _a
-Kaxarari-154_tongue-1,,Kaxarari,154_tongue,hana,hana,h a n + a,,couto2005,1330,,,,166 6,mouth/tongue _a
-Mastanawa-154_tongue-1,,Mastanawa,154_tongue,ada,ada,a d + a,,zariquiey2017,1330,,,,166 6,mouth/tongue _a
-Chaninawa-154_tongue-1,,Chaninawa,154_tongue,a:da,a:da,a d + a,,zariquiey2017,1330,,,,166 6,mouth/tongue _a
-Sharanawa-154_tongue-1,,Sharanawa,154_tongue,ada,ada,a d + a,,zariquiey2017,1330,,,,166 6,mouth/tongue _a
-Amawaka-154_tongue-1,,Amawaka,154_tongue,handa,handa,h a ⁿd + a,,zariquiey2017,1330,,,,166 6,mouth/tongue _a
-Nawa-154_tongue-1,,Nawa,154_tongue,a:da,a:da,a d + a,,zariquiey2017,1330,,,,166 6,mouth/tongue _a
-Marinawa-154_tongue-1,,Marinawa,154_tongue,anda,anda,a ⁿd + a,,zariquiey2017,1330,,,,166 6,mouth/tongue _a
-Yaminawa-154_tongue-1,,Yaminawa,154_tongue,ada,ada,a d + a,,zariquiey2017,1330,,,,166 6,mouth/tongue _a
-Kashinawa_P-154_tongue-1,,Kashinawa_P,154_tongue,hana,hana,h a n + a,,zariquiey2017,1330,,,,166 6,mouth/tongue _a
-Kashinawa_B-154_tongue-1,,Kashinawa_B,154_tongue,hana,hana,h a n + a,,camargo1995,1330,,,,166 6,mouth/tongue _a
-Araona-154_tongue-1,,Araona,154_tongue,e-ana,eana,e a n a,,pitman1981,1330,,,,0,?
-Matses-155_toothfront-1,,Matses,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,fleck2005,1308,,,,246 247,tooth _ta
-Matis-155_toothfront-1,,Matis,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,fleck2005,1308,,,,246 247,tooth _ta
-Marubo-155_toothfront-1,,Marubo,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,fleck2005,1308,,,,246 247,tooth _ta
-Katukina-155_toothfront-1,,Katukina,155_toothfront,xita,hita,h i + t a,,aguiar1994,1308,,,,246 247,tooth _ta
-Kanamari-155_toothfront-1,,Kanamari,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,aguiar1994,1308,,,,246 247,tooth _ta
-Shipibo_Konibo-155_toothfront-1,,Shipibo_Konibo,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,fleck2005,1308,,,,246 247,tooth _ta
-Kapanawa-155_toothfront-1,,Kapanawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,loos1998,1308,,,,246 247,tooth _ta
-Shanenawa-155_toothfront-1,,Shanenawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,lanes2005,1308,,,,246 247,tooth _ta
-Yawanawa-155_toothfront-1,,Yawanawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,paula1992,1308,,,,246 247,tooth _ta
-Nukini-155_toothfront-1,,Nukini,155_toothfront,hita,hita,h i + t a,,aguiar2004,1308,,,,246 247,tooth _ta
-Iskonawa-155_toothfront-1,,Iskonawa,155_toothfront,hɨta,hɨta,h ɨ + t a,,zariquiey2017,1308,,,,246 247,tooth _ta
-Chakobo-155_toothfront-1,,Chakobo,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,zingg1998,1308,,,,246 247,tooth _ta
-Pakawara-155_toothfront-1,,Pakawara,155_toothfront,ʂɨna,ʂɨna,ʂ ɨ + n a,,key2000,1308,,,,246 247,tooth _ta
-Kakataibo-155_toothfront-1,,Kakataibo,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,zariquiey2017,1308,,,,246 247,tooth _ta
-Kaxarari-155_toothfront-1,,Kaxarari,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,couto2005,1308,,,,246 247,tooth _ta
-Mastanawa-155_toothfront-1,,Mastanawa,155_toothfront,piti,piti,p i + t i,,zariquiey2017,1333,,,,244 245,eat _ti
-Mastanawa-155_toothfront-2,,Mastanawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,zariquiey2017,1308,,,,246 247,tooth _ta
-Chaninawa-155_toothfront-1,,Chaninawa,155_toothfront,piti,piti,p i + t i,,zariquiey2017,1333,,,,244 245,eat _ti
-Sharanawa-155_toothfront-1,,Sharanawa,155_toothfront,piti,piti,p i + t i,,zariquiey2017,1333,,,,244 245,eat _ti
-Amawaka-155_toothfront-1,,Amawaka,155_toothfront,çɨta,çɨta,ç ɨ + t a,,zariquiey2017,1308,,,,246 247,tooth _ta
-Nawa-155_toothfront-1,,Nawa,155_toothfront,piti,piti,p i + t i,,zariquiey2017,1333,,,,244 245,eat _ti
-Nawa-155_toothfront-2,,Nawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,zariquiey2017,1308,,,,246 247,tooth _ta
-Marinawa-155_toothfront-1,,Marinawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,zariquiey2017,1308,,,,246 247,tooth _ta
-Yaminawa-155_toothfront-1,,Yaminawa,155_toothfront,piti,piti,p i + t i,,zariquiey2017,1333,,,,244 245,eat _ti
-Kashinawa_P-155_toothfront-1,,Kashinawa_P,155_toothfront,ʃɨta,ʂɨta,ʂ ɨ + t a,,zariquiey2017,1308,,,,246 247,tooth _ta
-Kashinawa_B-155_toothfront-1,,Kashinawa_B,155_toothfront,ʂɨtɨ,ʂɨtɨ,ʂ ɨ + t ɨ,,camargo1995,1308,,,,246 247,tooth _ta
-Araona-155_toothfront-1,,Araona,155_toothfront,e-c̷e,ec̷e,e tʃ e,,pitman1981,1308,,,,0,?
-Matses-93_neck-1,,Matses,93_neck,tɨnite,tɨnite,t ɨ + n i t e,,fleck2005,810,,,,137 144,neck _nite
-Matis-93_neck-1,,Matis,93_neck,tɨtun,tɨtun,t ɨ + t u n,,fleck2005,810,,,,137 150,neck _tun
-Marubo-93_neck-1,,Marubo,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,fleck2005,810,,,,137 139,neck _ʂu
-Katukina-93_neck-1,,Katukina,93_neck,tispun,tispun,t i + s p u n,,aguiar1994,810,,,,137 147,neck _spun
-Kanamari-93_neck-1,,Kanamari,93_neck,taʃu,taʃu,t ɨ + ʃ u,,aguiar1994,810,,,,137 139,neck _ʂu
-Shipibo_Konibo-93_neck-1,,Shipibo_Konibo,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,fleck2005,810,,,,137 139,neck _ʂu
-Kapanawa-93_neck-1,,Kapanawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,loos1998,810,,,,137 139,neck _ʂu
-Shanenawa-93_neck-1,,Shanenawa,93_neck,tɨʂɨ,tɨʂɨ,t ɨ + ʂ u,,lanes2005,810,,,,137 139,neck _ʂu
-Yawanawa-93_neck-1,,Yawanawa,93_neck,tɨʃu,tɨʃu,t ɨ + ʃ u,,paula1992,810,,,,137 139,neck _ʂu
-Nukini-93_neck-1,,Nukini,93_neck,nipika,nipika,n i + p i k a,,aguiar2004,804,,,,137 145,neck _pika
-Nukini-93_neck-2,,Nukini,93_neck,tukɨ,tɨkɨ,t ɨ + k ɨ,,aguiar2004,810,,,,137 142,neck _ki
-Poyanawa-93_neck-1,,Poyanawa,93_neck,tɨhu,tɨhu,t ɨ + h u,,paula1992,810,,,,137 139,neck _ʂu
-Iskonawa-93_neck-1,,Iskonawa,93_neck,tɨhu,tɨhu,t ɨ + h u,,zariquiey2017,810,,,,137 139,neck _ʂu
-Chakobo-93_neck-1,,Chakobo,93_neck,tɨpuku,tɨpuku,t ɨ + p u k u,,zingg1998,810,,,,137 146,neck _puku
-Pakawara-93_neck-1,,Pakawara,93_neck,tikana,tikana,t i + k a n a,,key2000,810,,,,137 141,neck _kana
-Kakataibo-93_neck-1,,Kakataibo,93_neck,tɨʂa,tɨʂa,t ɨ + ʂ a,,zariquiey2017,810,,,,137 149,neck _ʂa
-Kaxarari-93_neck-1,,Kaxarari,93_neck,tɨiwi,tɨiwi,t ɨ + i w i,,couto2005,810,,,,137 138,neck _iwi
-Mastanawa-93_neck-1,,Mastanawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,810,,,,137 139,neck _ʂu
-Chaninawa-93_neck-1,,Chaninawa,93_neck,tɨsto,tɨsto,t ɨ + s t o,,zariquiey2017,810,,,,137 148,neck _sto
-Sharanawa-93_neck-1,,Sharanawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,810,,,,137 139,neck _ʂu
-Amawaka-93_neck-1,,Amawaka,93_neck,çau,tɨçu,t ɨ + ç u,,zariquiey2017,806,,,,137 139,neck _ʂu
-Nawa-93_neck-1,,Nawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,810,,,,137 139,neck _ʂu
-Nawa-93_neck-2,,Nawa,93_neck,tɨmaʂka,tɨmaʂka,t ɨ + m a ʂ k a,,zariquiey2017,810,,,,137 143,neck _maʂka
-Marinawa-93_neck-1,,Marinawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,810,,,,137 139,neck _ʂu
-Yaminawa-93_neck-1,,Yaminawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,810,,,,137 139,neck _ʂu
-Kashinawa_P-93_neck-1,,Kashinawa_P,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,810,,,,137 139,neck _ʂu
-Kashinawa_B-93_neck-1,,Kashinawa_B,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,camargo1995,810,,,,137 139,neck _ʂu
-Araona-93_neck-1,,Araona,93_neck,nala,nala,n a l a,,pitman1981,811,,,,0,?
-Matses-8_belly-1,,Matses,8_belly,puku,puku,p u k u,,fleck2005,54,,,,87 85,stomach
-Matis-8_belly-1,,Matis,8_belly,puku,puku,p u k u,,fleck2005,54,,,,87 85,stomach
-Marubo-8_belly-1,,Marubo,8_belly,pustu,pustu,p u s t u,,fleck2005,1553,,,,87 86,belly
-Katukina-8_belly-1,,Katukina,8_belly,pustu,pustu,p u s t u,,aguiar1994,1553,,,,87 86,belly
-Kanamari-8_belly-1,,Kanamari,8_belly,posto,posto,p o s t o,,aguiar1994,1553,,,,87 86,belly
-Shipibo_Konibo-8_belly-1,,Shipibo_Konibo,8_belly,puku,puku,p u k u,,fleck2005,54,,,,87 85,stomach
-Kapanawa-8_belly-1,,Kapanawa,8_belly,puku,puku,p u k u,,loos1998,54,,,,87 85,belly
-Shanenawa-8_belly-1,,Shanenawa,8_belly,pustu,pustu,p u s t u,,lanes2005,1553,,,,87 86,belly
-Yawanawa-8_belly-1,,Yawanawa,8_belly,pustu,pustu,p u s t u,,paula1992,1553,,,,87 86,belly
-Nukini-8_belly-1,,Nukini,8_belly,naβa,naβa,n a β a,,aguiar2004,55,,,,91 89,width
-Nukini-8_belly-2,,Nukini,8_belly,puhtu,puhtu,p u h t u,,aguiar2004,1553,,,,87 86,belly
-Poyanawa-8_belly-1,,Poyanawa,8_belly,dahβa,dahβa,d a h β a,,paula1992,55,,,,91 89,width
-Iskonawa-8_belly-1,,Iskonawa,8_belly,nahβa,nahβa,n a h β a,,zariquiey2017,55,,,,91,width
-Chakobo-8_belly-1,,Chakobo,8_belly,takɨpɨ,takɨpɨ,t a k ɨ p ɨ,,zingg1998,58,,,,7,taki
-Pakawara-8_belly-1,,Pakawara,8_belly,puku,puku,p u k u,,key2000,54,,,,87 85,belly
-Kakataibo-8_belly-1,,Kakataibo,8_belly,puku,puku,p u k u,,zariquiey2017,54,,,,87 85,stomach
-Kaxarari-8_belly-1,,Kaxarari,8_belly,turu,turu,t u r u,,couto2005,60,,,,188 228,rounded
-Mastanawa-8_belly-1,,Mastanawa,8_belly,ʂaʔi,ʂaʔi,ʂ a ʔ i,,zariquiey2017,61,,,,229 230,saʔi
-Chaninawa-8_belly-1,,Chaninawa,8_belly,pusto,pusto,p u s t u,,zariquiey2017,1553,,,,86,belly
-Sharanawa-8_belly-1,,Sharanawa,8_belly,namɨn,namɨn,n a m ɨ n,,zariquiey2017,62,,,,91 232,namɨn
-Amawaka-8_belly-1,,Amawaka,8_belly,puku,puku,p u k u,,zariquiey2017,54,,,,8,stomach
-Nawa-8_belly-1,,Nawa,8_belly,atu,atu,a t u,,zariquiey2017,1554,,,,90 231,intestines
-Marinawa-8_belly-1,,Marinawa,8_belly,pustu,pustu,p u s t u,,zariquiey2017,1553,,,,87 86,belly
-Yaminawa-8_belly-1,,Yaminawa,8_belly,pustu,pustu,p u s t u,,zariquiey2017,1553,,,,87 86,belly
-Kashinawa_P-8_belly-1,,Kashinawa_P,8_belly,pustu,pustu,p u s t u,,zariquiey2017,1553,,,,87 86,belly
-Kashinawa_B-8_belly-1,,Kashinawa_B,8_belly,pustu,pustu,p u s t u,,camargo1995,1553,,,,87 86,belly
-Araona-8_belly-1,,Araona,8_belly,ese,ese,e s e,,pitman1981,56,,,,0,ese
-Matses-5_backofbody-1,,Matses,5_backofbody,katʂo,katʂo,k a + ʈʂ o,,fleck2005,32,,,,203 211,back _ʂu
-Matis-5_backofbody-1,,Matis,5_backofbody,kaʂuku,kaʂuku,k a + ʂ u k u,,fleck2005,32,,,,203 211,back _ʂu
-Marubo-5_backofbody-1,,Marubo,5_backofbody,kaʂu,kaʂu,k a + ʂ u,,fleck2005,32,,,,203 211,back _ʂu
-Katukina-5_backofbody-1,,Katukina,5_backofbody,pimana,pimana,p i + m a n a,,aguiar1994,30,,,,200 202,shoulder _above
-Kanamari-5_backofbody-1,,Kanamari,5_backofbody,kaʃo,kaʃo,k a + ʃ o,,aguiar1994,32,,,,203 211,back _ʃo
-Shipibo_Konibo-5_backofbody-1,,Shipibo_Konibo,5_backofbody,pɨka,pɨka,p ɨ + k a,,fleck2005,30,,,,200 205,shoulder _ka
-Kapanawa-5_backofbody-1,,Kapanawa,5_backofbody,pɨka,pɨka,p ɨ + k a,,loos1998,30,,,,200 205,shoulder _ka
-Shanenawa-5_backofbody-1,,Shanenawa,5_backofbody,pustʃi,pɨstʃi,p ɨ + tʃ i,,lanes2005,30,,,,200 207,shoulder _tʃi
-Nukini-5_backofbody-1,,Nukini,5_backofbody,puʃi,pɨʃi,p ɨ + tʃ i,,aguiar2004,30,,,,200 207,shoulder _ʧi
-Poyanawa-5_backofbody-1,,Poyanawa,5_backofbody,pɨti,pɨti,p ɨ + t i,,paula1992,30,,,,200 206,shoulder _tɨ
-Iskonawa-5_backofbody-1,,Iskonawa,5_backofbody,pɨʧi,pɨʧi,p ɨ + tʃ i,,zariquiey2017,30,,,,200 207,shoulder _ʧi
-Iskonawa-5_backofbody-2,,Iskonawa,5_backofbody,katɨ,katɨ,k a + t ɨ,,zariquiey2017,32,,,,203 206,back _tɨ
-Chakobo-5_backofbody-1,,Chakobo,5_backofbody,katɨ,katɨ,k a + t ɨ,,zingg1998,32,,,,203 206,back _tɨ
-Kakataibo-5_backofbody-1,,Kakataibo,5_backofbody,kaʂo,kaʂu,k a + ʂ u,,zariquiey2017,32,,,,203 211,back _ʂu
-Kaxarari-5_backofbody-1,,Kaxarari,5_backofbody,katapu,katapu,k a + t a p u,,couto2005,32,,,,203 210,back _root
-Mastanawa-5_backofbody-1,,Mastanawa,5_backofbody,piʧi,piʧi,p i + tʃ i,,zariquiey2017,30,,,,200 207,shoulder _ʧi
-Chaninawa-5_backofbody-1,,Chaninawa,5_backofbody,pɨʂaβati,pɨʂaβati,p ɨ + ʂ a β a t i,,zariquiey2017,30,,,,200 209,shoulder _ʂaβati
-Sharanawa-5_backofbody-1,,Sharanawa,5_backofbody,pɨmiti,pɨmiti,p ɨ + m i t i,,zariquiey2017,30,,,,200 208,shoulder _miti
-Amawaka-5_backofbody-1,,Amawaka,5_backofbody,katɨ,katɨ,k a + t ɨ,,zariquiey2017,32,,,,203 206,back _tɨ
-Nawa-5_backofbody-1,,Nawa,5_backofbody,pɨʧi,pɨʧi,p ɨ + tʃ i,,zariquiey2017,30,,,,200 207,shoulder _ʧi
-Marinawa-5_backofbody-1,,Marinawa,5_backofbody,pɨʧi,pɨʧi,p ɨ + tʃ i,,zariquiey2017,30,,,,200 207,shoulder _ʧi
-Yaminawa-5_backofbody-1,,Yaminawa,5_backofbody,piʧi,pɨʧi,p ɨ + tʃ i,,zariquiey2017,30,,,,200 207,shoulder _ʧi
-Kashinawa_P-5_backofbody-1,,Kashinawa_P,5_backofbody,pɨʧi,pɨʧi,p ɨ + tʃ i,,zariquiey2017,30,,,,200 207,shoulder _ʧi
-Araona-5_backofbody-1,,Araona,5_backofbody,bebakʷa,bebakʷa,b e b a kʷ a,,pitman1981,31,,,,0,?
-Araona-5_backofbody-2,,Araona,5_backofbody,besese,besese,b e s e s e,,pitman1981,31,,,,0,?
-Matses-123_skinofperson-1,,Matses,123_skinofperson,βitsi,βitsi,β i ts i,,fleck2005,1063,,,,57 158,βitʃi
-Matis-123_skinofperson-1,,Matis,123_skinofperson,βidtsi,βidtsi,β i ts i,,fleck2005,1063,,,,57 158,βitʃi
-Marubo-123_skinofperson-1,,Marubo,123_skinofperson,ɨʂpi,ɨʂpi,ɨ ʂ p i,,fleck2005,1065,,,,36 159,ɨʂpi
-Katukina-123_skinofperson-1,,Katukina,123_skinofperson,wixiβi,wixiβi,w i ʂ i β i,,aguiar1994,1063,,,,57 158,βitʃi
-Shipibo_Konibo-123_skinofperson-1,,Shipibo_Konibo,123_skinofperson,βitʃi,βitʃi,β i tʃ i,,fleck2005,1063,,,,57 158,βitʃi
-Kapanawa-123_skinofperson-1,,Kapanawa,123_skinofperson,βitʃi,βitʃi,β i tʃ i,,loos1998,1063,,,,57 158,βitʃi
-Shanenawa-123_skinofperson-1,,Shanenawa,123_skinofperson,ɸitʃi,ɸitʃi,ɸ i tʃ i,,lanes2005,1063,,,,57 158,βitʃi
-Yawanawa-123_skinofperson-1,,Yawanawa,123_skinofperson,βitʃi,βitʃi,β i tʃ i,,paula1992,1063,,,,57 158,βitʃi
-Nukini-123_skinofperson-1,,Nukini,123_skinofperson,βiʃi,βiʃi,β i tʃ i,,aguiar2004,1063,,,,57 158,βitʃi
-Iskonawa-123_skinofperson-1,,Iskonawa,123_skinofperson,βiʧi,βiʧi,β i tʃ i,,zariquiey2017,1063,,,,57 158,βitʃi
-Iskonawa-123_skinofperson-2,,Iskonawa,123_skinofperson,haka,haka,h a k a,,zariquiey2017,1062,,,,46 61,ʂaka
-Chakobo-123_skinofperson-1,,Chakobo,123_skinofperson,βitʃi,βitʃi,β i tʃ i,,zingg1998,1063,,,,57 158,βitʃi
-Pakawara-123_skinofperson-1,,Pakawara,123_skinofperson,witʃi,witʃi,w i tʃ i,,key2000,1063,,,,57 158,βitʃi
-Kakataibo-123_skinofperson-1,,Kakataibo,123_skinofperson,ʂaka,ʂaka,ʂ a k a,,zariquiey2017,1062,,,,46 61,ʂaka
-Kaxarari-123_skinofperson-1,,Kaxarari,123_skinofperson,witʃi,witʃi,w i tʃ i,,couto2005,1063,,,,57 158,βitʃi
-Mastanawa-123_skinofperson-1,,Mastanawa,123_skinofperson,ɸiʧi,ɸiʧi,ɸ i tʃ i,,zariquiey2017,1063,,,,57 158,βitʃi
-Chaninawa-123_skinofperson-1,,Chaninawa,123_skinofperson,ɸit͡ʃi,ɸit͡ʃi,ɸ i tʃ i,,zariquiey2017,1063,,,,57 158,βitʃi
-Sharanawa-123_skinofperson-1,,Sharanawa,123_skinofperson,ɸit͡ʃi,ɸit͡ʃi,ɸ i tʃ i,,zariquiey2017,1063,,,,57 158,βitʃi
-Amawaka-123_skinofperson-1,,Amawaka,123_skinofperson,punj̃ã,çaka,ç a k a,,zariquiey2017,1062,,,,46 61,ʂaka
-Nawa-123_skinofperson-1,,Nawa,123_skinofperson,ɸiʧi,ɸiʧi,ɸ i tʃ i,,zariquiey2017,1063,,,,57 158,βitʃi
-Marinawa-123_skinofperson-1,,Marinawa,123_skinofperson,ɸiʧi,ɸiʧi,ɸ i tʃ i,,zariquiey2017,1063,,,,57 158,βitʃi
-Yaminawa-123_skinofperson-1,,Yaminawa,123_skinofperson,ɸiʧi,ɸiʧi,ɸ i tʃ i,,zariquiey2017,1063,,,,57 158,βitʃi
-Kashinawa_P-123_skinofperson-1,,Kashinawa_P,123_skinofperson,βiʧi,βiʧi,β i tʃ i,,zariquiey2017,1063,,,,57 158,βitʃi
-Kashinawa_B-123_skinofperson-1,,Kashinawa_B,123_skinofperson,βitʃi,βitʃi,β i tʃ i,,camargo1995,1063,,,,57 158,βitʃi
-Araona-123_skinofperson-1,,Araona,123_skinofperson,biki,biki,b i k i,,pitman1981,1063,,,,57,skin
-Matses-145_tail-1,,Matses,145_tail,inkuente,inkuente,i n + k u e n t e,,fleck2005,1258,,,,160 163,tail _a
-Matis-145_tail-1,,Matis,145_tail,ina,ina,i n + a,,fleck2005,1253,,,,160 6,tail _a
-Marubo-145_tail-1,,Marubo,145_tail,ina,ina,i n + a,,fleck2005,1253,,,,160 6,tail _a
-Kanamari-145_tail-1,,Kanamari,145_tail,hina,hina,h i n + a,,aguiar1994,1253,,,,160 6,tail _a
-Shipibo_Konibo-145_tail-1,,Shipibo_Konibo,145_tail,hina,hina,h i n + a,,fleck2005,1253,,,,160 6,tail _a
-Kapanawa-145_tail-1,,Kapanawa,145_tail,hina,hina,h i n + a,,loos1998,1253,,,,160 6,tail _a
-Shanenawa-145_tail-1,,Shanenawa,145_tail,ina,ina,i n + a,,lanes2005,1253,,,,160 6,tail _a
-Yawanawa-145_tail-1,,Yawanawa,145_tail,ina,ina,i n + a,,paula1992,1253,,,,160 6,tail _a
-Poyanawa-145_tail-1,,Poyanawa,145_tail,βãti,βãti,β ã t i,,paula1992,1256,,,,169,bati
-Iskonawa-145_tail-1,,Iskonawa,145_tail,ina,ina,i n + a,,zariquiey2017,1253,,,,160 6,tail _a
-Chakobo-145_tail-1,,Chakobo,145_tail,hina,hina,h i n + a,,zingg1998,1253,,,,160 6,tail _a
-Kakataibo-145_tail-1,,Kakataibo,145_tail,ina,ina,i n + a,,zariquiey2017,1253,,,,160 6,tail _a
-Kaxarari-145_tail-1,,Kaxarari,145_tail,tʃina,tʃina,tʃ i n + a,,couto2005,1614,,,,164 6,tʃin _a
-Mastanawa-145_tail-1,,Mastanawa,145_tail,ida,ida,i d + a,,zariquiey2017,1253,,,,160 6,tail _a
-Chaninawa-145_tail-1,,Chaninawa,145_tail,ida,ida,i d + a,,zariquiey2017,1253,,,,160 6,tail _a
-Sharanawa-145_tail-1,,Sharanawa,145_tail,i:da,i:da,iː d + a,,zariquiey2017,1253,,,,160 6,tail _a
-Amawaka-145_tail-1,,Amawaka,145_tail,hinda,hinda,h i ⁿd + a,,zariquiey2017,1253,,,,160 6,tail _a
-Nawa-145_tail-1,,Nawa,145_tail,ʦimaʂa,ʦimaʂa,ts i + m a ʂ a,,zariquiey2017,1257,,,,161 165,buttock _masa
-Marinawa-145_tail-1,,Marinawa,145_tail,inda,inda,i ⁿd + a,,zariquiey2017,1253,,,,160 6,tail _a
-Yaminawa-145_tail-1,,Yaminawa,145_tail,tɨdɨ,tɨdɨ,t ɨ d ɨ,,zariquiey2017,1616,,,,168,tidi
-Kashinawa_P-145_tail-1,,Kashinawa_P,145_tail,hina,hina,h i n + a,,zariquiey2017,1253,,,,160 6,tail _a
-Kashinawa_B-145_tail-1,,Kashinawa_B,145_tail,hina,hina,h i n + a,,camargo1995,1253,,,,160 6,tail _a
-Araona-145_tail-1,,Araona,145_tail,siča,siča,s i tʃ a,,pitman1981,1254,,,,0,?
-Matses-78_leg-1,,Matses,78_leg,nidte,nidte,n i d + t e,,fleck2005,688,,,,115 116,stand _te
-Matis-78_leg-1,,Matis,78_leg,tawi,tawi,t a + w i,,fleck2005,687,,,,120 121,foot _wi
-Marubo-78_leg-1,,Marubo,78_leg,kiʃi,kiʃi,k i + ʃ i,,fleck2005,682,,,,112 114,thigh _ʃi
-Marubo-78_leg-2,,Marubo,78_leg,itaʂɨ,itaʂɨ,i + t a ʂ ɨ,,fleck2005,683,,,,111 113,calf _taʂi
-Katukina-78_leg-1,,Katukina,78_leg,kixu,kiʂu,k i + ʂ u,,aguiar1994,682,,,,112 126,thigh _ʂu
-Kanamari-78_leg-1,,Kanamari,78_leg,hitaʃ,hitaʃ,h i + t a ʃ,,aguiar1994,683,,,,122 113,calf _taSi
-Kanamari-78_leg-2,,Kanamari,78_leg,kiʃi,kiʃi,k i + ʃ i,,aguiar1994,682,,,,112 114,thigh _ʃi
-Shipibo_Konibo-78_leg-1,,Shipibo_Konibo,78_leg,kiʃi,kiʃi,k i + ʃ i,,fleck2005,682,,,,112 114,thigh _ʃi
-Shipibo_Konibo-78_leg-2,,Shipibo_Konibo,78_leg,witaʂ,witaʂ,w i + t a ʂ,,fleck2005,683,,,,122 113,calf _taSi
-Kapanawa-78_leg-1,,Kapanawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,loos1998,682,,,,112 114,thigh _ʃi
-Kapanawa-78_leg-2,,Kapanawa,78_leg,witaʂ,witaʂ,w i + t a ʂ,,loos1998,683,,,,122 113,calf _taʂi
-Shanenawa-78_leg-1,,Shanenawa,78_leg,taɨ,taɨ,t a + ɨ,,lanes2005,687,,,,120 121,foot _ɨ
-Yawanawa-78_leg-1,,Yawanawa,78_leg,βitaʃ,βitaʃ,β i + t a ʃ,,paula1992,683,,,,122 113,calf _taSi
-Nukini-78_leg-1,,Nukini,78_leg,βiʃta,βiʃta,β i + ʃ t a,,aguiar2004,683,,,,122 113,calf _sta
-Iskonawa-78_leg-1,,Iskonawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,682,,,,112 114,thigh _ʃi
-Chakobo-78_leg-1,,Chakobo,78_leg,wiku,wiku,w i + k u,,zingg1998,686,,,,122 123,calf _ku
-Pakawara-78_leg-1,,Pakawara,78_leg,wiku,wiku,w i + k u,,key2000,686,,,,122 123,calf _ku
-Kakataibo-78_leg-1,,Kakataibo,78_leg,kisi,kisi,k i + s i,,zariquiey2017,682,,,,112 114,thigh _ʃi
-Kaxarari-78_leg-1,,Kaxarari,78_leg,witaʂɨ,witaʂɨ,w i + t a ʂ ɨ,,couto2005,683,,,,122 113,calf _taʂi
-Mastanawa-78_leg-1,,Mastanawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,682,,,,112 114,thigh _ʃi
-Chaninawa-78_leg-1,,Chaninawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,682,,,,112 114,thigh _ʃi
-Sharanawa-78_leg-1,,Sharanawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,682,,,,112 114,thigh _ʃi
-Sharanawa-78_leg-2,,Sharanawa,78_leg,ɸitaʂɨ,ɸitaʂɨ,ɸ i + t a ʂ ɨ,,zariquiey2017,683,,,,122 113,calf _taʂi
-Amawaka-78_leg-1,,Amawaka,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,682,,,,112 114,thigh _ʃi
-Nawa-78_leg-1,,Nawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,682,,,,112 114,thigh _ʃi
-Nawa-78_leg-2,,Nawa,78_leg,ɸitaʂ,ɸitaʂ,ɸ i + t a ʂ,,zariquiey2017,683,,,,122 113,calf _taʂi
-Marinawa-78_leg-1,,Marinawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,682,,,,112 114,thigh _ʃi
-Marinawa-78_leg-2,,Marinawa,78_leg,ɸitaʃi,ɸitaʃi,ɸ i + t a ʃ i,,zariquiey2017,683,,,,122 113,calf _taʂi
-Yaminawa-78_leg-1,,Yaminawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,682,,,,112 114,thigh _ʃi
-Kashinawa_P-78_leg-1,,Kashinawa_P,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,682,,,,112 114,thigh _ʃi
-Kashinawa_B-78_leg-1,,Kashinawa_B,78_leg,kiʂi,kiʂi,k i + ʂ i,,camargo1995,682,,,,112 114,thigh _ʃi
-Araona-78_leg-1,,Araona,78_leg,tiǰada,tiǰada,t i dʒ a d a,,pitman1981,685,,,,0,?
-Araona-78_leg-2,,Araona,78_leg,eta,eta,e t a,,pitman1981,684,,,,0,?
-Matses-53_foot-1,,Matses,53_foot,taɨ,taɨ,t a + ɨ,,fleck2005,483,,,,212 215,foot _i
-Matis-53_foot-1,,Matis,53_foot,taɨ,taɨ,t a + ɨ,,fleck2005,483,,,,212 215,foot _i
-Marubo-53_foot-1,,Marubo,53_foot,taɨ,taɨ,t a + ɨ,,fleck2005,483,,,,212 215,foot _i
-Katukina-53_foot-1,,Katukina,53_foot,tae,taɨ,t a + ɨ,,aguiar1994,483,,,,212 215,foot _i
-Kanamari-53_foot-1,,Kanamari,53_foot,ta?ɨ,taʔɨ,t a + ʔ ɨ,,aguiar1994,483,,,,212 215,foot _i
-Shipibo_Konibo-53_foot-1,,Shipibo_Konibo,53_foot,taɨ,taɨ,t a + ɨ,,fleck2005,483,,,,212 215,foot _i
-Kapanawa-53_foot-1,,Kapanawa,53_foot,taɨ,taɨ,t a + ɨ,,loos1998,483,,,,212 215,foot _i
-Shanenawa-53_foot-1,,Shanenawa,53_foot,taɨ,taɨ,t a + ɨ,,lanes2005,483,,,,212 215,foot _i
-Yawanawa-53_foot-1,,Yawanawa,53_foot,taɨ,taɨ,t a + ɨ,,paula1992,483,,,,212 215,foot _i
-Nukini-53_foot-1,,Nukini,53_foot,taɨ,taɨ,t a + ɨ,,aguiar2004,483,,,,212 215,foot _i
-Poyanawa-53_foot-1,,Poyanawa,53_foot,taɨ,taɨ,t a + ɨ,,paula1992,483,,,,212 215,foot _i
-Iskonawa-53_foot-1,,Iskonawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,483,,,,212 215,foot _i
-Chakobo-53_foot-1,,Chakobo,53_foot,ta?ɨ,taʔɨ,t a + ʔ ɨ,,zingg1998,483,,,,212 215,foot _i
-Pakawara-53_foot-1,,Pakawara,53_foot,ta?ɨ,taʔɨ,t a + ʔ ɨ,,key2000,483,,,,212 215,foot _i
-Kakataibo-53_foot-1,,Kakataibo,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,483,,,,212 215,foot _i
-Kaxarari-53_foot-1,,Kaxarari,53_foot,taɨ,taɨ,t a + ɨ,,couto2005,483,,,,212 215,foot _i
-Mastanawa-53_foot-1,,Mastanawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,483,,,,212 215,foot _i
-Chaninawa-53_foot-1,,Chaninawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,483,,,,212 215,foot _i
-Sharanawa-53_foot-1,,Sharanawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,483,,,,212 215,foot _i
-Amawaka-53_foot-1,,Amawaka,53_foot,taʔɨ,taʔɨ,t a + ʔ ɨ,,zariquiey2017,483,,,,212 215,foot _i
-Nawa-53_foot-1,,Nawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,483,,,,212 215,foot _i
-Marinawa-53_foot-1,,Marinawa,53_foot,uʂpaɾu,uʂpaɾu,u ʂ p a ɾ u,,zariquiey2017,485,,,,214,usparu
-Yaminawa-53_foot-1,,Yaminawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,483,,,,212 215,foot _i
-Kashinawa_P-53_foot-1,,Kashinawa_P,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,483,,,,212 215,foot _i
-Kashinawa_B-53_foot-1,,Kashinawa_B,53_foot,taɨ,taɨ,t a + ɨ,,camargo1995,483,,,,212 215,foot _i
-Araona-53_foot-1,,Araona,53_foot,wac̷i,wac̷i,w a tʃ i,,pitman1981,484,,,,0,?
-Matses-174_wing-1,,Matses,174_wing,podo,podo,p o + d o,,fleck2005,1480,,,,183 179,podo _do
-Matis-174_wing-1,,Matis,174_wing,pɨi,pɨi,p ɨ + i,,fleck2005,1480,,,,172 174,arm _i
-Marubo-174_wing-1,,Marubo,174_wing,pɨi,pɨi,p ɨ + i,,fleck2005,1480,,,,172 174,arm _i
-Shipibo_Konibo-174_wing-1,,Shipibo_Konibo,174_wing,pɨtʃi,pɨtʃi,p ɨ + tʃ i,,fleck2005,1480,,,,172 182,arm _tʃi
-Kapanawa-174_wing-1,,Kapanawa,174_wing,pɨi,pɨi,p ɨ + i,,loos1998,1480,,,,172 174,arm _i
-Shanenawa-174_wing-1,,Shanenawa,174_wing,pɨj,pɨj,p ɨ + j/i,,lanes2005,1480,,,,172 174,arm _i
-Yawanawa-174_wing-1,,Yawanawa,174_wing,pɨj,pɨj,p ɨ + j/i,,paula1992,1480,,,,172 174,arm _i
-Iskonawa-174_wing-1,,Iskonawa,174_wing,pɨi,pɨi,p ɨ + i,,zariquiey2017,1480,,,,172 174,arm _i
-Chakobo-174_wing-1,,Chakobo,174_wing,pɨ?i,pɨʔi,p ɨ + ʔ i,,zingg1998,1480,,,,172 174,arm _i
-Kakataibo-174_wing-1,,Kakataibo,174_wing,pɨi,pɨi,p ɨ + i,,zariquiey2017,1480,,,,172 174,arm _i
-Kaxarari-174_wing-1,,Kaxarari,174_wing,patsasi,patsasi,p a + ts a s i,,couto2005,1484,,,,178 181,/pa _tsasi
-Mastanawa-174_wing-1,,Mastanawa,174_wing,ampɨj,ampɨj,a m + p ɨ + j/i,,zariquiey2017,1480,,,,173 172 174,am arm _i
-Chaninawa-174_wing-1,,Chaninawa,174_wing,pɨtau,pɨtau,p ɨ + t a u,,zariquiey2017,1480,,,,172 31,arm _taw
-Sharanawa-174_wing-1,,Sharanawa,174_wing,dujati,dujati,d u j a + t i,,zariquiey2017,1485,,,,175 176,flight _ti
-Amawaka-174_wing-1,,Amawaka,174_wing,pɨʔi,pɨʔi,p ɨ + ʔ i,,zariquiey2017,1480,,,,172 174,arm _i
-Nawa-174_wing-1,,Nawa,174_wing,pɨtaw,pɨtaw,p ɨ + t a w,,zariquiey2017,1480,,,,172 31,arm _taw
-Marinawa-174_wing-1,,Marinawa,174_wing,pɨtaw,pɨtaw,p ɨ + t a w,,zariquiey2017,1480,,,,172 31,arm _taw
-Yaminawa-174_wing-1,,Yaminawa,174_wing,pɨta,pɨta,p ɨ + t a,,zariquiey2017,1480,,,,172 177,arm _ti
-Kashinawa_P-174_wing-1,,Kashinawa_P,174_wing,pɨj,pɨj,p ɨ + j/i,,zariquiey2017,1480,,,,172 174,arm _i
-Kashinawa_B-174_wing-1,,Kashinawa_B,174_wing,pɨi,pɨi,p ɨ + i,,camargo1995,1480,,,,172 174,arm _i
-Araona-174_wing-1,,Araona,174_wing,nabai,nabai,n a b a i,,pitman1981,1481,,,,0,?
-Matses-61_hand-1,,Matses,61_hand,mɨdante,mɨdante,m ɨ + d a n t e,,fleck2005,546,,,,96 99,hand _dante
-Matis-61_hand-1,,Matis,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,fleck2005,546,,,,96 101,hand _kɨnɨ
-Marubo-61_hand-1,,Marubo,61_hand,mɨβi,mɨβi,m ɨ + β i,,fleck2005,546,,,,96 97,hand _βi
-Katukina-61_hand-1,,Katukina,61_hand,meβi,meβi,m e + β i,,aguiar1994,546,,,,96 97,hand _βi
-Kanamari-61_hand-1,,Kanamari,61_hand,mwɨβi,mɨβi,mʷ ɨ + β i,,aguiar1994,546,,,,96 97,hand _Bi
-Shipibo_Konibo-61_hand-1,,Shipibo_Konibo,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,fleck2005,546,,,,96 101,hand _kɨnɨ
-Kapanawa-61_hand-1,,Kapanawa,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,loos1998,546,,,,96 101,hand _kɨnɨ
-Shanenawa-61_hand-1,,Shanenawa,61_hand,mɨɸi,mɨɸi,m ɨ + ɸ i,,lanes2005,546,,,,96 97,hand _βi
-Yawanawa-61_hand-1,,Yawanawa,61_hand,mɨhi,mɨhi,m ɨ + h i,,paula1992,546,,,,96 100,hand _hi
-Nukini-61_hand-1,,Nukini,61_hand,mɨwi,mɨwi,m ɨ + w i,,aguiar2004,546,,,,96 97,hand _Bi
-Poyanawa-61_hand-1,,Poyanawa,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,paula1992,546,,,,96 101,hand _kɨnɨ
-Iskonawa-61_hand-1,,Iskonawa,61_hand,mɨˀβi,mɨˀβi,m ɨ + β i,,zariquiey2017,546,,,,96 97,hand _βi
-Chakobo-61_hand-1,,Chakobo,61_hand,mɨkɨnɨ,mɨkɨnɨ,m ɨ + k ɨ n ɨ,,zingg1998,546,,,,96 101,hand _kɨnɨ
-Pakawara-61_hand-1,,Pakawara,61_hand,mɨkɨna,mɨkɨna,m ɨ + k ɨ n a,,key2000,546,,,,96 101,hand _kini
-Kakataibo-61_hand-1,,Kakataibo,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,zariquiey2017,546,,,,96 101,hand _kɨnɨ
-Kaxarari-61_hand-1,,Kaxarari,61_hand,mɨkɨlɨ,mɨkɨlɨ,m ɨ + k ɨ l ɨ,,couto2005,546,,,,96 101,hand _kɨnɨ
-Mastanawa-61_hand-1,,Mastanawa,61_hand,bɨɸi,bɨɸi,b ɨ + ɸ i,,zariquiey2017,546,,,,96 97,hand _βi
-Chaninawa-61_hand-1,,Chaninawa,61_hand,βɨkɨ,βɨkɨ,β ɨ + k ɨ,,zariquiey2017,546,,,,96 98,hand _kɨnɨ
-Chaninawa-61_hand-2,,Chaninawa,61_hand,βɨɸi,βɨɸi,β ɨ + ɸ i,,zariquiey2017,546,,,,96 97,hand _βi
-Sharanawa-61_hand-1,,Sharanawa,61_hand,bɨɸi,bɨɸi,b ɨ + ɸ i,,zariquiey2017,546,,,,96 97,hand _βi
-Amawaka-61_hand-1,,Amawaka,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,zariquiey2017,546,,,,96 101,hand _kɨnɨ
-Nawa-61_hand-1,,Nawa,61_hand,bɨkɨ,bɨkɨ,b ɨ + k ɨ,,zariquiey2017,546,,,,96 98,hand _kɨnɨ
-Marinawa-61_hand-1,,Marinawa,61_hand,bɨkɨ,bɨkɨ,b ɨ + k ɨ,,zariquiey2017,546,,,,96 98,hand _kɨnɨ
-Yaminawa-61_hand-1,,Yaminawa,61_hand,mɨʔɨ,mɨʔɨ,m ɨ + ʔ ɨ,,zariquiey2017,546,,,,96 0,hand _ʔɨ
-Kashinawa_P-61_hand-1,,Kashinawa_P,61_hand,mɨki,mɨki,m ɨ + k i,,zariquiey2017,546,,,,96 98,hand _ki
-Kashinawa_B-61_hand-1,,Kashinawa_B,61_hand,mɨ̃kɨ̃,mɨ̃kɨ̃,m ɨ̃ + k ɨ̃,,camargo1995,546,,,,96 101,hand _kɨnɨ
-Araona-61_hand-1,,Araona,61_hand,e-me,eme,e m e,,pitman1981,546,,,,0,hand/eme
-Matses-43_featherlarge-1,,Matses,43_featherlarge,podo,podo,p o d o,,fleck2005,312,,,,117 224,podo
-Matis-43_featherlarge-1,,Matis,43_featherlarge,podo,podo,p o d o,,fleck2005,312,,,,117 224,podo
-Marubo-43_featherlarge-1,,Marubo,43_featherlarge,pɨi,pɨi,p ɨ + i,,fleck2005,375,,,,216 221,arm _i
-Katukina-43_featherlarge-1,,Katukina,43_featherlarge,rani,rani,r a n i,,aguiar1994,376,,,,218 222,body_hair
-Kanamari-43_featherlarge-1,,Kanamari,43_featherlarge,pɨ?i,pɨʔi,p ɨ + ʔ i,,aguiar1994,375,,,,216 221,arm _i
-Shipibo_Konibo-43_featherlarge-1,,Shipibo_Konibo,43_featherlarge,pɨi,pɨi,p ɨ + i,,fleck2005,375,,,,216 221,arm _i
-Kapanawa-43_featherlarge-1,,Kapanawa,43_featherlarge,pɨi,pɨi,p ɨ + i,,loos1998,375,,,,216 221,arm _i
-Shanenawa-43_featherlarge-1,,Shanenawa,43_featherlarge,pɨj,pɨj,p ɨ + j/i,,lanes2005,375,,,,216 221,arm _i
-Yawanawa-43_featherlarge-1,,Yawanawa,43_featherlarge,pɨi,pɨi,p ɨ + i,,paula1992,375,,,,216 221,arm _i
-Nukini-43_featherlarge-1,,Nukini,43_featherlarge,kɨru,kɨru,k ɨ r u,,aguiar2004,380,,,,118 225,ki _ru
-Poyanawa-43_featherlarge-1,,Poyanawa,43_featherlarge,pɨi,pɨi,p ɨ + i,,paula1992,375,,,,216 221,arm _i
-Iskonawa-43_featherlarge-1,,Iskonawa,43_featherlarge,pɨi,pɨi,p ɨ + i,,zariquiey2017,375,,,,216 221,arm _i
-Chakobo-43_featherlarge-1,,Chakobo,43_featherlarge,pɨ?i,pɨʔi,p ɨ + ʔ i,,zingg1998,375,,,,216 221,arm _i
-Pakawara-43_featherlarge-1,,Pakawara,43_featherlarge,puhi,puhi,p u + h i,,key2000,375,,,,119 221,arm _i
-Kakataibo-43_featherlarge-1,,Kakataibo,43_featherlarge,pɨi,pɨi,p ɨ + i,,zariquiey2017,375,,,,216 221,arm _i
-Kaxarari-43_featherlarge-1,,Kaxarari,43_featherlarge,pii,pii,p i + i,,couto2005,375,,,,216 221,arm _i
-Mastanawa-43_featherlarge-1,,Mastanawa,43_featherlarge,ʂupu,ʂupu,ʂ u p u,,zariquiey2017,378,,,,124,cotton
-Chaninawa-43_featherlarge-1,,Chaninawa,43_featherlarge,pɨi,pɨi,p ɨ + i,,zariquiey2017,375,,,,216 221,arm _i
-Sharanawa-43_featherlarge-1,,Sharanawa,43_featherlarge,ʂupu,ʂupu,ʂ u p u,,zariquiey2017,378,,,,124,cotton
-Amawaka-43_featherlarge-1,,Amawaka,43_featherlarge,pɨʔi,pɨʔi,p ɨ + ʔ i,,zariquiey2017,375,,,,216 221,arm _i
-Nawa-43_featherlarge-1,,Nawa,43_featherlarge,ɾadi,ɾadi,ɾ a d i,,zariquiey2017,376,,,,218 223,body_hair
-Marinawa-43_featherlarge-1,,Marinawa,43_featherlarge,ɾandi,ɾandi,ɾ a ⁿd i,,zariquiey2017,376,,,,218 222,body_hair
-Yaminawa-43_featherlarge-1,,Yaminawa,43_featherlarge,pɨj,pɨj,p ɨ + j/i,,zariquiey2017,375,,,,216 221,arm _i
-Kashinawa_P-43_featherlarge-1,,Kashinawa_P,43_featherlarge,pɨj,pɨj,p ɨ + j/i,,zariquiey2017,375,,,,216 221,arm _i
-Kashinawa_B-43_featherlarge-1,,Kashinawa_B,43_featherlarge,pɨi,pɨi,p ɨ + i,,camargo1995,375,,,,216 221,arm _i
-Araona-43_featherlarge-1,,Araona,43_featherlarge,e-iɲa,eiɲa,e i ɲ a,,pitman1981,377,,,,0,?
-Matses-65_heart-1,,Matses,65_heart,winte,uinte,u i n + t e,,fleck2005,566,,,,103 109,breathe _ti
-Matis-65_heart-1,,Matis,65_heart,winte,uinte,u i n + t e,,fleck2005,566,,,,103 109,breathe _ti
-Marubo-65_heart-1,,Marubo,65_heart,winti,winti,w i n + t i,,fleck2005,566,,,,103 104,breathe _ti
-Katukina-65_heart-1,,Katukina,65_heart,winti,winti,w i n + t i,,aguiar1994,566,,,,103 104,breathe _ti
-Shipibo_Konibo-65_heart-1,,Shipibo_Konibo,65_heart,huinti,huinti,h u i n + t i,,fleck2005,566,,,,103 104,breathe _ti
-Kapanawa-65_heart-1,,Kapanawa,65_heart,hwinti,hwinti,h u i n + t i,,loos1998,566,,,,103 104,breathe _ti
-Shanenawa-65_heart-1,,Shanenawa,65_heart,uinti,uinti,u i n + t i,,lanes2005,566,,,,103 104,breathe _ti
-Yawanawa-65_heart-1,,Yawanawa,65_heart,ũĩti,ũĩti,ũ ĩ + t i,,paula1992,566,,,,103 104,breathe _ti
-Nukini-65_heart-1,,Nukini,65_heart,kɨpĩ,kɨpĩ,k ɨ + p ĩ,,aguiar2004,569,,,,105 110,kɨpĩ
-Poyanawa-65_heart-1,,Poyanawa,65_heart,ũĩti,ũĩti,ũ ĩ + t i,,paula1992,566,,,,103 104,breathe _ti
-Iskonawa-65_heart-1,,Iskonawa,65_heart,ũĩti,ũĩti,ũ ĩ + t i,,zariquiey2017,566,,,,103 104,breathe _ti
-Chakobo-65_heart-1,,Chakobo,65_heart,huiti,huiti,h u i + t i,,zingg1998,566,,,,103 104,breathe _ti
-Pakawara-65_heart-1,,Pakawara,65_heart,huwiti,huwiti,h u w i + t i,,key2000,566,,,,103 104,breathe _ti
-Kakataibo-65_heart-1,,Kakataibo,65_heart,nuitu,nuitu,n u i t u,,zariquiey2017,0,,,,0,nuitu
-Kaxarari-65_heart-1,,Kaxarari,65_heart,hɨya,hɨya,h ɨ j a,,couto2005,570,,,,103 107,hija
-Mastanawa-65_heart-1,,Mastanawa,65_heart,uɨnti,uɨnti,u ɨ n + t i,,zariquiey2017,566,,,,103 104,breathe _ti
-Chaninawa-65_heart-1,,Chaninawa,65_heart,uĩti,uĩti,u ĩ + t i,,zariquiey2017,566,,,,103 104,breathe _ti
-Sharanawa-65_heart-1,,Sharanawa,65_heart,ũĩti,ũĩti,ũ ĩ + t i,,zariquiey2017,566,,,,103 104,breathe _ti
-Amawaka-65_heart-1,,Amawaka,65_heart,huinti,huinti,h u i n + t i,,zariquiey2017,566,,,,103 104,breathe _ti
-Nawa-65_heart-1,,Nawa,65_heart,uɨnti,uɨnti,u ɨ n + t i,,zariquiey2017,566,,,,103 104,breathe _ti
-Marinawa-65_heart-1,,Marinawa,65_heart,uɨnti,uɨnti,u ɨ n + t i,,zariquiey2017,566,,,,103 104,breathe _ti
-Yaminawa-65_heart-1,,Yaminawa,65_heart,uwɨti,uwɨti,u w ɨ + t i,,zariquiey2017,566,,,,103 104,breathe _ti
-Kashinawa_P-65_heart-1,,Kashinawa_P,65_heart,ɸujnti,ɸujnti,ɸ u j/i n + t i,,zariquiey2017,566,,,,103 104,breathe _ti
-Kashinawa_B-65_heart-1,,Kashinawa_B,65_heart,huĩti,huĩti,h u ĩ + t i,,camargo1995,566,,,,103 104,breathe _ti
-Araona-65_heart-1,,Araona,65_heart,mosoho,mosoho,m o s o h o,,pitman1981,568,,,,0,?
-Matses-59_guts-1,,Matses,59_guts,puku,puku,p u k u,,fleck2005,534,,,,92 88,stomach
-Matis-59_guts-1,,Matis,59_guts,puku,puku,p u k u,,fleck2005,534,,,,92 88,stomach
-Marubo-59_guts-1,,Marubo,59_guts,puku,puku,p u k u,,fleck2005,534,,,,92 88,stomach
-Katukina-59_guts-1,,Katukina,59_guts,puku,puku,p u k u,,aguiar1994,534,,,,92 88,stomach
-Shipibo_Konibo-59_guts-1,,Shipibo_Konibo,59_guts,puku,puku,p u k u,,fleck2005,534,,,,92 88,stomach
-Kapanawa-59_guts-1,,Kapanawa,59_guts,puku,puku,p u k u,,loos1998,534,,,,92 88,stomach
-Shanenawa-59_guts-1,,Shanenawa,59_guts,puku,puku,p u k u,,lanes2005,534,,,,92 88,stomach
-Yawanawa-59_guts-1,,Yawanawa,59_guts,puku,puku,p u k u,,paula1992,534,,,,92 88,stomach
-Nukini-59_guts-1,,Nukini,59_guts,puku,puku,p u k u,,aguiar2004,534,,,,92 88,stomach
-Poyanawa-59_guts-1,,Poyanawa,59_guts,βɨtɨh,βɨtɨh,β ɨ t ɨ h,,paula1992,536,,,,233 93,βɨtɨh
-Iskonawa-59_guts-1,,Iskonawa,59_guts,puku,puku,p u k u,,zariquiey2017,534,,,,92 88,stomach
-Chakobo-59_guts-1,,Chakobo,59_guts,puku,puku,p u k u,,zingg1998,534,,,,92 88,stomach
-Kakataibo-59_guts-1,,Kakataibo,59_guts,puku,puku,p u k u,,zariquiey2017,534,,,,92 88,stomach
-Mastanawa-59_guts-1,,Mastanawa,59_guts,puʔu,puʔu,p u ʔ u,,zariquiey2017,534,,,,92 88,stomach
-Chaninawa-59_guts-1,,Chaninawa,59_guts,puku,puku,p u k u,,zariquiey2017,534,,,,92 88,stomach
-Sharanawa-59_guts-1,,Sharanawa,59_guts,puku,puku,p u k u,,zariquiey2017,534,,,,92 88,stomach
-Amawaka-59_guts-1,,Amawaka,59_guts,puku,puku,p u k u,,zariquiey2017,534,,,,92 88,stomach
-Nawa-59_guts-1,,Nawa,59_guts,puku,puku,p u k u,,zariquiey2017,534,,,,92 88,stomach
-Marinawa-59_guts-1,,Marinawa,59_guts,puku,puku,p u k u,,zariquiey2017,534,,,,92 88,stomach
-Yaminawa-59_guts-1,,Yaminawa,59_guts,puʔu,puʔu,p u ʔ u,,zariquiey2017,534,,,,92 88,stomach
-Kashinawa_P-59_guts-1,,Kashinawa_P,59_guts,puku,puku,p u k u,,zariquiey2017,534,,,,92 88,stomach
-Araona-59_guts-1,,Araona,59_guts,e-c̷ama,ec̷ama,e tʃ a m a,,pitman1981,535,,,,0,?
-Matses-81_liver-1,,Matses,81_liver,isese,isese,i + s e s e,,fleck2005,709,,,,131 132,isese
-Matis-81_liver-1,,Matis,81_liver,takua,takua,t a kʷ a,,fleck2005,708,,,,17 18,liver
-Marubo-81_liver-1,,Marubo,81_liver,taka,taka,t a k a,,fleck2005,708,,,,17 127,liver
-Katukina-81_liver-1,,Katukina,81_liver,taka,taka,t a k a,,aguiar1994,708,,,,17 127,liver
-Shipibo_Konibo-81_liver-1,,Shipibo_Konibo,81_liver,taka,taka,t a k a,,fleck2005,708,,,,17 127,liver
-Kapanawa-81_liver-1,,Kapanawa,81_liver,taka,taka,t a k a,,loos1998,708,,,,17 127,liver
-Shanenawa-81_liver-1,,Shanenawa,81_liver,taka,taka,t a k a,,lanes2005,708,,,,17 127,liver
-Yawanawa-81_liver-1,,Yawanawa,81_liver,taka,taka,t a k a,,paula1992,708,,,,17 127,liver
-Nukini-81_liver-1,,Nukini,81_liver,taka,taka,t a k a,,aguiar2004,708,,,,17 127,liver
-Poyanawa-81_liver-1,,Poyanawa,81_liver,taka,taka,t a k a,,paula1992,708,,,,17 127,liver
-Iskonawa-81_liver-1,,Iskonawa,81_liver,taka,taka,t a k a,,zariquiey2017,708,,,,17 127,liver
-Chakobo-81_liver-1,,Chakobo,81_liver,taka,taka,t a k a,,zingg1998,708,,,,17 127,liver
-Pakawara-81_liver-1,,Pakawara,81_liver,taka,taka,t a k a,,key2000,708,,,,17 127,liver
-Kakataibo-81_liver-1,,Kakataibo,81_liver,takwa,takwa,t a kʷ a,,zariquiey2017,708,,,,17 18,liver
-Kaxarari-81_liver-1,,Kaxarari,81_liver,taka,taka,t a k a,,couto2005,708,,,,17 127,liver
-Mastanawa-81_liver-1,,Mastanawa,81_liver,taʔa,taʔa,t a ʔ a,,zariquiey2017,708,,,,17 128,liver
-Chaninawa-81_liver-1,,Chaninawa,81_liver,taka,taka,t a k a,,zariquiey2017,708,,,,17 127,liver
-Sharanawa-81_liver-1,,Sharanawa,81_liver,taka,taka,t a k a,,zariquiey2017,708,,,,17 127,liver
-Amawaka-81_liver-1,,Amawaka,81_liver,tança,tança,t a n ç a,,zariquiey2017,708,,,,133 130,liver
-Nawa-81_liver-1,,Nawa,81_liver,taka,taka,t a k a,,zariquiey2017,708,,,,17 127,liver
-Marinawa-81_liver-1,,Marinawa,81_liver,taka,taka,t a k a,,zariquiey2017,708,,,,17 127,liver
-Yaminawa-81_liver-1,,Yaminawa,81_liver,taʔa,taʔa,t a ʔ a,,zariquiey2017,708,,,,17 128,liver
-Kashinawa_P-81_liver-1,,Kashinawa_P,81_liver,taka,taka,t a k a,,zariquiey2017,708,,,,17 127,liver
-Kashinawa_B-81_liver-1,,Kashinawa_B,81_liver,taka,taka,t a k a,,camargo1995,708,,,,17 127,liver
-Araona-81_liver-1,,Araona,81_liver,takʷa,takʷa,t a kʷ a,,pitman1981,708,,,,0,?
-Matses-15_bone-1,,Matses,15_bone,kanite,kanite,k a + n i t e,,fleck2005,121,,,,0,back _nite
-Matis-15_bone-1,,Matis,15_bone,wiʃpo,wiʃpo,w i ʃ p o,,fleck2005,122,,,,0,shinbone
-Marubo-15_bone-1,,Marubo,15_bone,ʂau,ʂau,ʂ a u,,fleck2005,125,,,,0,bone
-Katukina-15_bone-1,,Katukina,15_bone,xau,ʂau,ʂ a u,,aguiar1994,125,,,,0,bone
-Shipibo_Konibo-15_bone-1,,Shipibo_Konibo,15_bone,ʂau,ʂau,ʂ a u,,fleck2005,125,,,,0,bone
-Kapanawa-15_bone-1,,Kapanawa,15_bone,ʂaw,ʂaw,ʂ a w,,loos1998,125,,,,0,bone
-Shanenawa-15_bone-1,,Shanenawa,15_bone,ʂaw,ʂaw,ʂ a w,,lanes2005,125,,,,0,bone
-Yawanawa-15_bone-1,,Yawanawa,15_bone,ʂau,ʂau,ʂ a u,,paula1992,125,,,,0,bone
-Nukini-15_bone-1,,Nukini,15_bone,hau,hau,h a u,,aguiar2004,125,,,,0,bone
-Poyanawa-15_bone-1,,Poyanawa,15_bone,haw,haw,h a w,,paula1992,125,,,,0,bone
-Iskonawa-15_bone-1,,Iskonawa,15_bone,haw,haw,h a w,,zariquiey2017,125,,,,0,bone
-Chakobo-15_bone-1,,Chakobo,15_bone,ʂau,ʂau,ʂ a u,,zingg1998,125,,,,0,bone
-Pakawara-15_bone-1,,Pakawara,15_bone,ʂau,ʂau,ʂ a u,,key2000,125,,,,0,bone
-Kakataibo-15_bone-1,,Kakataibo,15_bone,ʂo,ʂo,ʂ o,,zariquiey2017,125,,,,0,bone
-Kaxarari-15_bone-1,,Kaxarari,15_bone,ʂahu,ʂahu,ʂ a h u,,couto2005,125,,,,0,bone
-Mastanawa-15_bone-1,,Mastanawa,15_bone,ʂaw,ʂaw,ʂ a w,,zariquiey2017,125,,,,0,bone
-Chaninawa-15_bone-1,,Chaninawa,15_bone,ʂau,ʂau,ʂ a u,,zariquiey2017,125,,,,0,bone
-Sharanawa-15_bone-1,,Sharanawa,15_bone,ʂau,ʂau,ʂ a u,,zariquiey2017,125,,,,0,bone
-Amawaka-15_bone-1,,Amawaka,15_bone,çaw,çaw,ç a w,,zariquiey2017,125,,,,0,bone
-Nawa-15_bone-1,,Nawa,15_bone,ʂaw,ʂaw,ʂ a w,,zariquiey2017,125,,,,0,bone
-Marinawa-15_bone-1,,Marinawa,15_bone,ʂaw,ʂaw,ʂ a w,,zariquiey2017,125,,,,0,bone
-Yaminawa-15_bone-1,,Yaminawa,15_bone,ʂaw,ʂaw,ʂ a w,,zariquiey2017,125,,,,0,bone
-Kashinawa_P-15_bone-1,,Kashinawa_P,15_bone,ʂaw,ʂaw,ʂ a w,,zariquiey2017,125,,,,0,bone
-Kashinawa_B-15_bone-1,,Kashinawa_B,15_bone,ʂau,ʂau,ʂ a u,,camargo1995,125,,,,0,bone
-Araona-15_bone-1,,Araona,15_bone,e-c̷oa,ec̷oa,e tʃ o a,,pitman1981,125,,,,0,?
-Matses-86_meatflesh-1,,Matses,86_meatflesh,nami,nami,n a m i,,fleck2005,747,,,,129 134,flesh/meat
-Matis-86_meatflesh-1,,Matis,86_meatflesh,nami,nami,n a m i,,fleck2005,747,,,,129 134,flesh/meat
-Marubo-86_meatflesh-1,,Marubo,86_meatflesh,nami,nami,n a m i,,fleck2005,747,,,,129 134,flesh/meat
-Katukina-86_meatflesh-1,,Katukina,86_meatflesh,nami,nami,n a m i,,aguiar1994,747,,,,129 134,flesh/meat
-Shipibo_Konibo-86_meatflesh-1,,Shipibo_Konibo,86_meatflesh,nami,nami,n a m i,,fleck2005,747,,,,129 134,flesh/meat
-Kapanawa-86_meatflesh-1,,Kapanawa,86_meatflesh,nami,nami,n a m i,,loos1998,747,,,,129 134,flesh/meat
-Shanenawa-86_meatflesh-1,,Shanenawa,86_meatflesh,nami,nami,n a m i,,lanes2005,747,,,,129 134,flesh/meat
-Yawanawa-86_meatflesh-1,,Yawanawa,86_meatflesh,nami,nami,n a m i,,paula1992,747,,,,129 134,flesh/meat
-Nukini-86_meatflesh-1,,Nukini,86_meatflesh,nami,nami,n a m i,,aguiar2004,747,,,,129 134,flesh/meat
-Poyanawa-86_meatflesh-1,,Poyanawa,86_meatflesh,nambi,nambi,n a ⁿb i,,paula1992,747,,,,129 135,flesh/meat
-Iskonawa-86_meatflesh-1,,Iskonawa,86_meatflesh,nami,nami,n a m i,,zariquiey2017,747,,,,129 134,flesh/meat
-Chakobo-86_meatflesh-1,,Chakobo,86_meatflesh,nami,nami,n a m i,,zingg1998,747,,,,129 135,flesh/meat
-Pakawara-86_meatflesh-1,,Pakawara,86_meatflesh,nami,nami,n a m i,,key2000,747,,,,129 134,flesh/meat
-Kakataibo-86_meatflesh-1,,Kakataibo,86_meatflesh,nami,nami,n a m i,,zariquiey2017,747,,,,129 134,flesh/meat
-Kaxarari-86_meatflesh-1,,Kaxarari,86_meatflesh,lami,lami,l a m i,,couto2005,747,,,,129 135,flesh/meat
-Mastanawa-86_meatflesh-1,,Mastanawa,86_meatflesh,dabi,dabi,d a b i,,zariquiey2017,747,,,,129 136,flesh/meat
-Chaninawa-86_meatflesh-1,,Chaninawa,86_meatflesh,dabi,dabi,d a b i,,zariquiey2017,747,,,,129 136,flesh/meat
-Sharanawa-86_meatflesh-1,,Sharanawa,86_meatflesh,dabi,dabi,d a b i,,zariquiey2017,747,,,,129 136,flesh/meat
-Amawaka-86_meatflesh-1,,Amawaka,86_meatflesh,nambi,nambi,n a ⁿb i,,zariquiey2017,747,,,,129 135,flesh/meat
-Nawa-86_meatflesh-1,,Nawa,86_meatflesh,dabi,dabi,d a b i,,zariquiey2017,747,,,,129 136,flesh/meat
-Marinawa-86_meatflesh-1,,Marinawa,86_meatflesh,danbi,danbi,d a ⁿb i,,zariquiey2017,747,,,,129 135,flesh/meat
-Yaminawa-86_meatflesh-1,,Yaminawa,86_meatflesh,dabi,dabi,d a b i,,zariquiey2017,747,,,,129 136,flesh/meat
-Kashinawa_P-86_meatflesh-1,,Kashinawa_P,86_meatflesh,nami,nami,n a m i,,zariquiey2017,747,,,,129 134,flesh/meat
-Kashinawa_B-86_meatflesh-1,,Kashinawa_B,86_meatflesh,nami,nami,n a m i,,camargo1995,747,,,,129 134,flesh/meat
-Araona-86_meatflesh-1,,Araona,86_meatflesh,emi,emi,e m i,,pitman1981,747,,,,0,?
-Matses-40_fatgrease-1,,Matses,40_fatgrease,βɨtʃi,βɨtʃi,β ɨ tʃ i,,fleck2005,5,,,,0,skin
-Matis-40_fatgrease-1,,Matis,40_fatgrease,ʂɨnio,ʂɨnio,ʂ ɨ n i + o,,fleck2005,358,,,,0,fat _o
-Marubo-40_fatgrease-1,,Marubo,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,fleck2005,358,,,,0,fat
-Katukina-40_fatgrease-1,,Katukina,40_fatgrease,xene,xene,x/ʂ e n e,,aguiar1994,358,,,,0,fat
-Shipibo_Konibo-40_fatgrease-1,,Shipibo_Konibo,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,fleck2005,358,,,,0,fat
-Kapanawa-40_fatgrease-1,,Kapanawa,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,loos1998,358,,,,0,fat
-Shanenawa-40_fatgrease-1,,Shanenawa,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,lanes2005,358,,,,0,fat
-Poyanawa-40_fatgrease-1,,Poyanawa,40_fatgrease,hɨndi,hɨndi,h ɨ ⁿd i,,paula1992,358,,,,0,fat
-Iskonawa-40_fatgrease-1,,Iskonawa,40_fatgrease,hɨni,hɨni,h ɨ n i,,zariquiey2017,358,,,,0,fat
-Chakobo-40_fatgrease-1,,Chakobo,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,zingg1998,358,,,,0,fat
-Kakataibo-40_fatgrease-1,,Kakataibo,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,zariquiey2017,358,,,,0,fat
-Mastanawa-40_fatgrease-1,,Mastanawa,40_fatgrease,ʃidi,ʃidi,ʃ i d i,,zariquiey2017,358,,,,0,fat
-Chaninawa-40_fatgrease-1,,Chaninawa,40_fatgrease,ʂɨdi,ʂɨdi,ʂ ɨ d i,,zariquiey2017,358,,,,0,fat
-Sharanawa-40_fatgrease-1,,Sharanawa,40_fatgrease,ʂɨdi,ʂɨdi,ʂ ɨ d i,,zariquiey2017,358,,,,0,fat
-Amawaka-40_fatgrease-1,,Amawaka,40_fatgrease,çɨndi,çɨndi,ç ɨ ⁿd i,,zariquiey2017,358,,,,0,fat
-Nawa-40_fatgrease-1,,Nawa,40_fatgrease,ʂɨdi,ʂɨdi,ʂ ɨ d i,,zariquiey2017,358,,,,0,fat
-Marinawa-40_fatgrease-1,,Marinawa,40_fatgrease,ʂɨndi,ʂɨndi,ʂ ɨ ⁿd i,,zariquiey2017,358,,,,0,fat
-Yaminawa-40_fatgrease-1,,Yaminawa,40_fatgrease,ʂɨdi,ʂɨdi,ʂ ɨ d i,,zariquiey2017,358,,,,0,fat
-Kashinawa_P-40_fatgrease-1,,Kashinawa_P,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,zariquiey2017,358,,,,0,fat
-Araona-40_fatgrease-1,,Araona,40_fatgrease,etsei,etsei,e ts e i,,pitman1981,358,,,,0,?
-Matses-13_blood-1,,Matses,13_blood,intak,intak,i n t a k,,fleck2005,105,,,,0,intak
-Matis-13_blood-1,,Matis,13_blood,imi,imi,i m i,,fleck2005,106,,,,0,blood
-Marubo-13_blood-1,,Marubo,13_blood,imi,imi,i m i,,fleck2005,106,,,,0,blood
-Katukina-13_blood-1,,Katukina,13_blood,himi,himi,h i m i,,aguiar1994,106,,,,0,blood
-Shipibo_Konibo-13_blood-1,,Shipibo_Konibo,13_blood,himi,himi,h i m i,,fleck2005,106,,,,0,blood
-Kapanawa-13_blood-1,,Kapanawa,13_blood,himi,himi,h i m i,,loos1998,106,,,,0,blood
-Shanenawa-13_blood-1,,Shanenawa,13_blood,imi,imi,i m i,,lanes2005,106,,,,0,blood
-Yawanawa-13_blood-1,,Yawanawa,13_blood,imi,imi,i m i,,paula1992,106,,,,0,blood
-Nukini-13_blood-1,,Nukini,13_blood,imĩ,imĩ,i m ĩ,,aguiar2004,106,,,,0,blood
-Poyanawa-13_blood-1,,Poyanawa,13_blood,imbi,imbi,i ⁿb i,,paula1992,106,,,,0,blood
-Iskonawa-13_blood-1,,Iskonawa,13_blood,imi,imi,i m i,,zariquiey2017,106,,,,0,blood
-Chakobo-13_blood-1,,Chakobo,13_blood,himi,himi,h i m i,,zingg1998,106,,,,0,blood
-Pakawara-13_blood-1,,Pakawara,13_blood,himi,himi,h i m i,,key2000,106,,,,0,blood
-Kakataibo-13_blood-1,,Kakataibo,13_blood,imi,imi,i m i,,zariquiey2017,106,,,,0,blood
-Kaxarari-13_blood-1,,Kaxarari,13_blood,himi,himi,h i m i,,couto2005,106,,,,0,blood
-Mastanawa-13_blood-1,,Mastanawa,13_blood,ibi,ibi,i b i,,zariquiey2017,106,,,,0,blood
-Chaninawa-13_blood-1,,Chaninawa,13_blood,ibi,ibi,i b i,,zariquiey2017,106,,,,0,blood
-Sharanawa-13_blood-1,,Sharanawa,13_blood,ibi,ibi,i b i,,zariquiey2017,106,,,,0,blood
-Amawaka-13_blood-1,,Amawaka,13_blood,himbi,himbi,h i ⁿb i,,zariquiey2017,106,,,,0,blood
-Nawa-13_blood-1,,Nawa,13_blood,ibi,ibi,i b i,,zariquiey2017,106,,,,0,blood
-Marinawa-13_blood-1,,Marinawa,13_blood,inbi,inbi,i ⁿb i,,zariquiey2017,106,,,,0,blood
-Yaminawa-13_blood-1,,Yaminawa,13_blood,ibi,ibi,i b i,,zariquiey2017,106,,,,0,blood
-Kashinawa_P-13_blood-1,,Kashinawa_P,13_blood,himi,himi,h i m i,,zariquiey2017,106,,,,0,blood
-Kashinawa_B-13_blood-1,,Kashinawa_B,13_blood,himi,himi,h i m i,,camargo1995,106,,,,0,blood
-Araona-13_blood-1,,Araona,13_blood,ami,ami,a m i,,pitman1981,106,,,,0,?
+ID,Local_ID,Language_ID,Parameter_ID,Value,Form,Segments,Comment,Source,Cognacy,Loan,Graphemes,Profile,Partial_Cognacy,Motivation_Structure,RootCognacy,FormativeCognacy
+Katukina-5_backofbody-1,,Katukina,5_backofbody,pimana,pimana,p i + m a n a,,aguiar1994,,,,,200 202,shoulder _above,200,202
+Shipibo_Konibo-5_backofbody-1,,Shipibo_Konibo,5_backofbody,pɨka,pɨka,p ɨ + k a,,fleck2005,,,,,200 205,shoulder _ka,200,205
+Kapanawa-5_backofbody-1,,Kapanawa,5_backofbody,pɨka,pɨka,p ɨ + k a,,loos1998,,,,,200 205,shoulder _ka,200,205
+Poyanawa-5_backofbody-1,,Poyanawa,5_backofbody,pɨti,pɨti,p ɨ + t i,,paula1992,,,,,200 206,shoulder _tɨ,200,0
+AraraShawa-5_backofbody-1,,AraraShawa,5_backofbody,pitʃi,pitʃi,p ɨ + tʃ i,,cunha1993,,,,,200 207,shoulder _tʃi,200,207
+Shanenawa-5_backofbody-1,,Shanenawa,5_backofbody,pustʃi,pɨstʃi,p ɨ + tʃ i,,lanes2005,,,,,200 207,shoulder _tʃi,200,207
+Nukini-5_backofbody-1,,Nukini,5_backofbody,puʃi,pɨʃi,p ɨ + tʃ i,,aguiar2004,,,,,200 207,shoulder _ʧi,200,207
+Iskonawa-5_backofbody-1,,Iskonawa,5_backofbody,pɨʧi,pɨʧi,p ɨ + tʃ i,,zariquiey2017,,,,,200 207,shoulder _ʧi,200,207
+Mastanawa-5_backofbody-1,,Mastanawa,5_backofbody,piʧi,piʧi,p i + tʃ i,,zariquiey2017,,,,,200 207,shoulder _ʧi,200,207
+Nawa-5_backofbody-1,,Nawa,5_backofbody,pɨʧi,pɨʧi,p ɨ + tʃ i,,zariquiey2017,,,,,200 207,shoulder _ʧi,200,207
+Marinawa-5_backofbody-1,,Marinawa,5_backofbody,pɨʧi,pɨʧi,p ɨ + tʃ i,,zariquiey2017,,,,,200 207,shoulder _ʧi,200,207
+Yaminawa-5_backofbody-1,,Yaminawa,5_backofbody,piʧi,pɨʧi,p ɨ + tʃ i,,zariquiey2017,,,,,200 207,shoulder _ʧi,200,207
+Kashinawa_P-5_backofbody-1,,Kashinawa_P,5_backofbody,pɨʧi,pɨʧi,p ɨ + tʃ i,,zariquiey2017,,,,,200 207,shoulder _ʧi,200,207
+Sharanawa-5_backofbody-1,,Sharanawa,5_backofbody,pɨmiti,pɨmiti,p ɨ + m i t i,,zariquiey2017,,,,,200 208,shoulder _miti,200,208
+Chaninawa-5_backofbody-1,,Chaninawa,5_backofbody,pɨʂaβati,pɨʂaβati,p ɨ + ʂ a β a t i,,zariquiey2017,,,,,200 209,shoulder _ʂaβati,200,209
+Iskonawa-5_backofbody-2,,Iskonawa,5_backofbody,katɨ,katɨ,k a + t ɨ,,zariquiey2017,,,,,203 206,back _tɨ,203,206
+Chakobo-5_backofbody-1,,Chakobo,5_backofbody,katɨ,katɨ,k a + t ɨ,,zingg1998,,,,,203 206,back _tɨ,203,206
+Amawaka-5_backofbody-1,,Amawaka,5_backofbody,katɨ,katɨ,k a + t ɨ,,zariquiey2017,,,,,203 206,back _tɨ,203,206
+Kaxarari-5_backofbody-1,,Kaxarari,5_backofbody,katapu,katapu,k a + t a p u,,couto2005,,,,,203 210,back _root,203,210
+Matses-5_backofbody-1,,Matses,5_backofbody,katʂo,katʂo,k a + ʈʂ o,,fleck2005,,,,,203 211,back _ʂu,203,211
+Matis-5_backofbody-1,,Matis,5_backofbody,kaʂuku,kaʂuku,k a + ʂ u k u,,fleck2005,,,,,203 211,back _ʂu,203,211
+Marubo-5_backofbody-1,,Marubo,5_backofbody,kaʂu,kaʂu,k a + ʂ u,,fleck2005,,,,,203 211,back _ʂu,203,211
+Kanamari-5_backofbody-1,,Kanamari,5_backofbody,kaʃo,kaʃo,k a + ʃ o,,aguiar1994,,,,,203 211,back _So,203,211
+Kakataibo-5_backofbody-1,,Kakataibo,5_backofbody,kaʂo,kaʂu,k a + ʂ u,,zariquiey2017,,,,,203 211,back _ʂu,203,211
+Matses-8_belly-1,,Matses,8_belly,puku,puku,p u k u,,fleck2005,,,,,54,stomach,54,0
+Matis-8_belly-1,,Matis,8_belly,puku,puku,p u k u,,fleck2005,,,,,54,stomach,54,0
+Shipibo_Konibo-8_belly-1,,Shipibo_Konibo,8_belly,puku,puku,p u k u,,fleck2005,,,,,54,stomach,54,0
+Kapanawa-8_belly-1,,Kapanawa,8_belly,puku,puku,p u k u,,loos1998,,,,,54,belly,54,0
+Pakawara-8_belly-1,,Pakawara,8_belly,puku,puku,p u k u,,key2000,,,,,54,belly _ku,54,0
+Kakataibo-8_belly-1,,Kakataibo,8_belly,puku,puku,p u k u,,zariquiey2017,,,,,54,stomach,54,0
+Amawaka-8_belly-1,,Amawaka,8_belly,puku,puku,p u k u,,zariquiey2017,,,,,54,stomach,54,0
+Nukini-8_belly-1,,Nukini,8_belly,naβa,naβa,n a β a,,aguiar2004,,,,,55,width,55,0
+Poyanawa-8_belly-1,,Poyanawa,8_belly,dahβa,dahβa,d a h β a,,paula1992,,,,,55,width,55,0
+Iskonawa-8_belly-1,,Iskonawa,8_belly,nahβa,nahβa,n a h β a,,zariquiey2017,,,,,55,width,55,0
+Chakobo-8_belly-1,,Chakobo,8_belly,takɨpɨ,takɨpɨ,t a k ɨ p ɨ,,zingg1998,,,,,58,takipi,58,0
+Kaxarari-8_belly-1,,Kaxarari,8_belly,turu,turu,t u r u,,couto2005,,,,,60,rounded,60,0
+Mastanawa-8_belly-1,,Mastanawa,8_belly,ʂaʔi,ʂaʔi,ʂ a ʔ i,,zariquiey2017,,,,,61,saʔi,61,0
+Sharanawa-8_belly-1,,Sharanawa,8_belly,namɨn,namɨn,n a m ɨ n,,zariquiey2017,,,,,62,namɨn,62,0
+Marubo-8_belly-1,,Marubo,8_belly,pustu,pustu,p u s t u,,fleck2005,,,,,1553,belly,1553,0
+Katukina-8_belly-1,,Katukina,8_belly,pustu,pustu,p u s t u,,aguiar1994,,,,,1553,belly,1553,0
+Kanamari-8_belly-1,,Kanamari,8_belly,posto,posto,p o s t o,,aguiar1994,,,,,1553,belly,1553,0
+Shanenawa-8_belly-1,,Shanenawa,8_belly,pustu,pustu,p u s t u,,lanes2005,,,,,1553,belly,1553,0
+Yawanawa-8_belly-1,,Yawanawa,8_belly,pustu,pustu,p u s t u,,paula1992,,,,,1553,belly,1553,0
+Nukini-8_belly-2,,Nukini,8_belly,puhtu,puhtu,p u h t u,,aguiar2004,,,,,1553,belly,1553,0
+Chaninawa-8_belly-1,,Chaninawa,8_belly,pusto,pusto,p u s t u,,zariquiey2017,,,,,1553,belly,1553,0
+Marinawa-8_belly-1,,Marinawa,8_belly,pustu,pustu,p u s t u,,zariquiey2017,,,,,1553,belly,1553,0
+Yaminawa-8_belly-1,,Yaminawa,8_belly,pustu,pustu,p u s t u,,zariquiey2017,,,,,1553,belly,1553,0
+Kashinawa_P-8_belly-1,,Kashinawa_P,8_belly,pustu,pustu,p u s t u,,zariquiey2017,,,,,1553,belly,1553,0
+Kashinawa_B-8_belly-1,,Kashinawa_B,8_belly,pustu,pustu,p u s t u,,camargo1995,,,,,1553,belly,1553,0
+AraraShawa-8_belly-1,,AraraShawa,8_belly,atu,atu,a t u,,cunha1993,,,,,1554,intestines,1554,0
+Nawa-8_belly-1,,Nawa,8_belly,atu,atu,a t u,,zariquiey2017,,,,,1554,intestines,1554,0
+Matses-13_blood-1,,Matses,13_blood,intak,intak,i n t a k,,fleck2005,,,,,105,intak,105,0
+Matis-13_blood-1,,Matis,13_blood,imi,imi,i m i,,fleck2005,,,,,106,blood,106,0
+Marubo-13_blood-1,,Marubo,13_blood,imi,imi,i m i,,fleck2005,,,,,106,blood,106,0
+Katukina-13_blood-1,,Katukina,13_blood,himi,himi,h i m i,,aguiar1994,,,,,106,blood,106,0
+Shipibo_Konibo-13_blood-1,,Shipibo_Konibo,13_blood,himi,himi,h i m i,,fleck2005,,,,,106,blood,106,0
+Kapanawa-13_blood-1,,Kapanawa,13_blood,himi,himi,h i m i,,loos1998,,,,,106,blood,106,0
+AraraShawa-13_blood-1,,AraraShawa,13_blood,imbi,imbi,i ⁿb i,,cunha1993,,,,,106,blood,106,0
+Shanenawa-13_blood-1,,Shanenawa,13_blood,imi,imi,i m i,,lanes2005,,,,,106,blood,106,0
+Yawanawa-13_blood-1,,Yawanawa,13_blood,imi,imi,i m i,,paula1992,,,,,106,blood,106,0
+Nukini-13_blood-1,,Nukini,13_blood,imĩ,imĩ,i m ĩ,,aguiar2004,,,,,106,blood,106,0
+Poyanawa-13_blood-1,,Poyanawa,13_blood,imbi,imbi,i ⁿb i,,paula1992,,,,,106,blood,106,0
+Iskonawa-13_blood-1,,Iskonawa,13_blood,imi,imi,i m i,,zariquiey2017,,,,,106,blood,106,0
+Chakobo-13_blood-1,,Chakobo,13_blood,himi,himi,h i m i,,zingg1998,,,,,106,blood,106,0
+Pakawara-13_blood-1,,Pakawara,13_blood,himi,himi,h i m i,,key2000,,,,,106,blood,106,0
+Kakataibo-13_blood-1,,Kakataibo,13_blood,imi,imi,i m i,,zariquiey2017,,,,,106,blood,106,0
+Kaxarari-13_blood-1,,Kaxarari,13_blood,himi,himi,h i m i,,couto2005,,,,,106,blood,106,0
+Mastanawa-13_blood-1,,Mastanawa,13_blood,ibi,ibi,i b i,,zariquiey2017,,,,,106,blood,106,0
+Chaninawa-13_blood-1,,Chaninawa,13_blood,ibi,ibi,i b i,,zariquiey2017,,,,,106,blood,106,0
+Sharanawa-13_blood-1,,Sharanawa,13_blood,ibi,ibi,i b i,,zariquiey2017,,,,,106,blood,106,0
+Amawaka-13_blood-1,,Amawaka,13_blood,himbi,himbi,h i ⁿb i,,zariquiey2017,,,,,106,blood,106,0
+Nawa-13_blood-1,,Nawa,13_blood,ibi,ibi,i b i,,zariquiey2017,,,,,106,blood,106,0
+Marinawa-13_blood-1,,Marinawa,13_blood,inbi,inbi,i ⁿb i,,zariquiey2017,,,,,106,blood,106,0
+Yaminawa-13_blood-1,,Yaminawa,13_blood,ibi,ibi,i b i,,zariquiey2017,,,,,106,blood,106,0
+Kashinawa_P-13_blood-1,,Kashinawa_P,13_blood,himi,himi,h i m i,,zariquiey2017,,,,,106,blood,106,0
+Kashinawa_B-13_blood-1,,Kashinawa_B,13_blood,himi,himi,h i m i,,camargo1995,,,,,106,blood,106,0
+Matses-15_bone-1,,Matses,15_bone,kanite,kanite,k a + n i t e,,fleck2005,,,,,121 126,back _nite,121,126
+Matis-15_bone-1,,Matis,15_bone,wiʃpo,wiʃpo,w i ʃ p o,,fleck2005,,,,,122,shinbone,122,0
+Marubo-15_bone-1,,Marubo,15_bone,ʂau,ʂau,ʂ a u,,fleck2005,,,,,125,bone,125,0
+Katukina-15_bone-1,,Katukina,15_bone,xau,xau,ʂ a u,,aguiar1994,,,,,125,bone,125,0
+Shipibo_Konibo-15_bone-1,,Shipibo_Konibo,15_bone,ʂau,ʂau,ʂ a u,,fleck2005,,,,,125,bone,125,0
+Kapanawa-15_bone-1,,Kapanawa,15_bone,ʂaw,ʂaw,ʂ a w,,loos1998,,,,,125,bone,125,0
+AraraShawa-15_bone-1,,AraraShawa,15_bone,ʃau,ʃau,ʃ a u,,cunha1993,,,,,125,bone,125,0
+Shanenawa-15_bone-1,,Shanenawa,15_bone,ʂaw,ʂaw,ʂ a w,,lanes2005,,,,,125,bone,125,0
+Yawanawa-15_bone-1,,Yawanawa,15_bone,ʂau,ʂau,ʂ a u,,paula1992,,,,,125,bone,125,0
+Nukini-15_bone-1,,Nukini,15_bone,hau,hau,h a u,,aguiar2004,,,,,125,bone,125,0
+Poyanawa-15_bone-1,,Poyanawa,15_bone,haw,haw,h a w,,paula1992,,,,,125,bone,125,0
+Iskonawa-15_bone-1,,Iskonawa,15_bone,haw,haw,h a w,,zariquiey2017,,,,,125,bone,125,0
+Chakobo-15_bone-1,,Chakobo,15_bone,ʂau,ʂau,ʂ a u,,zingg1998,,,,,125,bone,125,0
+Pakawara-15_bone-1,,Pakawara,15_bone,ʂau,ʂau,ʂ a u,,key2000,,,,,125,bone,125,0
+Kakataibo-15_bone-1,,Kakataibo,15_bone,ʂo,ʂo,ʂ o,,zariquiey2017,,,,,125,bone,125,0
+Kaxarari-15_bone-1,,Kaxarari,15_bone,ʂahu,ʂahu,ʂ a h u,,couto2005,,,,,125,bone,125,0
+Mastanawa-15_bone-1,,Mastanawa,15_bone,ʂaw,ʂaw,ʂ a w,,zariquiey2017,,,,,125,bone,125,0
+Chaninawa-15_bone-1,,Chaninawa,15_bone,ʂau,ʂau,ʂ a u,,zariquiey2017,,,,,125,bone,125,0
+Sharanawa-15_bone-1,,Sharanawa,15_bone,ʂau,ʂau,ʂ a u,,zariquiey2017,,,,,125,bone,125,0
+Amawaka-15_bone-1,,Amawaka,15_bone,çaw,çaw,ç a w,,zariquiey2017,,,,,125,bone,125,0
+Nawa-15_bone-1,,Nawa,15_bone,ʂaw,ʂaw,ʂ a w,,zariquiey2017,,,,,125,bone,125,0
+Marinawa-15_bone-1,,Marinawa,15_bone,ʂaw,ʂaw,ʂ a w,,zariquiey2017,,,,,125,bone,125,0
+Yaminawa-15_bone-1,,Yaminawa,15_bone,ʂaw,ʂaw,ʂ a w,,zariquiey2017,,,,,125,bone,125,0
+Kashinawa_P-15_bone-1,,Kashinawa_P,15_bone,ʂaw,ʂaw,ʂ a w,,zariquiey2017,,,,,125,bone,125,0
+Kashinawa_B-15_bone-1,,Kashinawa_B,15_bone,ʂau,ʂau,ʂ a u,,camargo1995,,,,,125,bone,125,0
+Matis-33_ear-1,,Matis,33_ear,paβɨʂan,paβɨʂan,p a + β ɨ ʂ a n,,fleck2005,,,,,185 186,ear _bɨsan,185,186
+Shipibo_Konibo-33_ear-1,,Shipibo_Konibo,33_ear,paβiki,paβiki,p a + β i k i,,fleck2005,,,,,185 187,ear _binki,185,187
+Kapanawa-33_ear-1,,Kapanawa,33_ear,paβinki,paβinki,p a + β i n k i,,loos1998,,,,,185 187,ear _binki,185,187
+Shanenawa-33_ear-1,,Shanenawa,33_ear,pahinki,pahinki,p a + h i n k i,,lanes2005,,,,,185 187,ear _binki,185,187
+Yawanawa-33_ear-1,,Yawanawa,33_ear,pahinki,pahinki,p a + h i n k i,,paula1992,,,,,185 187,ear _binki,185,187
+Nukini-33_ear-1,,Nukini,33_ear,paβiki,paβiki,p a + β i k i,,aguiar2004,,,,,185 187,ear _binki,185,187
+Poyanawa-33_ear-1,,Poyanawa,33_ear,pabĩki,pabĩki,p a + b ĩ k i,,paula1992,,,,,185 187,ear _binki,185,187
+Iskonawa-33_ear-1,,Iskonawa,33_ear,paβinki,paβinki,p a + β i n k i,,zariquiey2017,,,,,185 187,ear _binki,185,187
+Chakobo-33_ear-1,,Chakobo,33_ear,pa?uki,paʔuki,p a + ʔ u k i,,zingg1998,,,,,185 187,ear _binki,185,187
+Kakataibo-33_ear-1,,Kakataibo,33_ear,paβi,paβi,p a + β i,,zariquiey2017,,,,,185 187,ear _βi,185,187
+Amawaka-33_ear-1,,Amawaka,33_ear,pawinki,pawinki,p a + w i n k i,,zariquiey2017,,,,,185 187,ear _binki,185,187
+Marinawa-33_ear-1,,Marinawa,33_ear,paɸiki,paɸiki,p a + ɸ i k i,,zariquiey2017,,,,,185 187,ear _binki,185,187
+Kashinawa_P-33_ear-1,,Kashinawa_P,33_ear,paβinki,paβinki,p a + β i n k i,,zariquiey2017,,,,,185 187,ear _binki,185,187
+Kashinawa_B-33_ear-1,,Kashinawa_B,33_ear,paβĩki,paβĩki,p a + β ĩ k i,,camargo1995,,,,,185 187,ear _binki,185,187
+Pakawara-33_ear-1,,Pakawara,33_ear,pa?uki,paʔuki,p a + ʔ u k i,,key2000,,,,,185 187,ear _ʔuki,185,187
+Matses-33_ear-1,,Matses,33_ear,paβiate,paβiate,p a + β i a t e,,fleck2005,,,,,185 190,ear _biate,185,190
+Marubo-33_ear-1,,Marubo,33_ear,pantʃu,pantʃu,p a n + tʃ u,,fleck2005,,,,,185 226,ear _tʃu,185,226
+Katukina-33_ear-1,,Katukina,33_ear,pantxu,pantxu,p a n + ʈʂ u,,aguiar1994,,,,,185 226,ear _tʃu,185,226
+Kanamari-33_ear-1,,Kanamari,33_ear,pãtʃo,pãtʃo,p a n + tʃ o,,aguiar1994,,,,,185 226,ear _tʃu,185,226
+AraraShawa-33_ear-1,,AraraShawa,33_ear,patʃi,patʃi,p a + tʃ i,,cunha1993,,,,,185 226,ear _tʃu,185,226
+Mastanawa-33_ear-1,,Mastanawa,33_ear,paʧu,paʧu,p a + tʃ u,,zariquiey2017,,,,,185 226,ear _tʃu,185,226
+Sharanawa-33_ear-1,,Sharanawa,33_ear,pat͡ʃu,pat͡ʃu,p a + tʃ u,,zariquiey2017,,,,,185 226,ear _tʃu,185,226
+Nawa-33_ear-1,,Nawa,33_ear,paʧu,paʧu,p a + tʃ u,,zariquiey2017,,,,,185 226,ear _tʃu,185,226
+Yaminawa-33_ear-1,,Yaminawa,33_ear,paʧu,paʧu,p a + tʃ u,,zariquiey2017,,,,,185 226,ear _tʃu,185,226
+Kaxarari-33_ear-1,,Kaxarari,33_ear,isãkili,isãkili,i s ã + k i l i,,couto2005,,,,,191 193,temple _kili,191,193
+Chaninawa-33_ear-1,,Chaninawa,33_ear,dikati,dikati,d i k a + t i,,zariquiey2017,,,,,194,hear _ti,194,0
+Nawa-33_ear-2,,Nawa,33_ear,dikati,dikati,d i k a + t i,,zariquiey2017,,,,,194,hear _ti,194,0
+Matses-37_eye-1,,Matses,37_eye,ɨʂɨ,ɨʂɨ,ɨ ʂ ɨ,,fleck2005,,,,,201,seed,201,0
+Kaxarari-37_eye-1,,Kaxarari,37_eye,wɨtʃɨwɨ,wɨtʃɨ,w ɨ + tʃ ɨ w ɨ,,couto2005,,,,,198 3,eye _tʃɨwɨ,198,3
+Matis-37_eye-1,,Matis,37_eye,βɨdu,βɨdu,β ɨ + d u,,fleck2005,,,,,198 195,eye _ɾu,198,195
+Marubo-37_eye-1,,Marubo,37_eye,βɨru,βɨru,β ɨ + r u,,fleck2005,,,,,198 195,eye _ɾu,198,195
+Katukina-37_eye-1,,Katukina,37_eye,βiru,βiru,β i + r u,,aguiar1994,,,,,198 195,eye _ɾu,198,195
+Kanamari-37_eye-1,,Kanamari,37_eye,mβɨru,mβɨru,ⁿβ ɨ + r u,,aguiar1994,,,,,198 195,eye _ɾu,198,195
+Shipibo_Konibo-37_eye-1,,Shipibo_Konibo,37_eye,βɨru,βɨru,β ɨ + r u,,fleck2005,,,,,198 195,eye _ɾu,198,195
+Kapanawa-37_eye-1,,Kapanawa,37_eye,βɨru,βɨru,β ɨ + r u,,loos1998,,,,,198 195,eye _ɾu,198,195
+AraraShawa-37_eye-1,,AraraShawa,37_eye,βɨrɨ,βɨrɨ,β ɨ + r ɨ,,cunha1993,,,,,198 195,eye _ɾɨ,198,195
+Shanenawa-37_eye-1,,Shanenawa,37_eye,ɸɨru,ɸɨru,ɸ ɨ + r u,,lanes2005,,,,,198 195,eye _ɾu,198,195
+Yawanawa-37_eye-1,,Yawanawa,37_eye,βɨru,βɨru,β ɨ + r u,,paula1992,,,,,198 195,eye _ɾu,198,195
+Nukini-37_eye-1,,Nukini,37_eye,βɨrɨ,βɨrɨ,β ɨ + r u,,aguiar2004,,,,,198 195,eye _ɾu,198,195
+Poyanawa-37_eye-1,,Poyanawa,37_eye,βɨru,βɨru,β ɨ + r u,,paula1992,,,,,198 195,eye _ɾu,198,195
+Iskonawa-37_eye-1,,Iskonawa,37_eye,βɨɾu,βɨɾu,β ɨ + ɾ u,,zariquiey2017,,,,,198 195,eye _ɾu,198,195
+Chakobo-37_eye-1,,Chakobo,37_eye,βɨru,βɨru,β ɨ + r u,,zingg1998,,,,,198 195,eye _ɾu,198,195
+Pakawara-37_eye-1,,Pakawara,37_eye,wɨru,wɨru,w ɨ + r u,,key2000,,,,,198 195,eye _ɾu,198,195
+Kakataibo-37_eye-1,,Kakataibo,37_eye,βɨro,βɨro,β ɨ + ɾ u,,zariquiey2017,,,,,198 195,eye _ɾu,198,195
+Mastanawa-37_eye-1,,Mastanawa,37_eye,ɸɨɾu,ɸɨɾu,ɸ ɨ + ɾ u,,zariquiey2017,,,,,198 195,eye _ɾu,198,195
+Chaninawa-37_eye-1,,Chaninawa,37_eye,ɸɨɾu,ɸɨɾu,β ɨ + ɾ u,,zariquiey2017,,,,,198 195,eye _ɾu,198,195
+Sharanawa-37_eye-1,,Sharanawa,37_eye,ɸɨɾu,ɸɨɾu,ɸ ɨ + ɾ u,,zariquiey2017,,,,,198 195,eye _ɾu,198,195
+Amawaka-37_eye-1,,Amawaka,37_eye,βɨɾu,βɨɾu,β ɨ + ɾ u,,zariquiey2017,,,,,198 195,eye _ɾu,198,195
+Nawa-37_eye-1,,Nawa,37_eye,ɸɨɾu,ɸɨɾu,ɸ ɨ + ɾ u,,zariquiey2017,,,,,198 195,eye _ɾu,198,195
+Marinawa-37_eye-1,,Marinawa,37_eye,ɸwɨɾu,ɸɨɾu,ɸ ɨ + ɾ u,,zariquiey2017,,,,,198 195,eye _ɾu,198,195
+Yaminawa-37_eye-1,,Yaminawa,37_eye,ɸɨɾu,ɸɨɾu,ɸ ɨ + ɾ u,,zariquiey2017,,,,,198 195,eye _ɾu,198,195
+Kashinawa_P-37_eye-1,,Kashinawa_P,37_eye,βɨɾu,βɨɾu,β ɨ + ɾ u,,zariquiey2017,,,,,198 195,eye _ɾu,198,195
+Kashinawa_B-37_eye-1,,Kashinawa_B,37_eye,βɨdu,βɨdu,β ɨ + d u,,camargo1995,,,,,198 195,eye _ɾu,198,195
+Kaxarari-37_eye-2,,Kaxarari,37_eye,βutʃu,βɨtʃu,β ɨ + tʃ u,,couto2005,,,,,198 197,eye _tʃu,198,197
+Matis-40_fatgrease-1,,Matis,40_fatgrease,ʂɨnio,ʂɨnio,ʂ ɨ n i + o,,fleck2005,,,,,358,fat _o,358,0
+Marubo-40_fatgrease-1,,Marubo,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,fleck2005,,,,,358,fat,358,0
+Katukina-40_fatgrease-1,,Katukina,40_fatgrease,xene,xene,ʂ ɨ n i,,aguiar1994,,,,,358,fat,358,0
+Shipibo_Konibo-40_fatgrease-1,,Shipibo_Konibo,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,fleck2005,,,,,358,fat,358,0
+Kapanawa-40_fatgrease-1,,Kapanawa,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,loos1998,,,,,358,fat,358,0
+Shanenawa-40_fatgrease-1,,Shanenawa,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,lanes2005,,,,,358,fat,358,0
+Poyanawa-40_fatgrease-1,,Poyanawa,40_fatgrease,hɨndi,hɨndi,h ɨ ⁿd i,,paula1992,,,,,358,fat,358,0
+Iskonawa-40_fatgrease-1,,Iskonawa,40_fatgrease,hɨni,hɨni,h ɨ n i,,zariquiey2017,,,,,358,fat,358,0
+Chakobo-40_fatgrease-1,,Chakobo,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,zingg1998,,,,,358,fat,358,0
+Kakataibo-40_fatgrease-1,,Kakataibo,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,zariquiey2017,,,,,358,fat,358,0
+Mastanawa-40_fatgrease-1,,Mastanawa,40_fatgrease,ʃidi,ʃidi,ʃ i d i,,zariquiey2017,,,,,358,fat,358,0
+Chaninawa-40_fatgrease-1,,Chaninawa,40_fatgrease,ʂɨdi,ʂɨdi,ʂ ɨ d i,,zariquiey2017,,,,,358,fat,358,0
+Sharanawa-40_fatgrease-1,,Sharanawa,40_fatgrease,ʂɨdi,ʂɨdi,ʂ ɨ d i,,zariquiey2017,,,,,358,fat,358,0
+Amawaka-40_fatgrease-1,,Amawaka,40_fatgrease,çɨndi,çɨndi,ç ɨ ⁿd i,,zariquiey2017,,,,,358,fat,358,0
+Nawa-40_fatgrease-1,,Nawa,40_fatgrease,ʂɨdi,ʂɨdi,ʂ ɨ d i,,zariquiey2017,,,,,358,fat,358,0
+Marinawa-40_fatgrease-1,,Marinawa,40_fatgrease,ʂɨndi,ʂɨndi,ʂ ɨ ⁿd i,,zariquiey2017,,,,,358,fat,358,0
+Yaminawa-40_fatgrease-1,,Yaminawa,40_fatgrease,ʂɨdi,ʂɨdi,ʂ ɨ d i,,zariquiey2017,,,,,358,fat,358,0
+Kashinawa_P-40_fatgrease-1,,Kashinawa_P,40_fatgrease,ʂɨni,ʂɨni,ʂ ɨ n i,,zariquiey2017,,,,,358,fat,358,0
+Matses-40_fatgrease-1,,Matses,40_fatgrease,βɨtʃi,βɨtʃi,β ɨ tʃ i,,fleck2005,,,,,359,skin,359,0
+Mastanawa-43_featherlarge-1,,Mastanawa,43_featherlarge,ʂupu,ʂupu,ʂ u p u,,zariquiey2017,,,,,124,cotton,124,0
+Sharanawa-43_featherlarge-1,,Sharanawa,43_featherlarge,ʂupu,ʂupu,ʂ u p u,,zariquiey2017,,,,,124,cotton,124,0
+Matses-43_featherlarge-1,,Matses,43_featherlarge,podo,podo,p o + d o,,fleck2005,,,,,312,podo,312,0
+Matis-43_featherlarge-1,,Matis,43_featherlarge,podo,podo,p o + d o,,fleck2005,,,,,312,podo,312,0
+Nukini-43_featherlarge-1,,Nukini,43_featherlarge,kɨru,kɨru,k ɨ r u,,aguiar2004,,,,,380,kiru,380,0
+Pakawara-43_featherlarge-1,,Pakawara,43_featherlarge,puhi,puhi,p u + h i,,key2000,,,,,216 221,arm _i,216,221
+Marubo-43_featherlarge-1,,Marubo,43_featherlarge,pɨi,pɨi,p ɨ + i,,fleck2005,,,,,216 221,arm _i,216,221
+Kanamari-43_featherlarge-1,,Kanamari,43_featherlarge,pɨ?i,pɨʔi,p ɨ + ʔ i,,aguiar1994,,,,,216 221,arm _i,216,221
+Shipibo_Konibo-43_featherlarge-1,,Shipibo_Konibo,43_featherlarge,pɨi,pɨi,p ɨ + i,,fleck2005,,,,,216 221,arm _i,216,221
+Kapanawa-43_featherlarge-1,,Kapanawa,43_featherlarge,pɨi,pɨi,p ɨ + i,,loos1998,,,,,216 221,arm _i,216,221
+AraraShawa-43_featherlarge-1,,AraraShawa,43_featherlarge,pɨi,pɨi,p ɨ + i,,cunha1993,,,,,216 221,arm _i,216,221
+Shanenawa-43_featherlarge-1,,Shanenawa,43_featherlarge,pɨj,pɨj,p ɨ + j/i,,lanes2005,,,,,216 221,arm _i,216,221
+Yawanawa-43_featherlarge-1,,Yawanawa,43_featherlarge,pɨi,pɨi,p ɨ + i,,paula1992,,,,,216 221,arm _i,216,221
+Poyanawa-43_featherlarge-1,,Poyanawa,43_featherlarge,pɨi,pɨi,p ɨ + i,,paula1992,,,,,216 221,arm _i,216,221
+Iskonawa-43_featherlarge-1,,Iskonawa,43_featherlarge,pɨi,pɨi,p ɨ + i,,zariquiey2017,,,,,216 221,arm _i,216,221
+Chakobo-43_featherlarge-1,,Chakobo,43_featherlarge,pɨ?i,pɨʔi,p ɨ + ʔ i,,zingg1998,,,,,216 221,arm _i,216,221
+Kakataibo-43_featherlarge-1,,Kakataibo,43_featherlarge,pɨi,pɨi,p ɨ + i,,zariquiey2017,,,,,216 221,arm _i,216,221
+Kaxarari-43_featherlarge-1,,Kaxarari,43_featherlarge,pii,pii,p i + i,,couto2005,,,,,216 221,arm _i,216,221
+Chaninawa-43_featherlarge-1,,Chaninawa,43_featherlarge,pɨi,pɨi,p ɨ + i,,zariquiey2017,,,,,216 221,arm _i,216,221
+Amawaka-43_featherlarge-1,,Amawaka,43_featherlarge,pɨʔi,pɨʔi,p ɨ + ʔ i,,zariquiey2017,,,,,216 221,arm _i,216,221
+Yaminawa-43_featherlarge-1,,Yaminawa,43_featherlarge,pɨj,pɨj,p ɨ + j/i,,zariquiey2017,,,,,216 221,arm _i,216,221
+Kashinawa_P-43_featherlarge-1,,Kashinawa_P,43_featherlarge,pɨj,pɨj,p ɨ + j/i,,zariquiey2017,,,,,216 221,arm _i,216,221
+Kashinawa_B-43_featherlarge-1,,Kashinawa_B,43_featherlarge,pɨi,pɨi,p ɨ + i,,camargo1995,,,,,216 221,arm _i,216,221
+Katukina-43_featherlarge-1,,Katukina,43_featherlarge,rani,rani,r a + n i,,aguiar1994,,,,,218 222,body_hair _di,218,222
+Marinawa-43_featherlarge-1,,Marinawa,43_featherlarge,ɾandi,ɾandi,ɾ a + ⁿd i,,zariquiey2017,,,,,218 222,body_hair _di,218,222
+Nawa-43_featherlarge-1,,Nawa,43_featherlarge,ɾadi,ɾadi,ɾ a + d i,,zariquiey2017,,,,,218 223,body_hair _di,218,223
+Marinawa-53_foot-1,,Marinawa,53_foot,uʂpaɾu,uʂpaɾu,t a + ɨ,,zariquiey2017,,,,,212 215,foot _i,0,0
+Matses-53_foot-1,,Matses,53_foot,taɨ,taɨ,t a + ɨ,,fleck2005,,,,,212 215,foot _i,212,215
+Matis-53_foot-1,,Matis,53_foot,taɨ,taɨ,t a + ɨ,,fleck2005,,,,,212 215,foot _i,212,215
+Marubo-53_foot-1,,Marubo,53_foot,taɨ,taɨ,t a + ɨ,,fleck2005,,,,,212 215,foot _i,212,215
+Katukina-53_foot-1,,Katukina,53_foot,tae,taɨ,t a + ɨ,,aguiar1994,,,,,212 215,foot _i,212,215
+Kanamari-53_foot-1,,Kanamari,53_foot,ta?ɨ,taʔɨ,t a + ʔ ɨ,,aguiar1994,,,,,212 215,foot _i,212,215
+Shipibo_Konibo-53_foot-1,,Shipibo_Konibo,53_foot,taɨ,taɨ,t a + ɨ,,fleck2005,,,,,212 215,foot _i,212,215
+Kapanawa-53_foot-1,,Kapanawa,53_foot,taɨ,taɨ,t a + ɨ,,loos1998,,,,,212 215,foot _i,212,215
+AraraShawa-53_foot-1,,AraraShawa,53_foot,taɨ,taɨ,t a + ɨ,,cunha1993,,,,,212 215,foot _i,212,215
+Shanenawa-53_foot-1,,Shanenawa,53_foot,taɨ,taɨ,t a + ɨ,,lanes2005,,,,,212 215,foot _i,212,215
+Yawanawa-53_foot-1,,Yawanawa,53_foot,taɨ,taɨ,t a + ɨ,,paula1992,,,,,212 215,foot _i,212,215
+Nukini-53_foot-1,,Nukini,53_foot,taɨ,taɨ,t a + ɨ,,aguiar2004,,,,,212 215,foot _i,212,215
+Poyanawa-53_foot-1,,Poyanawa,53_foot,taɨ,taɨ,t a + ɨ,,paula1992,,,,,212 215,foot _i,212,215
+Iskonawa-53_foot-1,,Iskonawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,,,,,212 215,foot _i,212,215
+Chakobo-53_foot-1,,Chakobo,53_foot,ta?ɨ,taʔɨ,t a + ʔ ɨ,,zingg1998,,,,,212 215,foot _i,212,215
+Pakawara-53_foot-1,,Pakawara,53_foot,ta?ɨ,taʔɨ,t a + ʔ ɨ,,key2000,,,,,212 215,foot _i,212,215
+Kakataibo-53_foot-1,,Kakataibo,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,,,,,212 215,foot _i,212,215
+Kaxarari-53_foot-1,,Kaxarari,53_foot,taɨ,taɨ,t a + ɨ,,couto2005,,,,,212 215,foot _i,212,215
+Mastanawa-53_foot-1,,Mastanawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,,,,,212 215,foot _i,212,215
+Chaninawa-53_foot-1,,Chaninawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,,,,,212 215,foot _i,212,215
+Sharanawa-53_foot-1,,Sharanawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,,,,,212 215,foot _i,212,215
+Amawaka-53_foot-1,,Amawaka,53_foot,taʔɨ,taʔɨ,t a + ʔ ɨ,,zariquiey2017,,,,,212 215,foot _i,212,215
+Nawa-53_foot-1,,Nawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,,,,,212 215,foot _i,212,215
+Yaminawa-53_foot-1,,Yaminawa,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,,,,,212 215,foot _i,212,215
+Kashinawa_P-53_foot-1,,Kashinawa_P,53_foot,taɨ,taɨ,t a + ɨ,,zariquiey2017,,,,,212 215,foot _i,212,215
+Kashinawa_B-53_foot-1,,Kashinawa_B,53_foot,taɨ,taɨ,t a + ɨ,,camargo1995,,,,,212 215,foot _i,212,215
+Matses-59_guts-1,,Matses,59_guts,puku,puku,p u k u,,fleck2005,,,,,534,stomach,534,0
+Matis-59_guts-1,,Matis,59_guts,puku,puku,p u k u,,fleck2005,,,,,534,stomach,534,0
+Marubo-59_guts-1,,Marubo,59_guts,puku,puku,p u k u,,fleck2005,,,,,534,stomach,534,0
+Katukina-59_guts-1,,Katukina,59_guts,puku,puku,p u k u,,aguiar1994,,,,,534,stomach,534,0
+Shipibo_Konibo-59_guts-1,,Shipibo_Konibo,59_guts,puku,puku,p u k u,,fleck2005,,,,,534,stomach,534,0
+Kapanawa-59_guts-1,,Kapanawa,59_guts,puku,puku,p u k u,,loos1998,,,,,534,stomach,534,0
+Shanenawa-59_guts-1,,Shanenawa,59_guts,puku,puku,p u k u,,lanes2005,,,,,534,stomach,534,0
+Yawanawa-59_guts-1,,Yawanawa,59_guts,puku,puku,p u k u,,paula1992,,,,,534,stomach,534,0
+Nukini-59_guts-1,,Nukini,59_guts,puku,puku,p u k u,,aguiar2004,,,,,534,stomach,534,0
+Iskonawa-59_guts-1,,Iskonawa,59_guts,puku,puku,p u k u,,zariquiey2017,,,,,534,stomach,534,0
+Chakobo-59_guts-1,,Chakobo,59_guts,puku,puku,p u k u,,zingg1998,,,,,534,stomach,534,0
+Kakataibo-59_guts-1,,Kakataibo,59_guts,puku,puku,p u k u,,zariquiey2017,,,,,534,stomach,534,0
+Mastanawa-59_guts-1,,Mastanawa,59_guts,puʔu,puʔu,p u ʔ u,,zariquiey2017,,,,,534,stomach,534,0
+Chaninawa-59_guts-1,,Chaninawa,59_guts,puku,puku,p u k u,,zariquiey2017,,,,,534,stomach,534,0
+Sharanawa-59_guts-1,,Sharanawa,59_guts,puku,puku,p u k u,,zariquiey2017,,,,,534,stomach,534,0
+Amawaka-59_guts-1,,Amawaka,59_guts,puku,puku,p u k u,,zariquiey2017,,,,,534,stomach,534,0
+Nawa-59_guts-1,,Nawa,59_guts,puku,puku,p u k u,,zariquiey2017,,,,,534,stomach,534,0
+Marinawa-59_guts-1,,Marinawa,59_guts,puku,puku,p u k u,,zariquiey2017,,,,,534,stomach,534,0
+Yaminawa-59_guts-1,,Yaminawa,59_guts,puʔu,puʔu,p u ʔ u,,zariquiey2017,,,,,534,stomach,534,0
+Kashinawa_P-59_guts-1,,Kashinawa_P,59_guts,puku,puku,p u k u,,zariquiey2017,,,,,534,stomach,534,0
+Poyanawa-59_guts-1,,Poyanawa,59_guts,βɨtɨh,βɨtɨh,β ɨ t ɨ h,,paula1992,,,,,536,βɨtɨh,536,0
+Marubo-60_hair-1,,Marubo,60_hair,βu,βu,β u,,fleck2005,,,,,9,hair,9,0
+Katukina-60_hair-1,,Katukina,60_hair,βuu,βuu,β u,,aguiar1994,,,,,9,hair,9,0
+Kanamari-60_hair-1,,Kanamari,60_hair,βuu,βuu,β u,,aguiar1994,,,,,9,hair,9,0
+Shipibo_Konibo-60_hair-1,,Shipibo_Konibo,60_hair,βu,βu,β u,,fleck2005,,,,,9,hair,9,0
+Kapanawa-60_hair-1,,Kapanawa,60_hair,βu,βu,β u,,loos1998,,,,,9,hair,9,0
+AraraShawa-60_hair-1,,AraraShawa,60_hair,hu,hu,h u,,cunha1993,,,,,9,hair,9,0
+Shanenawa-60_hair-1,,Shanenawa,60_hair,ɸu,ɸu,ɸ u,,lanes2005,,,,,9,hair,9,0
+Yawanawa-60_hair-1,,Yawanawa,60_hair,βu,βu,β u,,paula1992,,,,,9,hair,9,0
+Nukini-60_hair-1,,Nukini,60_hair,βu,βu,β u,,aguiar2004,,,,,9,hair,9,0
+Poyanawa-60_hair-1,,Poyanawa,60_hair,βu,βu,β u,,paula1992,,,,,9,hair,9,0
+Iskonawa-60_hair-1,,Iskonawa,60_hair,βu,βu,β u,,zariquiey2017,,,,,9,hair,9,0
+Chakobo-60_hair-1,,Chakobo,60_hair,βu,βu,β u,,zingg1998,,,,,9,hair,9,0
+Kakataibo-60_hair-1,,Kakataibo,60_hair,βu,βu,β u,,zariquiey2017,,,,,9,hair,9,0
+Chaninawa-60_hair-1,,Chaninawa,60_hair,ɸu,ɸu,ɸ u,,zariquiey2017,,,,,9,hair,9,0
+Sharanawa-60_hair-1,,Sharanawa,60_hair,ɸu,ɸu,ɸ u,,zariquiey2017,,,,,9,hair,9,0
+Amawaka-60_hair-1,,Amawaka,60_hair,βu,βu,β u,,zariquiey2017,,,,,9,hair,9,0
+Yaminawa-60_hair-1,,Yaminawa,60_hair,hu,hu,ɸ u,,zariquiey2017,,,,,9,hair,9,0
+Kashinawa_P-60_hair-1,,Kashinawa_P,60_hair,βu,βu,β u,,zariquiey2017,,,,,9,hair,9,0
+Kashinawa_B-60_hair-1,,Kashinawa_B,60_hair,βu,βu,β u,,camargo1995,,,,,9,hair,9,0
+Pakawara-60_hair-1,,Pakawara,60_hair,wuu,wuu,w u u,,key2000,,,,,9,hair,9,0
+Mastanawa-60_hair-1,,Mastanawa,60_hair,fuʔu,fuʔu,f u + u,,zariquiey2017,,,,,9,hair,9,0
+Nawa-60_hair-1,,Nawa,60_hair,ɸuʔu,ɸuʔu,ɸ u ʔ u,,zariquiey2017,,,,,9,hair,9,0
+Marinawa-60_hair-1,,Marinawa,60_hair,ɸuʔu,ɸuʔu,ɸ u ʔ u,,zariquiey2017,,,,,9,hair,9,0
+Kaxarari-60_hair-1,,Kaxarari,60_hair,wɨʂkatʃani,wɨʂkatʃani,w ɨ + ʂ k a + tʃ a n i,,couto2005,,,,,81 79 10,forehead _:suffix/ʂka bodyhair,81,10
+Yaminawa-61_hand-1,,Yaminawa,61_hand,mɨʔɨ,mɨʔɨ,m ɨ + ʔ ɨ,,zariquiey2017,,,,,96,hand _ʔɨ,96,0
+AraraShawa-61_hand-1,,AraraShawa,61_hand,βɨhi,βɨhi,β ɨ + h i,,cunha1993,,,,,96 100,hand _hi,96,100
+Yawanawa-61_hand-1,,Yawanawa,61_hand,mɨhi,mɨhi,m ɨ + h i,,paula1992,,,,,96 100,hand _hi,96,100
+Matis-61_hand-1,,Matis,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,fleck2005,,,,,96 101,hand _kɨnɨ,96,101
+Shipibo_Konibo-61_hand-1,,Shipibo_Konibo,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,fleck2005,,,,,96 101,hand _kɨnɨ,96,101
+Kapanawa-61_hand-1,,Kapanawa,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,loos1998,,,,,96 101,hand _kɨnɨ,96,101
+Poyanawa-61_hand-1,,Poyanawa,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,paula1992,,,,,96 101,hand _kɨnɨ,96,101
+Chakobo-61_hand-1,,Chakobo,61_hand,mɨkɨnɨ,mɨkɨnɨ,m ɨ + k ɨ n ɨ,,zingg1998,,,,,96 101,hand _kɨnɨ,96,101
+Pakawara-61_hand-1,,Pakawara,61_hand,mɨkɨna,mɨkɨna,m ɨ + k ɨ n a,,key2000,,,,,96 101,hand _kini,96,101
+Kakataibo-61_hand-1,,Kakataibo,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,zariquiey2017,,,,,96 101,hand _kɨnɨ,96,101
+Kaxarari-61_hand-1,,Kaxarari,61_hand,mɨkɨlɨ,mɨkɨlɨ,m ɨ + k ɨ l ɨ,,couto2005,,,,,96 101,hand _kɨnɨ,96,101
+Amawaka-61_hand-1,,Amawaka,61_hand,mɨkɨn,mɨkɨn,m ɨ + k ɨ n,,zariquiey2017,,,,,96 101,hand _kɨnɨ,96,101
+Kashinawa_B-61_hand-1,,Kashinawa_B,61_hand,mɨ̃kɨ̃,mɨ̃kɨ̃,m ɨ̃ + k ɨ̃,,camargo1995,,,,,96 101,hand _kɨnɨ,96,101
+Chaninawa-61_hand-1,,Chaninawa,61_hand,βɨkɨ,βɨkɨ,β ɨ + k ɨ,,zariquiey2017,,,,,96 101,hand _kɨnɨ,96,101
+Nawa-61_hand-1,,Nawa,61_hand,bɨkɨ,bɨkɨ,b ɨ + k ɨ,,zariquiey2017,,,,,96 101,hand _kɨnɨ,96,101
+Marinawa-61_hand-1,,Marinawa,61_hand,bɨkɨ,bɨkɨ,b ɨ + k ɨ,,zariquiey2017,,,,,96 101,hand _kɨnɨ,96,101
+Kashinawa_P-61_hand-1,,Kashinawa_P,61_hand,mɨki,mɨki,m ɨ + k i,,zariquiey2017,,,,,96 101,hand _ki,96,101
+Marubo-61_hand-1,,Marubo,61_hand,mɨβi,mɨβi,m ɨ + β i,,fleck2005,,,,,96 97,hand _βi,96,97
+Katukina-61_hand-1,,Katukina,61_hand,meβi,meβi,m e + β i,,aguiar1994,,,,,96 97,hand _βi,96,97
+Kanamari-61_hand-1,,Kanamari,61_hand,mwɨβi,mɨβi,mʷ ɨ + β i,,aguiar1994,,,,,96 97,hand _Bi,96,97
+Shanenawa-61_hand-1,,Shanenawa,61_hand,mɨɸi,mɨɸi,m ɨ + ɸ i,,lanes2005,,,,,96 97,hand _βi,96,97
+Nukini-61_hand-1,,Nukini,61_hand,mɨwi,mɨwi,m ɨ + w i,,aguiar2004,,,,,96 97,hand _Bi,96,97
+Iskonawa-61_hand-1,,Iskonawa,61_hand,mɨˀβi,mɨˀβi,m ɨ + β i,,zariquiey2017,,,,,96 97,hand _βi,96,97
+Mastanawa-61_hand-1,,Mastanawa,61_hand,bɨɸi,bɨɸi,b ɨ + ɸ i,,zariquiey2017,,,,,96 97,hand _βi,96,97
+Chaninawa-61_hand-2,,Chaninawa,61_hand,βɨɸi,βɨɸi,β ɨ + ɸ i,,zariquiey2017,,,,,96 97,hand _βi,96,97
+Sharanawa-61_hand-1,,Sharanawa,61_hand,bɨɸi,bɨɸi,b ɨ + ɸ i,,zariquiey2017,,,,,96 97,hand _βi,96,97
+Matses-61_hand-1,,Matses,61_hand,mɨdante,mɨdante,m ɨ + d a n t e,,fleck2005,,,,,96 99,hand _dante,96,99
+Matis-63_head-1,,Matis,63_head,maʂo,maʂo,m a + ʂ o,,fleck2005,,,,,77 180,head _ʂo,77,184
+Matses-63_head-1,,Matses,63_head,mapi,mapi,m a + p i,,fleck2005,,,,,77 184,head _pi,77,0
+Marubo-63_head-1,,Marubo,63_head,mapu,mapu,m a + p u,,fleck2005,,,,,77 76,head _pu,77,76
+Katukina-63_head-1,,Katukina,63_head,mapu,mapu,m a + p u,,aguiar1994,,,,,77 76,head _pu,77,76
+Kanamari-63_head-1,,Kanamari,63_head,mapu,mapu,m a + p u,,aguiar1994,,,,,77 76,head _pu,77,76
+Shipibo_Konibo-63_head-1,,Shipibo_Konibo,63_head,mapu,mapu,m a + p u,,fleck2005,,,,,77 76,head _pu,77,76
+Kapanawa-63_head-1,,Kapanawa,63_head,mapu,mapu,m a + p u,,loos1998,,,,,77 76,head _pu,77,76
+AraraShawa-63_head-1,,AraraShawa,63_head,bapu,bapu,b a + p u,,cunha1993,,,,,77 76,head _pu,77,76
+Shanenawa-63_head-1,,Shanenawa,63_head,mapu,mapu,m a + p u,,lanes2005,,,,,77 76,head _pu,77,76
+Yawanawa-63_head-1,,Yawanawa,63_head,mapu,mapu,m a + p u,,paula1992,,,,,77 76,head _pu,77,76
+Nukini-63_head-1,,Nukini,63_head,mapu,mapu,m a + p u,,aguiar2004,,,,,77 76,head _pu,77,76
+Chakobo-63_head-1,,Chakobo,63_head,mapu,mapu,m a + p u,,zingg1998,,,,,77 76,head _pu,77,76
+Pakawara-63_head-1,,Pakawara,63_head,mapu,mapu,m a + p u,,key2000,,,,,77 76,head _pu,77,76
+Mastanawa-63_head-1,,Mastanawa,63_head,bapu,bapu,b a + p u,,zariquiey2017,,,,,77 76,head _pu,77,76
+Sharanawa-63_head-1,,Sharanawa,63_head,bapu,bapu,b a + p u,,zariquiey2017,,,,,77 76,head _pu,77,76
+Amawaka-63_head-1,,Amawaka,63_head,mapu,mapu,m a + p u,,zariquiey2017,,,,,77 76,head _pu,77,76
+Nawa-63_head-1,,Nawa,63_head,ba:pu,ba:pu,b aː + p u,,zariquiey2017,,,,,77 76,head _pu,77,76
+Marinawa-63_head-1,,Marinawa,63_head,bapu,bapu,b a + p u,,zariquiey2017,,,,,77 76,head _pu,77,76
+Yaminawa-63_head-1,,Yaminawa,63_head,bapu,bapu,b a + p u,,zariquiey2017,,,,,77 76,head _pu,77,76
+Kakataibo-63_head-1,,Kakataibo,63_head,maʂka,maʂka,m a + ʂ k a,,zariquiey2017,,,,,77 79,head _ʂka,77,79
+Chaninawa-63_head-1,,Chaninawa,63_head,basakati,basakati,b a + s k a t i,,zariquiey2017,,,,,77 79,head _ʂkati,77,79
+AraraShawa-63_head-2,,AraraShawa,63_head,βuʃka,βuʃka,β u + ʃ k a,,cunha1993,,,,,81 79,hair _ʂka,81,79
+Poyanawa-63_head-1,,Poyanawa,63_head,βuhka,βuhka,β u + h k a,,paula1992,,,,,81 79,hair _ʂka,81,79
+Iskonawa-63_head-1,,Iskonawa,63_head,βuhka,βuhka,β u + h k a,,zariquiey2017,,,,,81 79,hair _ʂka,81,79
+Marinawa-63_head-2,,Marinawa,63_head,ɸuʂka,ɸuʂka,ɸ u + ʂ k a,,zariquiey2017,,,,,81 79,hair _ʂka,81,79
+Kashinawa_P-63_head-1,,Kashinawa_P,63_head,βuʂka,βuʂka,β u + ʂ k a,,zariquiey2017,,,,,81 79,hair _ʂka,81,79
+Kashinawa_B-63_head-1,,Kashinawa_B,63_head,βuʂka,βuʂka,β u + ʂ k a,,camargo1995,,,,,81 79,hair _ʂka,81,79
+Kaxarari-63_head-1,,Kaxarari,63_head,wɨʂkata,wɨʂkata,w ɨ + ʂ k a t a,,couto2005,,,,,81 79,forehead _ʂka,81,79
+Marubo-65_heart-1,,Marubo,65_heart,winti,winti,w i n + t i,,fleck2005,,,,,103,breathe _ti,103,0
+Katukina-65_heart-1,,Katukina,65_heart,winti,winti,w i n + t i,,aguiar1994,,,,,103,breathe _ti,103,0
+Shipibo_Konibo-65_heart-1,,Shipibo_Konibo,65_heart,huinti,huinti,h u i n + t i,,fleck2005,,,,,103,breathe _ti,103,0
+Kapanawa-65_heart-1,,Kapanawa,65_heart,hwinti,hwinti,h u i n + t i,,loos1998,,,,,103,breathe _ti,103,0
+AraraShawa-65_heart-1,,AraraShawa,65_heart,ũti,ũti,ũ + t i,,cunha1993,,,,,103,breathe _ti,103,0
+Shanenawa-65_heart-1,,Shanenawa,65_heart,uinti,uinti,u i n + t i,,lanes2005,,,,,103,breathe _ti,103,0
+Yawanawa-65_heart-1,,Yawanawa,65_heart,ũĩti,ũĩti,ũ ĩ + t i,,paula1992,,,,,103,breathe _ti,103,0
+Poyanawa-65_heart-1,,Poyanawa,65_heart,ũĩti,ũĩti,ũ ĩ + t i,,paula1992,,,,,103,breathe _ti,103,0
+Iskonawa-65_heart-1,,Iskonawa,65_heart,ũĩti,ũĩti,ũ ĩ + t i,,zariquiey2017,,,,,103,breathe _ti,103,0
+Chakobo-65_heart-1,,Chakobo,65_heart,huiti,huiti,h u i + t i,,zingg1998,,,,,103,breathe _ti,103,0
+Pakawara-65_heart-1,,Pakawara,65_heart,huwiti,huwiti,h u w i + t i,,key2000,,,,,103,breathe _ti,103,0
+Mastanawa-65_heart-1,,Mastanawa,65_heart,uɨnti,uɨnti,u ɨ n + t i,,zariquiey2017,,,,,103,breathe _ti,103,0
+Chaninawa-65_heart-1,,Chaninawa,65_heart,uĩti,uĩti,u ĩ + t i,,zariquiey2017,,,,,103,breathe _ti,103,0
+Sharanawa-65_heart-1,,Sharanawa,65_heart,ũĩti,ũĩti,ũ ĩ + t i,,zariquiey2017,,,,,103,breathe _ti,103,0
+Amawaka-65_heart-1,,Amawaka,65_heart,huinti,huinti,h u i n + t i,,zariquiey2017,,,,,103,breathe _ti,103,0
+Nawa-65_heart-1,,Nawa,65_heart,uɨnti,uɨnti,u ɨ n + t i,,zariquiey2017,,,,,103,breathe _ti,103,0
+Marinawa-65_heart-1,,Marinawa,65_heart,uɨnti,uɨnti,u ɨ n + t i,,zariquiey2017,,,,,103,breathe _ti,103,0
+Yaminawa-65_heart-1,,Yaminawa,65_heart,uwɨti,uwɨti,u w ɨ + t i,,zariquiey2017,,,,,103,breathe _ti,103,0
+Kashinawa_P-65_heart-1,,Kashinawa_P,65_heart,ɸujnti,ɸujnti,ɸ u j/i n + t i,,zariquiey2017,,,,,103,breathe _ti,103,0
+Kashinawa_B-65_heart-1,,Kashinawa_B,65_heart,huĩti,huĩti,h u ĩ + t i,,camargo1995,,,,,103,breathe _ti,103,0
+Kaxarari-65_heart-1,,Kaxarari,65_heart,hɨya,hɨya,h ɨ + j a,,couto2005,,,,,107,hɨya,107,0
+Matses-65_heart-1,,Matses,65_heart,winte,uinte,u i n + t e,,fleck2005,,,,,103,breathe _ti,103,0
+Matis-65_heart-1,,Matis,65_heart,winte,uinte,u i n + t e,,fleck2005,,,,,103,breathe _ti,103,0
+Nukini-65_heart-1,,Nukini,65_heart,kɨpĩ,kɨpĩ,k ɨ + p ĩ,,aguiar2004,,,,,105,kɨpĩ,0,0
+Kakataibo-65_heart-1,,Kakataibo,65_heart,nuitu,nuitu,n u i + t u,,zariquiey2017,,,,,108,nuitu,108,0
+Marubo-78_leg-1,,Marubo,78_leg,itaʂɨ,itaʂɨ,i + t a ʂ ɨ,,fleck2005,,,,,111 113,calf _taʂi,111,113
+Marubo-78_leg-2,,Marubo,78_leg,kiʃi,kiʃi,k i + ʃ i,,fleck2005,,,,,112 114,thigh _ʃi,112,114
+Kanamari-78_leg-1,,Kanamari,78_leg,kiʃi,kiʃi,k i + ʃ i,,aguiar1994,,,,,112 114,thigh _ʃi,112,114
+Shipibo_Konibo-78_leg-1,,Shipibo_Konibo,78_leg,kiʃi,kiʃi,k i + ʃ i,,fleck2005,,,,,112 114,thigh _ʃi,112,114
+Kapanawa-78_leg-1,,Kapanawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,loos1998,,,,,112 114,thigh _ʃi,112,114
+AraraShawa-78_leg-1,,AraraShawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,cunha1993,,,,,112 114,thigh _ʃi,112,114
+Iskonawa-78_leg-1,,Iskonawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,,,,,112 114,thigh _ʃi,112,114
+Kakataibo-78_leg-1,,Kakataibo,78_leg,kisi,kisi,k i + s i,,zariquiey2017,,,,,112 114,thigh _ʃi,112,114
+Mastanawa-78_leg-1,,Mastanawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,,,,,112 114,thigh _ʃi,112,114
+Chaninawa-78_leg-1,,Chaninawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,,,,,112 114,thigh _ʃi,112,114
+Sharanawa-78_leg-1,,Sharanawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,,,,,112 114,thigh _ʃi,112,114
+Amawaka-78_leg-1,,Amawaka,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,,,,,112 114,thigh _ʃi,112,114
+Nawa-78_leg-1,,Nawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,,,,,112 114,thigh _ʃi,112,114
+Marinawa-78_leg-1,,Marinawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,,,,,112 114,thigh _ʃi,112,114
+Yaminawa-78_leg-1,,Yaminawa,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,,,,,112 114,thigh _ʃi,112,114
+Kashinawa_P-78_leg-1,,Kashinawa_P,78_leg,kiʃi,kiʃi,k i + ʃ i,,zariquiey2017,,,,,112 114,thigh _ʃi,112,114
+Kashinawa_B-78_leg-1,,Kashinawa_B,78_leg,kiʂi,kiʂi,k i + ʂ i,,camargo1995,,,,,112 114,thigh _ʃi,112,114
+Katukina-78_leg-1,,Katukina,78_leg,kixu,kiʂu,k i + ʂ u,,aguiar1994,,,,,112 126,thigh _ʂu,112,126
+Matses-78_leg-1,,Matses,78_leg,nidte,nidte,n i d + t e,,fleck2005,,,,,115,stand _te,0,115
+Matis-78_leg-1,,Matis,78_leg,tawi,tawi,t a + w i,,fleck2005,,,,,120 121,foot _wi,120,121
+Shanenawa-78_leg-1,,Shanenawa,78_leg,taɨ,taɨ,t a + ɨ,,lanes2005,,,,,120 121,foot _ɨ,120,121
+Kanamari-78_leg-2,,Kanamari,78_leg,hitaʃ,hitaʃ,h i + t a ʃ,,aguiar1994,,,,,122 113,calf _taSi,122,113
+Shipibo_Konibo-78_leg-2,,Shipibo_Konibo,78_leg,witaʂ,witaʂ,w i + t a ʂ,,fleck2005,,,,,122 113,calf _taSi,122,113
+Kapanawa-78_leg-2,,Kapanawa,78_leg,witaʂ,witaʂ,w i + t a ʂ,,loos1998,,,,,122 113,calf _taʂi,122,113
+AraraShawa-78_leg-2,,AraraShawa,78_leg,βitaʃi,βitaʃi,β i + t a ʃ i,,cunha1993,,,,,122 113,calf _taSi,122,113
+Yawanawa-78_leg-1,,Yawanawa,78_leg,βitaʃ,βitaʃ,β i + t a ʃ,,paula1992,,,,,122 113,calf _taSi,122,113
+Kaxarari-78_leg-1,,Kaxarari,78_leg,witaʂɨ,witaʂɨ,w i + t a ʂ ɨ,,couto2005,,,,,122 113,calf _taʂi,122,113
+Sharanawa-78_leg-2,,Sharanawa,78_leg,ɸitaʂɨ,ɸitaʂɨ,ɸ i + t a ʂ ɨ,,zariquiey2017,,,,,122 113,calf _taʂi,122,113
+Nawa-78_leg-2,,Nawa,78_leg,ɸitaʂ,ɸitaʂ,ɸ i + t a ʂ,,zariquiey2017,,,,,122 113,calf _taʂi,122,113
+Marinawa-78_leg-2,,Marinawa,78_leg,ɸitaʃi,ɸitaʃi,ɸ i + t a ʃ i,,zariquiey2017,,,,,122 113,calf _taʂi,122,113
+Nukini-78_leg-1,,Nukini,78_leg,βiʃta,βiʃta,β i + ʃ t a,,aguiar2004,,,,,122 113,calf _sta,122,113
+Chakobo-78_leg-1,,Chakobo,78_leg,wiku,wiku,w i + k u,,zingg1998,,,,,122 123,calf _ku,122,123
+Pakawara-78_leg-1,,Pakawara,78_leg,wiku,wiku,w i + k u,,key2000,,,,,122 123,calf _ku,122,123
+Matses-81_liver-1,,Matses,81_liver,isese,isese,i + s e s e,,fleck2005,,,,,709,isese,709,0
+Matis-81_liver-1,,Matis,81_liver,takua,takua,t a kʷ a,,fleck2005,,,,,708,liver,708,0
+Marubo-81_liver-1,,Marubo,81_liver,taka,taka,t a k a,,fleck2005,,,,,708,liver,708,0
+Katukina-81_liver-1,,Katukina,81_liver,taka,taka,t a k a,,aguiar1994,,,,,708,liver,708,0
+Shipibo_Konibo-81_liver-1,,Shipibo_Konibo,81_liver,taka,taka,t a k a,,fleck2005,,,,,708,liver,708,0
+Kapanawa-81_liver-1,,Kapanawa,81_liver,taka,taka,t a k a,,loos1998,,,,,708,liver,708,0
+AraraShawa-81_liver-1,,AraraShawa,81_liver,taka,taka,t a k a,,cunha1993,,,,,708,liver,708,0
+Shanenawa-81_liver-1,,Shanenawa,81_liver,taka,taka,t a k a,,lanes2005,,,,,708,liver,708,0
+Yawanawa-81_liver-1,,Yawanawa,81_liver,taka,taka,t a k a,,paula1992,,,,,708,liver,708,0
+Nukini-81_liver-1,,Nukini,81_liver,taka,taka,t a k a,,aguiar2004,,,,,708,liver,708,0
+Poyanawa-81_liver-1,,Poyanawa,81_liver,taka,taka,t a k a,,paula1992,,,,,708,liver,708,0
+Iskonawa-81_liver-1,,Iskonawa,81_liver,taka,taka,t a k a,,zariquiey2017,,,,,708,liver,708,0
+Chakobo-81_liver-1,,Chakobo,81_liver,taka,taka,t a k a,,zingg1998,,,,,708,liver,708,0
+Pakawara-81_liver-1,,Pakawara,81_liver,taka,taka,t a k a,,key2000,,,,,708,liver,708,0
+Kakataibo-81_liver-1,,Kakataibo,81_liver,takwa,takwa,t a kʷ a,,zariquiey2017,,,,,708,liver,708,0
+Kaxarari-81_liver-1,,Kaxarari,81_liver,taka,taka,t a k a,,couto2005,,,,,708,liver,708,0
+Mastanawa-81_liver-1,,Mastanawa,81_liver,taʔa,taʔa,t a ʔ a,,zariquiey2017,,,,,708,liver,708,0
+Chaninawa-81_liver-1,,Chaninawa,81_liver,taka,taka,t a k a,,zariquiey2017,,,,,708,liver,708,0
+Sharanawa-81_liver-1,,Sharanawa,81_liver,taka,taka,t a k a,,zariquiey2017,,,,,708,liver,708,0
+Amawaka-81_liver-1,,Amawaka,81_liver,tança,tança,t a n ç a,,zariquiey2017,,,,,708,liver,708,0
+Nawa-81_liver-1,,Nawa,81_liver,taka,taka,t a k a,,zariquiey2017,,,,,708,liver,708,0
+Marinawa-81_liver-1,,Marinawa,81_liver,taka,taka,t a k a,,zariquiey2017,,,,,708,liver,708,0
+Yaminawa-81_liver-1,,Yaminawa,81_liver,taʔa,taʔa,t a ʔ a,,zariquiey2017,,,,,708,liver,708,0
+Kashinawa_P-81_liver-1,,Kashinawa_P,81_liver,taka,taka,t a k a,,zariquiey2017,,,,,708,liver,708,0
+Kashinawa_B-81_liver-1,,Kashinawa_B,81_liver,taka,taka,t a k a,,camargo1995,,,,,708,liver,708,0
+Matses-86_meatflesh-1,,Matses,86_meatflesh,nami,nami,n a m i,,fleck2005,,,,,747,flesh/meat _mi,747,0
+Matis-86_meatflesh-1,,Matis,86_meatflesh,nami,nami,n a m i,,fleck2005,,,,,747,flesh/meat _mi,747,0
+Marubo-86_meatflesh-1,,Marubo,86_meatflesh,nami,nami,n a m i,,fleck2005,,,,,747,flesh/meat _mi,747,0
+Katukina-86_meatflesh-1,,Katukina,86_meatflesh,nami,nami,n a m i,,aguiar1994,,,,,747,flesh/meat _mi,747,0
+Shipibo_Konibo-86_meatflesh-1,,Shipibo_Konibo,86_meatflesh,nami,nami,n a m i,,fleck2005,,,,,747,flesh/meat _mi,747,0
+Kapanawa-86_meatflesh-1,,Kapanawa,86_meatflesh,nami,nami,n a m i,,loos1998,,,,,747,flesh/meat _mi,747,0
+AraraShawa-86_meatflesh-1,,AraraShawa,86_meatflesh,nambi,nambi,n a ⁿb i,,cunha1993,,,,,747,flesh/meat _mbi,747,0
+Shanenawa-86_meatflesh-1,,Shanenawa,86_meatflesh,nami,nami,n a m i,,lanes2005,,,,,747,flesh/meat _mi,747,0
+Yawanawa-86_meatflesh-1,,Yawanawa,86_meatflesh,nami,nami,n a m i,,paula1992,,,,,747,flesh/meat _mi,747,0
+Nukini-86_meatflesh-1,,Nukini,86_meatflesh,nami,nami,n a m i,,aguiar2004,,,,,747,flesh/meat _mi,747,0
+Poyanawa-86_meatflesh-1,,Poyanawa,86_meatflesh,nambi,nambi,n a ⁿb i,,paula1992,,,,,747,flesh/meat _mbi,747,0
+Iskonawa-86_meatflesh-1,,Iskonawa,86_meatflesh,nami,nami,n a m i,,zariquiey2017,,,,,747,flesh/meat _mi,747,0
+Chakobo-86_meatflesh-1,,Chakobo,86_meatflesh,nami,nami,n a m i,,zingg1998,,,,,747,flesh/meat _mbi,747,0
+Pakawara-86_meatflesh-1,,Pakawara,86_meatflesh,nami,nami,n a m i,,key2000,,,,,747,flesh/meat _mi,747,0
+Kakataibo-86_meatflesh-1,,Kakataibo,86_meatflesh,nami,nami,n a m i,,zariquiey2017,,,,,747,flesh/meat _mi,747,0
+Kaxarari-86_meatflesh-1,,Kaxarari,86_meatflesh,lami,lami,l a m i,,couto2005,,,,,747,flesh/meat _mbi,747,0
+Mastanawa-86_meatflesh-1,,Mastanawa,86_meatflesh,dabi,dabi,d a b i,,zariquiey2017,,,,,747,flesh/meat _bi,747,0
+Chaninawa-86_meatflesh-1,,Chaninawa,86_meatflesh,dabi,dabi,d a b i,,zariquiey2017,,,,,747,flesh/meat _bi,747,0
+Sharanawa-86_meatflesh-1,,Sharanawa,86_meatflesh,dabi,dabi,d a b i,,zariquiey2017,,,,,747,flesh/meat _bi,747,0
+Amawaka-86_meatflesh-1,,Amawaka,86_meatflesh,nambi,nambi,n a ⁿb i,,zariquiey2017,,,,,747,flesh/meat _mbi,747,0
+Nawa-86_meatflesh-1,,Nawa,86_meatflesh,dabi,dabi,d a b i,,zariquiey2017,,,,,747,flesh/meat _bi,747,0
+Marinawa-86_meatflesh-1,,Marinawa,86_meatflesh,danbi,danbi,d a ⁿb i,,zariquiey2017,,,,,747,flesh/meat _mbi,747,0
+Yaminawa-86_meatflesh-1,,Yaminawa,86_meatflesh,dabi,dabi,d a b i,,zariquiey2017,,,,,747,flesh/meat _bi,747,0
+Kashinawa_P-86_meatflesh-1,,Kashinawa_P,86_meatflesh,nami,nami,n a m i,,zariquiey2017,,,,,747,flesh/meat _mi,747,0
+Kashinawa_B-86_meatflesh-1,,Kashinawa_B,86_meatflesh,nami,nami,n a m i,,camargo1995,,,,,747,flesh/meat _mi,747,0
+Kakataibo-89_mouth-1,,Kakataibo,89_mouth,kwɨβi,kwɨβi,kʷ ɨ + β i,,zariquiey2017,,,,,21 237,lips _βi,21,237
+Pakawara-89_mouth-1,,Pakawara,89_mouth,kɨwɨtʃi,kɨwɨtʃi,k ɨ + w ɨ tʃ i,,key2000,,,,,21 237,lips _Bitʃi,21,237
+Kanamari-89_mouth-1,,Kanamari,89_mouth,kɨʃa,kɨʃa,k ɨ + ʃ a,,aguiar1994,,,,,21 239,lips _ʂa,21,239
+Shipibo_Konibo-89_mouth-1,,Shipibo_Konibo,89_mouth,kɨʂa,kɨʂa,k ɨ + ʂ a,,fleck2005,,,,,21 239,lips _ʂa,21,239
+Kapanawa-89_mouth-1,,Kapanawa,89_mouth,kɨʂa,kɨʂa,k ɨ + ʂ a,,loos1998,,,,,21 239,lips _ʂa,21,239
+Nukini-89_mouth-1,,Nukini,89_mouth,kɨha,kɨha,k ɨ + h a,,aguiar2004,,,,,21 239,lips _ʂa,21,239
+Poyanawa-89_mouth-1,,Poyanawa,89_mouth,kɨha,kɨha,k ɨ + h a,,paula1992,,,,,21 239,lips _ʂa,21,239
+Iskonawa-89_mouth-1,,Iskonawa,89_mouth,kɨha,kɨha,k ɨ + h a,,zariquiey2017,,,,,21 239,lips _ʂa,21,239
+Kaxarari-89_mouth-1,,Kaxarari,89_mouth,kɨʂaka,kɨʂaka,k ɨ + ʂ a k a,,couto2005,,,,,21 239,lips _ʂa,21,239
+Amawaka-89_mouth-1,,Amawaka,89_mouth,kɨça,kɨça,k ɨ + ç a,,zariquiey2017,,,,,21 239,lips _ʂa,21,239
+Kashinawa_B-89_mouth-1,,Kashinawa_B,89_mouth,kɨʂa,kɨʂa,k ɨ + ʂ a,,camargo1995,,,,,21 239,lips _ʂa,21,239
+Matses-89_mouth-1,,Matses,89_mouth,ana,ana,a n + a,,fleck2005,,,,,240 242,mouth/tongue _a,240,242
+Matis-89_mouth-1,,Matis,89_mouth,ana,ana,a n + a,,fleck2005,,,,,240 242,mouth/tongue _a,240,242
+Marubo-89_mouth-1,,Marubo,89_mouth,ana,ana,a n + a,,fleck2005,,,,,240 242,mouth/tongue _a,240,242
+Katukina-89_mouth-1,,Katukina,89_mouth,ana,ana,a n + a,,aguiar1994,,,,,240 242,mouth/tongue _a,240,242
+Chakobo-89_mouth-1,,Chakobo,89_mouth,hana,hana,h a n + a,,zingg1998,,,,,240 242,mouth/tongue _a,240,242
+AraraShawa-89_mouth-1,,AraraShawa,89_mouth,aʃɨa,aʃɨa,a ʃ + ɨ a,,cunha1993,,,,,253 254,hole _ɨa,253,254
+Shanenawa-89_mouth-1,,Shanenawa,89_mouth,aʂɸa,aʂɸa,a ʂ + ɸ a,,lanes2005,,,,,253 254,hole _wa,253,254
+Yawanawa-89_mouth-1,,Yawanawa,89_mouth,aʂβa,aʂβa,a ʂ + β a,,paula1992,,,,,253 254,hole _wa,253,254
+Mastanawa-89_mouth-1,,Mastanawa,89_mouth,aʂwa,aʂwa,a ʂ + w a,,zariquiey2017,,,,,253 254,hole _wa,253,254
+Chaninawa-89_mouth-1,,Chaninawa,89_mouth,aʂwa,aʂpa,a ʂ + p a,,zariquiey2017,,,,,253 254,hole _wa,253,254
+Sharanawa-89_mouth-1,,Sharanawa,89_mouth,aʂɸa,aʂɸa,a ʂ + ɸ a,,zariquiey2017,,,,,253 254,hole _wa,253,254
+Nawa-89_mouth-1,,Nawa,89_mouth,aʂwa,aʂwa,a ʂ + w a,,zariquiey2017,,,,,253 254,hole _wa,253,254
+Marinawa-89_mouth-1,,Marinawa,89_mouth,aʂɸa,aʂɸa,a ʂ + ɸ a,,zariquiey2017,,,,,253 254,hole _wa,253,254
+Yaminawa-89_mouth-1,,Yaminawa,89_mouth,aʂwã,aʂwã,a ʂ + w a,,zariquiey2017,,,,,253 254,hole _wa,253,254
+Kashinawa_P-89_mouth-1,,Kashinawa_P,89_mouth,haʂpa,haʂpa,h a ʂ + p a,,zariquiey2017,,,,,253 254,hole _pa,253,254
+Kaxarari-93_neck-1,,Kaxarari,93_neck,tɨiwi,tɨiwi,t ɨ + i w i,,couto2005,,,,,137 138,neck _iwi,137,138
+Marubo-93_neck-1,,Marubo,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,fleck2005,,,,,137 139,neck _ʂu,137,139
+Kanamari-93_neck-1,,Kanamari,93_neck,taʃu,taʃu,t ɨ + ʃ u,,aguiar1994,,,,,137 139,neck _ʂu,137,139
+Shipibo_Konibo-93_neck-1,,Shipibo_Konibo,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,fleck2005,,,,,137 139,neck _ʂu,137,139
+Kapanawa-93_neck-1,,Kapanawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,loos1998,,,,,137 139,neck _ʂu,137,139
+AraraShawa-93_neck-1,,AraraShawa,93_neck,tɨʃu,tɨʃu,t ɨ + ʃ u,,cunha1993,,,,,137 139,neck _ʂu,137,139
+Shanenawa-93_neck-1,,Shanenawa,93_neck,tɨʂɨ,tɨʂɨ,t ɨ + ʂ u,,lanes2005,,,,,137 139,neck _ʂu,137,139
+Yawanawa-93_neck-1,,Yawanawa,93_neck,tɨʃu,tɨʃu,t ɨ + ʃ u,,paula1992,,,,,137 139,neck _ʂu,137,139
+Poyanawa-93_neck-1,,Poyanawa,93_neck,tɨhu,tɨhu,t ɨ + h u,,paula1992,,,,,137 139,neck _ʂu,137,139
+Iskonawa-93_neck-1,,Iskonawa,93_neck,tɨhu,tɨhu,t ɨ + h u,,zariquiey2017,,,,,137 139,neck _ʂu,137,139
+Mastanawa-93_neck-1,,Mastanawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,,,,,137 139,neck _ʂu,137,139
+Sharanawa-93_neck-1,,Sharanawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,,,,,137 139,neck _ʂu,137,139
+Amawaka-93_neck-1,,Amawaka,93_neck,çau,tɨçu,t ɨ + ç u,,zariquiey2017,,,,,137 139,neck _ʂu,137,139
+Nawa-93_neck-1,,Nawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,,,,,137 139,neck _ʂu,137,139
+Marinawa-93_neck-1,,Marinawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,,,,,137 139,neck _ʂu,137,139
+Yaminawa-93_neck-1,,Yaminawa,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,,,,,137 139,neck _ʂu,137,139
+Kashinawa_P-93_neck-1,,Kashinawa_P,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,zariquiey2017,,,,,137 139,neck _ʂu,137,139
+Kashinawa_B-93_neck-1,,Kashinawa_B,93_neck,tɨʂu,tɨʂu,t ɨ + ʂ u,,camargo1995,,,,,137 139,neck _ʂu,137,139
+Pakawara-93_neck-1,,Pakawara,93_neck,tikana,tikana,t i + k a n a,,key2000,,,,,137 141,neck _kana,137,141
+Nukini-93_neck-1,,Nukini,93_neck,tukɨ,tɨkɨ,t ɨ + k ɨ,,aguiar2004,,,,,137 142,neck _ki,137,142
+Nawa-93_neck-2,,Nawa,93_neck,tɨmaʂka,tɨmaʂka,t ɨ + m a ʂ k a,,zariquiey2017,,,,,137 143,neck _maʂka,137,143
+Matses-93_neck-1,,Matses,93_neck,tɨnite,tɨnite,t ɨ + n i t e,,fleck2005,,,,,137 144,neck _nite,137,144
+Nukini-93_neck-2,,Nukini,93_neck,nipika,nipika,n i + p i k a,,aguiar2004,,,,,137 145,neck _pika,137,145
+Chakobo-93_neck-1,,Chakobo,93_neck,tɨpuku,tɨpuku,t ɨ + p u k u,,zingg1998,,,,,137 146,neck _puku,137,146
+Katukina-93_neck-1,,Katukina,93_neck,tispun,tispun,t i + s p u n,,aguiar1994,,,,,137 147,neck _spun,137,147
+Chaninawa-93_neck-1,,Chaninawa,93_neck,tɨsto,tɨsto,t ɨ + s t o,,zariquiey2017,,,,,137 148,neck _sto,137,148
+Kakataibo-93_neck-1,,Kakataibo,93_neck,tɨʂa,tɨʂa,t ɨ + ʂ a,,zariquiey2017,,,,,137 149,neck _ʂa,137,149
+Matis-93_neck-1,,Matis,93_neck,tɨtun,tɨtun,t ɨ + t u n,,fleck2005,,,,,137 150,neck _tun,137,150
+Chakobo-96_nose-1,,Chakobo,96_nose,rɨʂaki,rɨʂaki,r ɨ + ʂ a k i,,zingg1998,,,,,151 152,nose _ʂaki,151,152
+Marubo-96_nose-1,,Marubo,96_nose,rɨkin,rɨkin,r ɨ + k i n,,fleck2005,,,,,151 153,nose _kin,151,153
+Katukina-96_nose-1,,Katukina,96_nose,renkin,renkin,r ɨ + k i n,,aguiar1994,,,,,151 153,nose _kin,151,153
+Kanamari-96_nose-1,,Kanamari,96_nose,rɨkĩ,rɨkĩ,r ɨ + k ĩ,,aguiar1994,,,,,151 153,nose _kin,151,153
+Shipibo_Konibo-96_nose-1,,Shipibo_Konibo,96_nose,rɨkin,rɨkin,r ɨ + k i n,,fleck2005,,,,,151 153,nose _kin,151,153
+Kapanawa-96_nose-1,,Kapanawa,96_nose,rɨkin,rɨkin,r ɨ + k i n,,loos1998,,,,,151 153,nose _kin,151,153
+AraraShawa-96_nose-1,,AraraShawa,96_nose,rĩkĩ,rĩkĩ,r ĩ + k ĩ,,cunha1993,,,,,151 153,nose _kin,151,153
+Shanenawa-96_nose-1,,Shanenawa,96_nose,rɨkin,rɨkin,r ɨ + k i n,,lanes2005,,,,,151 153,nose _kin,151,153
+Yawanawa-96_nose-1,,Yawanawa,96_nose,rɨkin,rɨkin,r ɨ + k i n,,paula1992,,,,,151 153,nose _kin,151,153
+Nukini-96_nose-1,,Nukini,96_nose,rɨ̃kɨ̃,rɨ̃kɨ̃,r ɨ̃ + k ɨ̃,,aguiar2004,,,,,151 153,nose _kin,151,153
+Poyanawa-96_nose-1,,Poyanawa,96_nose,rɨnkĩ,rɨnkĩ,r ɨ + k ĩ,,paula1992,,,,,151 153,nose _kin,151,153
+Iskonawa-96_nose-1,,Iskonawa,96_nose,ɾɨnkĩ,ɾɨnkĩ,ɾ ɨ + k ĩ,,zariquiey2017,,,,,151 153,nose _kin,151,153
+Pakawara-96_nose-1,,Pakawara,96_nose,rɨkina,rɨkina,r ɨ + k i n a,,key2000,,,,,151 153,nose _kin,151,153
+Kakataibo-96_nose-1,,Kakataibo,96_nose,rɨkin,rɨkin,r ɨ + k i n,,zariquiey2017,,,,,151 153,nose _kin,151,153
+Kaxarari-96_nose-1,,Kaxarari,96_nose,tʃɨkani,tʃɨkani,r ɨ + k a n i,,couto2005,,,,,151 153,nose _kani,151,153
+Chaninawa-96_nose-1,,Chaninawa,96_nose,ɾɨki,ɾɨki,ɾ ɨ + k i,,zariquiey2017,,,,,151 153,nose _kin,151,153
+Amawaka-96_nose-1,,Amawaka,96_nose,ɾɨ(n)kin,ɾɨkin,ɾ ɨ + k i n,,zariquiey2017,,,,,151 153,nose _kin,151,153
+Kashinawa_P-96_nose-1,,Kashinawa_P,96_nose,dɨki,dɨki,d ɨ + k i,,zariquiey2017,,,,,151 153,nose _kin,151,153
+Kashinawa_P-96_nose-2,,Kashinawa_P,96_nose,ɾɨki,ɾɨki,ɾ ɨ + k i,,zariquiey2017,,,,,151 153,nose _kin,151,153
+Kashinawa_B-96_nose-1,,Kashinawa_B,96_nose,dɨkĩ,dɨkĩ,d ɨ + k ĩ,,camargo1995,,,,,151 153,nose _kin,151,153
+Mastanawa-96_nose-1,,Mastanawa,96_nose,ɾɨʧuʔu,ɾɨʧuʔu,ɾ ɨ + tʃ u ʔ u,,zariquiey2017,,,,,151 154,nose _ʧuku,151,154
+Sharanawa-96_nose-1,,Sharanawa,96_nose,ɾɨt͡ʃuku,ɾɨt͡ʃuku,ɾ ɨ + tʃ u k u,,zariquiey2017,,,,,151 154,nose _ʧuku,151,154
+Marinawa-96_nose-1,,Marinawa,96_nose,ɾɨʧuku,ɾɨʧuku,ɾ ɨ + tʃ u k u,,zariquiey2017,,,,,151 154,nose _ʧuku,151,154
+Yaminawa-96_nose-1,,Yaminawa,96_nose,ɾɨʧuʔu,ɾɨʧuʔu,ɾ ɨ + tʃ u ʔ u,,zariquiey2017,,,,,151 154,nose _ʧuku,151,154
+Matis-96_nose-1,,Matis,96_nose,dɨʂan,dɨʂan,d ɨ + ʂ a n,,fleck2005,,,,,151 155,nose _san,151,155
+Nawa-96_nose-1,,Nawa,96_nose,ɾɨʧa,ɾɨʧa,ɾ ɨ + tʃ a,,zariquiey2017,,,,,151 156,nose _ʧa,151,156
+Matses-96_nose-1,,Matses,96_nose,dɨβiate,dɨβiate,d ɨ + β i a t e,,fleck2005,,,,,151 157,nose _biate,0,157
+Iskonawa-123_skinofperson-1,,Iskonawa,123_skinofperson,haka,haka,h a k a,,zariquiey2017,,,,,1062,ʂaka,1062,0
+Kakataibo-123_skinofperson-1,,Kakataibo,123_skinofperson,ʂaka,ʂaka,ʂ a k a,,zariquiey2017,,,,,1062,ʂaka,1062,0
+Amawaka-123_skinofperson-1,,Amawaka,123_skinofperson,punj̃ã,çaka,ç a k a,,zariquiey2017,,,,,1062,ʂaka,1062,0
+Matses-123_skinofperson-1,,Matses,123_skinofperson,βitsi,βitsi,β i ts i,,fleck2005,,,,,1063,βitsi,1063,0
+Matis-123_skinofperson-1,,Matis,123_skinofperson,βidtsi,βidtsi,β i ts i,,fleck2005,,,,,1063,βitsi,1063,0
+Katukina-123_skinofperson-1,,Katukina,123_skinofperson,wixiβi,wixiβi,w i ʂ i β i,,aguiar1994,,,,,1063,βitsi,1063,0
+Shipibo_Konibo-123_skinofperson-1,,Shipibo_Konibo,123_skinofperson,βitʃi,βitʃi,β i tʃ i,,fleck2005,,,,,1063,βitsi,1063,0
+Kapanawa-123_skinofperson-1,,Kapanawa,123_skinofperson,βitʃi,βitʃi,β i tʃ i,,loos1998,,,,,1063,βitsi,1063,0
+AraraShawa-123_skinofperson-1,,AraraShawa,123_skinofperson,βitʃi,βitʃi,β i + tʃ i,,cunha1993,,,,,1063,βitsi,1063,0
+Shanenawa-123_skinofperson-1,,Shanenawa,123_skinofperson,ɸitʃi,ɸitʃi,ɸ i tʃ i,,lanes2005,,,,,1063,βitsi,1063,0
+Yawanawa-123_skinofperson-1,,Yawanawa,123_skinofperson,βitʃi,βitʃi,β i tʃ i,,paula1992,,,,,1063,βitsi,1063,0
+Nukini-123_skinofperson-1,,Nukini,123_skinofperson,βiʃi,βiʃi,β i + ʃ i,,aguiar2004,,,,,1063,βitsi,1063,0
+Iskonawa-123_skinofperson-2,,Iskonawa,123_skinofperson,βiʧi,βiʧi,β i tʃ i,,zariquiey2017,,,,,1063,βitsi,1063,0
+Chakobo-123_skinofperson-1,,Chakobo,123_skinofperson,βitʃi,βitʃi,β i tʃ i,,zingg1998,,,,,1063,βitsi,1063,0
+Pakawara-123_skinofperson-1,,Pakawara,123_skinofperson,witʃi,witʃi,w i tʃ i,,key2000,,,,,1063,βitsi,1063,0
+Kaxarari-123_skinofperson-1,,Kaxarari,123_skinofperson,witʃi,witʃi,w i tʃ i,,couto2005,,,,,1063,βitsi,1063,0
+Mastanawa-123_skinofperson-1,,Mastanawa,123_skinofperson,ɸiʧi,ɸiʧi,ɸ i tʃ i,,zariquiey2017,,,,,1063,βitsi,1063,0
+Chaninawa-123_skinofperson-1,,Chaninawa,123_skinofperson,ɸit͡ʃi,ɸit͡ʃi,ɸ i tʃ i,,zariquiey2017,,,,,1063,βitsi,1063,0
+Sharanawa-123_skinofperson-1,,Sharanawa,123_skinofperson,ɸit͡ʃi,ɸit͡ʃi,ɸ i tʃ i,,zariquiey2017,,,,,1063,βitsi,1063,0
+Nawa-123_skinofperson-1,,Nawa,123_skinofperson,ɸiʧi,ɸiʧi,ɸ i tʃ i,,zariquiey2017,,,,,1063,βitsi,1063,0
+Marinawa-123_skinofperson-1,,Marinawa,123_skinofperson,ɸiʧi,ɸiʧi,ɸ i tʃ i,,zariquiey2017,,,,,1063,βitsi,1063,0
+Yaminawa-123_skinofperson-1,,Yaminawa,123_skinofperson,ɸiʧi,ɸiʧi,ɸ i tʃ i,,zariquiey2017,,,,,1063,βitsi,1063,0
+Kashinawa_P-123_skinofperson-1,,Kashinawa_P,123_skinofperson,βiʧi,βiʧi,β i tʃ i,,zariquiey2017,,,,,1063,βitsi,1063,0
+Kashinawa_B-123_skinofperson-1,,Kashinawa_B,123_skinofperson,βitʃi,βitʃi,β i tʃ i,,camargo1995,,,,,1063,βitsi,1063,0
+Marubo-123_skinofperson-1,,Marubo,123_skinofperson,ɨʂpi,ɨʂpi,ɨ ʂ p i,,fleck2005,,,,,1065,ɨʂpi,1065,0
+Yaminawa-145_tail-1,,Yaminawa,145_tail,tɨdɨ,tɨdɨ,t ɨ d ɨ,,zariquiey2017,,,,,168,tɨdɨ,168,0
+Poyanawa-145_tail-1,,Poyanawa,145_tail,βãti,βãti,β ã t i,,paula1992,,,,,169,bati,169,0
+Matses-145_tail-1,,Matses,145_tail,inkuente,inkuente,i n + k u e n t e,,fleck2005,,,,,160 163,tail _kuente,160,163
+Matis-145_tail-1,,Matis,145_tail,ina,ina,i n + a,,fleck2005,,,,,160 6,tail _a,160,6
+Marubo-145_tail-1,,Marubo,145_tail,ina,ina,i n + a,,fleck2005,,,,,160 6,tail _a,160,6
+Kanamari-145_tail-1,,Kanamari,145_tail,hina,hina,h i n + a,,aguiar1994,,,,,160 6,tail _a,160,6
+Shipibo_Konibo-145_tail-1,,Shipibo_Konibo,145_tail,hina,hina,h i n + a,,fleck2005,,,,,160 6,tail _a,160,6
+Kapanawa-145_tail-1,,Kapanawa,145_tail,hina,hina,h i n + a,,loos1998,,,,,160 6,tail _a,160,6
+AraraShawa-145_tail-1,,AraraShawa,145_tail,inda,inda,i ⁿd + a,,cunha1993,,,,,160 6,tail _a,160,6
+Shanenawa-145_tail-1,,Shanenawa,145_tail,ina,ina,i n + a,,lanes2005,,,,,160 6,tail _a,160,6
+Yawanawa-145_tail-1,,Yawanawa,145_tail,ina,ina,i n + a,,paula1992,,,,,160 6,tail _a,160,6
+Iskonawa-145_tail-1,,Iskonawa,145_tail,ina,ina,i n + a,,zariquiey2017,,,,,160 6,tail _a,160,6
+Chakobo-145_tail-1,,Chakobo,145_tail,hina,hina,h i n + a,,zingg1998,,,,,160 6,tail _a,160,6
+Kakataibo-145_tail-1,,Kakataibo,145_tail,ina,ina,i n + a,,zariquiey2017,,,,,160 6,tail _a,160,6
+Mastanawa-145_tail-1,,Mastanawa,145_tail,ida,ida,i d + a,,zariquiey2017,,,,,160 6,tail _a,160,6
+Chaninawa-145_tail-1,,Chaninawa,145_tail,ida,ida,i d + a,,zariquiey2017,,,,,160 6,tail _a,160,6
+Sharanawa-145_tail-1,,Sharanawa,145_tail,i:da,i:da,iː d + a,,zariquiey2017,,,,,160 6,tail _a,160,6
+Amawaka-145_tail-1,,Amawaka,145_tail,hinda,hinda,h i ⁿd + a,,zariquiey2017,,,,,160 6,tail _a,160,6
+Marinawa-145_tail-1,,Marinawa,145_tail,inda,inda,i ⁿd + a,,zariquiey2017,,,,,160 6,tail _a,160,6
+Kashinawa_P-145_tail-1,,Kashinawa_P,145_tail,hina,hina,h i n + a,,zariquiey2017,,,,,160 6,tail _a,160,6
+Kashinawa_B-145_tail-1,,Kashinawa_B,145_tail,hina,hina,h i n + a,,camargo1995,,,,,160 6,tail _a,160,6
+Nawa-145_tail-1,,Nawa,145_tail,ʦimaʂa,ʦimaʂa,ts i + m a ʂ a,,zariquiey2017,,,,,161 165,buttock _masa,0,165
+Kaxarari-145_tail-1,,Kaxarari,145_tail,tʃina,tʃina,tʃ i n + a,,couto2005,,,,,164 6,tʃin _a,0,6
+Matses-154_tongue-1,,Matses,154_tongue,ana,ana,a n + a,,fleck2005,,,,,166 6,mouth/tongue _a,166,6
+Matis-154_tongue-1,,Matis,154_tongue,ana,ana,a n + a,,fleck2005,,,,,166 6,mouth/tongue _a,166,6
+Katukina-154_tongue-1,,Katukina,154_tongue,ana,ana,a n + a,,aguiar1994,,,,,166 6,mouth/tongue _a,166,6
+Kanamari-154_tongue-1,,Kanamari,154_tongue,hana,hana,h a n + a,,aguiar1994,,,,,166 6,mouth/tongue _a,166,6
+Shipibo_Konibo-154_tongue-1,,Shipibo_Konibo,154_tongue,hana,hana,h a n + a,,fleck2005,,,,,166 6,mouth/tongue _a,166,6
+Kapanawa-154_tongue-1,,Kapanawa,154_tongue,hana,hana,h a n + a,,loos1998,,,,,166 6,mouth/tongue _a,166,6
+AraraShawa-154_tongue-1,,AraraShawa,154_tongue,ãda,ãda,ã d + a,,cunha1993,,,,,166 6,mouth/tongue _a,166,6
+Shanenawa-154_tongue-1,,Shanenawa,154_tongue,ana,ana,a n + a,,lanes2005,,,,,166 6,mouth/tongue _a,166,6
+Yawanawa-154_tongue-1,,Yawanawa,154_tongue,ana,ana,a n + a,,paula1992,,,,,166 6,mouth/tongue _a,166,6
+Nukini-154_tongue-1,,Nukini,154_tongue,anã,anã,a n + a,,aguiar2004,,,,,166 6,mouth/tongue _a,166,6
+Poyanawa-154_tongue-1,,Poyanawa,154_tongue,anda,anda,a ⁿd + a,,paula1992,,,,,166 6,mouth/tongue _a,166,6
+Iskonawa-154_tongue-1,,Iskonawa,154_tongue,ana,ana,a n + a,,zariquiey2017,,,,,166 6,mouth/tongue _a,166,6
+Chakobo-154_tongue-1,,Chakobo,154_tongue,hana,hana,h a n + a,,zingg1998,,,,,166 6,mouth/tongue _a,166,6
+Pakawara-154_tongue-1,,Pakawara,154_tongue,hana,hana,h a n + a,,key2000,,,,,166 6,mouth/tongue _a,166,6
+Kakataibo-154_tongue-1,,Kakataibo,154_tongue,ana,ana,a n + a,,zariquiey2017,,,,,166 6,mouth/tongue _a,166,6
+Kaxarari-154_tongue-1,,Kaxarari,154_tongue,hana,hana,h a n + a,,couto2005,,,,,166 6,mouth/tongue _a,166,6
+Mastanawa-154_tongue-1,,Mastanawa,154_tongue,ada,ada,a d + a,,zariquiey2017,,,,,166 6,mouth/tongue _a,166,6
+Chaninawa-154_tongue-1,,Chaninawa,154_tongue,a:da,a:da,a d + a,,zariquiey2017,,,,,166 6,mouth/tongue _a,166,6
+Sharanawa-154_tongue-1,,Sharanawa,154_tongue,ada,ada,a d + a,,zariquiey2017,,,,,166 6,mouth/tongue _a,166,6
+Amawaka-154_tongue-1,,Amawaka,154_tongue,handa,handa,h a ⁿd + a,,zariquiey2017,,,,,166 6,mouth/tongue _a,166,6
+Nawa-154_tongue-1,,Nawa,154_tongue,a:da,a:da,a d + a,,zariquiey2017,,,,,166 6,mouth/tongue _a,166,6
+Marinawa-154_tongue-1,,Marinawa,154_tongue,anda,anda,a ⁿd + a,,zariquiey2017,,,,,166 6,mouth/tongue _a,166,6
+Yaminawa-154_tongue-1,,Yaminawa,154_tongue,ada,ada,a d + a,,zariquiey2017,,,,,166 6,mouth/tongue _a,166,6
+Kashinawa_P-154_tongue-1,,Kashinawa_P,154_tongue,hana,hana,h a n + a,,zariquiey2017,,,,,166 6,mouth/tongue _a,166,6
+Kashinawa_B-154_tongue-1,,Kashinawa_B,154_tongue,hana,hana,h a n + a,,camargo1995,,,,,166 6,mouth/tongue _a,166,6
+Marubo-154_tongue-1,,Marubo,154_tongue,ana rɨβu,ana,a n + a,,fleck2005,,,,,166 6,mouth/tongue _a,166,6
+Mastanawa-155_toothfront-1,,Mastanawa,155_toothfront,piti,piti,p i + t i,,zariquiey2017,,,,,244 245,eat _ti,244,245
+Chaninawa-155_toothfront-1,,Chaninawa,155_toothfront,piti,piti,p i + t i,,zariquiey2017,,,,,244 245,eat _ti,244,245
+Sharanawa-155_toothfront-1,,Sharanawa,155_toothfront,piti,piti,p i + t i,,zariquiey2017,,,,,244 245,eat _ti,244,245
+Nawa-155_toothfront-1,,Nawa,155_toothfront,piti,piti,p i + t i,,zariquiey2017,,,,,244 245,eat _ti,244,245
+Yaminawa-155_toothfront-1,,Yaminawa,155_toothfront,piti,piti,p i + t i,,zariquiey2017,,,,,244 245,eat _ti,244,245
+Kashinawa_B-155_toothfront-1,,Kashinawa_B,155_toothfront,ʂɨtɨ,ʂɨtɨ,ʂ ɨ + t ɨ,,camargo1995,,,,,246 247,tooth _ta,246,247
+Matses-155_toothfront-1,,Matses,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,fleck2005,,,,,246 247,tooth _ta,246,247
+Matis-155_toothfront-1,,Matis,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,fleck2005,,,,,246 247,tooth _ta,246,247
+Marubo-155_toothfront-1,,Marubo,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,fleck2005,,,,,246 247,tooth _ta,246,247
+Katukina-155_toothfront-1,,Katukina,155_toothfront,xita,xita,ʂ i + t a,,aguiar1994,,,,,246 247,tooth _ta,246,247
+Kanamari-155_toothfront-1,,Kanamari,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,aguiar1994,,,,,246 247,tooth _ta,246,247
+Shipibo_Konibo-155_toothfront-1,,Shipibo_Konibo,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,fleck2005,,,,,246 247,tooth _ta,246,247
+Kapanawa-155_toothfront-1,,Kapanawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,loos1998,,,,,246 247,tooth _ta,246,247
+AraraShawa-155_toothfront-1,,AraraShawa,155_toothfront,ʃɨta,ʃɨta,ʃ ɨ + t a,,cunha1993,,,,,246 247,tooth _ta,246,247
+Shanenawa-155_toothfront-1,,Shanenawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,lanes2005,,,,,246 247,tooth _ta,246,247
+Yawanawa-155_toothfront-1,,Yawanawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,paula1992,,,,,246 247,tooth _ta,246,247
+Nukini-155_toothfront-1,,Nukini,155_toothfront,hita,hita,h i + t a,,aguiar2004,,,,,246 247,tooth _ta,246,247
+Iskonawa-155_toothfront-1,,Iskonawa,155_toothfront,hɨta,hɨta,h ɨ + t a,,zariquiey2017,,,,,246 247,tooth _ta,246,247
+Chakobo-155_toothfront-1,,Chakobo,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,zingg1998,,,,,246 247,tooth _ta,246,247
+Pakawara-155_toothfront-1,,Pakawara,155_toothfront,ʂɨna,ʂɨna,ʂ ɨ + n a,,key2000,,,,,246 247,tooth _ta,246,247
+Kakataibo-155_toothfront-1,,Kakataibo,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,zariquiey2017,,,,,246 247,tooth _ta,246,247
+Kaxarari-155_toothfront-1,,Kaxarari,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,couto2005,,,,,246 247,tooth _ta,246,247
+Mastanawa-155_toothfront-2,,Mastanawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,zariquiey2017,,,,,246 247,tooth _ta,246,247
+Amawaka-155_toothfront-1,,Amawaka,155_toothfront,çɨta,çɨta,ç ɨ + t a,,zariquiey2017,,,,,246 247,tooth _ta,246,247
+Nawa-155_toothfront-2,,Nawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,zariquiey2017,,,,,246 247,tooth _ta,246,247
+Marinawa-155_toothfront-1,,Marinawa,155_toothfront,ʂɨta,ʂɨta,ʂ ɨ + t a,,zariquiey2017,,,,,246 247,tooth _ta,246,247
+Kashinawa_P-155_toothfront-1,,Kashinawa_P,155_toothfront,ʃɨta,ʃɨta,ʃ ɨ + t a,,zariquiey2017,,,,,246 247,tooth _ta,246,247
+Matis-174_wing-1,,Matis,174_wing,pɨi,pɨi,p ɨ + i,,fleck2005,,,,,172 174,arm _i,172,174
+Marubo-174_wing-1,,Marubo,174_wing,pɨi,pɨi,p ɨ + i,,fleck2005,,,,,172 174,arm _i,172,174
+Kapanawa-174_wing-1,,Kapanawa,174_wing,pɨi,pɨi,p ɨ + i,,loos1998,,,,,172 174,arm _i,172,174
+Shanenawa-174_wing-1,,Shanenawa,174_wing,pɨj,pɨj,p ɨ + j/i,,lanes2005,,,,,172 174,arm _i,172,174
+Yawanawa-174_wing-1,,Yawanawa,174_wing,pɨj,pɨj,p ɨ + j/i,,paula1992,,,,,172 174,arm _i,172,174
+Iskonawa-174_wing-1,,Iskonawa,174_wing,pɨi,pɨi,p ɨ + i,,zariquiey2017,,,,,172 174,arm _i,172,174
+Chakobo-174_wing-1,,Chakobo,174_wing,pɨ?i,pɨʔi,p ɨ + ʔ i,,zingg1998,,,,,172 174,arm _i,172,174
+Kakataibo-174_wing-1,,Kakataibo,174_wing,pɨi,pɨi,p ɨ + i,,zariquiey2017,,,,,172 174,arm _i,172,174
+Amawaka-174_wing-1,,Amawaka,174_wing,pɨʔi,pɨʔi,p ɨ + ʔ i,,zariquiey2017,,,,,172 174,arm _i,172,174
+Kashinawa_P-174_wing-1,,Kashinawa_P,174_wing,pɨj,pɨj,p ɨ + j/i,,zariquiey2017,,,,,172 174,arm _i,172,174
+Kashinawa_B-174_wing-1,,Kashinawa_B,174_wing,pɨi,pɨi,p ɨ + i,,camargo1995,,,,,172 174,arm _i,172,174
+Shipibo_Konibo-174_wing-1,,Shipibo_Konibo,174_wing,pɨtʃi,pɨtʃi,p ɨ + tʃ i,,fleck2005,,,,,172 182,arm _tʃi,172,182
+Yaminawa-174_wing-1,,Yaminawa,174_wing,pɨta,pɨta,p ɨ + t a,,zariquiey2017,,,,,172 31,arm _ti,172,31
+AraraShawa-174_wing-1,,AraraShawa,174_wing,pɨtaw,pɨtaw,p ɨ + t a w,,cunha1993,,,,,172 31,arm _taw,172,31
+Chaninawa-174_wing-1,,Chaninawa,174_wing,pɨtau,pɨtau,p ɨ + t a u,,zariquiey2017,,,,,172 31,arm _taw,172,31
+Nawa-174_wing-1,,Nawa,174_wing,pɨtaw,pɨtaw,p ɨ + t a w,,zariquiey2017,,,,,172 31,arm _taw,172,31
+Marinawa-174_wing-1,,Marinawa,174_wing,pɨtaw,pɨtaw,p ɨ + t a w,,zariquiey2017,,,,,172 31,arm _taw,172,31
+Mastanawa-174_wing-1,,Mastanawa,174_wing,ampɨj,ampɨj,a m + p ɨ + i,,zariquiey2017,,,,,173 172 174,am arm _i,173,174
+Sharanawa-174_wing-1,,Sharanawa,174_wing,dujati,dujati,d u j a + t i,,zariquiey2017,,,,,175 176,flight _ti,175,0
+Kaxarari-174_wing-1,,Kaxarari,174_wing,patsasi,patsasi,p a ts a s i,,couto2005,,,,,178,patsasi,178,0
+Matses-174_wing-1,,Matses,174_wing,podo,podo,p o d o,,fleck2005,,,,,183,podo,183,0
